@@ -3,61 +3,78 @@
 <html>
 
 <head>
+	
 	<title>Riccardo Scandariato</title>
 	
 	<script src="jquery.js"></script>
+	
 	<script>
-	  $(function(){
-	    var includes = $('[data-include]');
-	    jQuery.each(includes, function(){
-	      var file = $(this).data('include') + '.html';
-	      $(this).load(file);
-	    });
-	  });
+		$(function(){
+			var includes = $('[data-include]');
+			jQuery.each(includes, function(){
+				var file = $(this).data('include') + '.html';
+				$(this).load(file);
+			});
+		});
+	</script>
+	  
+	<script>
+		$(function() {
+  			$(".but").on("click",function(e) {
+    			e.preventDefault();
+    			$("#content").load(this.id+".html");
+			});
+		});
 	</script>
 	
-<style type="text/css">
-#wrap {
-   width:80%;
-   margin-left: auto; 
-   margin-right: auto;
-   height:100%;
-}
-#left_col {
-   float:left;
-   width:20%;
-}
-#right_col {
-   float:right;
-   width:80%;
-}
-
-#nav {
-	   float:top;
-    padding-top: 10px;
-	margin-bottom: 600px;
-}
-</style>
-
+	<style type="text/css">
+		#wrap {
+			width:80%;
+			margin-left: auto; 
+			margin-right: auto;
+			height:100%;
+		}
+		img {
+		    max-width: 100%;
+		}
+		td {
+			vertical-align: top;
+		}
+		</style>
+		
 </head>
 
 <body>
 
-
-	
 <div id="wrap">
-	<h1>Riccardo Scandariato</h1>
+	<table>
+		<tr>
+			<td colspan="2">
+				<h1>Riccardo Scandariato</h1>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<div style="padding-top: 10px; padding-bottom:30px">
+					<a class="but" id="addteam" href=".">Home</a> |
+					<a href=".">Publications</a> |
+					<a href=".">Committees</a>
+				</div>
+			</td>
+		</tr>
 	
-	<div style="padding-top: 10px; padding-bottom:40px">
-	  <a href="/html/">Home</a> |
-	  <a href="/css/">Publications</a> |
-	  <a href="/js/">Committees</a>
-	</div>
-	
-    <div id="left_col" data-include="sidebar"></div>
 
-    <div id="right_col" data-include="home"></div>
+		<tr>
+			<td style="width: 20%">
+				<div data-include="sidebar"></div>
+			</td>
+			<td style="width: 80%">
+				<div style="padding-left: 30px" data-include="home"></div>
+			</td>
+		</tr>
+	</table>
 </div>
 
 </body>
+
 </html>
