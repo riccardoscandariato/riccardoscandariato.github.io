@@ -9,38 +9,45 @@
 	<script src="jquery.js"></script>
 	
 	<script>
-		$(function(){
-			var includes = $('[data-include]');
-			jQuery.each(includes, function(){
-				var file = $(this).data('include') + '.html';
-				$(this).load(file);
-			});
-		});
-	</script>
-	  
-	<script>
-		$(function() {
-  			$(".but").on("click",function(e) {
-    			e.preventDefault();
-    			$("#content").load(this.id+".html");
-			});
-		});
+		function getURLParameter(param)
+		{
+		    var url = window.location.href;
+		    getLocation("http://example.com/path");
+		   console.debug(l.hostname)
+		   >> "example.com"
+		   console.debug(l.pathname)
+		    var sURLVariables = url.split('&');
+		    for (var i = 0; i < sURLVariables.length; i++) 
+		    {
+		        var sParameterName = sURLVariables[i].split('=');
+		        if (sParameterName[0] == param) 
+		        {
+		            return sParameterName[1];
+		        }
+		    }
+			
+			return 'home'
+		}​
 	</script>
 	
 	<style type="text/css">
 		body {
 			background-color: rgb(240,240,240);
 		}
+		
 		h1, h2, h3 {
 			color: rgb(0,0,0);
 		}
+		
 		img {
 		    max-width: 100%;
 		}
+		
 		table {
 			border: 0px solid black;
 			border-spacing: 0px;
 		}
+		
 		hr {
 			border-width: 0.5px;
 			border-style: solid;
@@ -48,18 +55,19 @@
 			margin-left: -10px;
 			margin-right: -10px;
 		}
+		
 		/* unvisited link */
 		a:link {
 		    color: rgb(255, 0, 128);
 			text-decoration: none;
 		}
-
+		
 		/* visited link */
 		a:visited {
 		    color: rgb(255, 0, 128);
 			text-decoration: none;
 		}
-
+		
 		/* mouse over link */
 		a:hover {
 		    color: rgb(255, 0, 128);
@@ -71,6 +79,7 @@
 		    color: rgb(255, 0, 128);
 			text-decoration: none;
 		}
+		
 		/* main margins */
 		#wrap {
 			width:70%;
@@ -134,23 +143,35 @@
 		<tr>
 			<td id="navigation" colspan="2">
 				<div style="padding-bottom: 10px">
-					<a href=".">Home</a> 
+					<a href="/home">Home</a> 
 					<span style="padding-left:20px"/>
-					<a href=".">Publications</a> 
+					<a href="/pubs">Publications</a> 
 					<span style="padding-left:20px"/>
-					<a href=".">Committees</a>
+					<a href="/service">Committees</a>
 					<span style="padding-left:20px"/>
-					<a href=".">Empirical</a>
+					<a href="/empirical">Empirical</a>
 				</div>
 				<hr>
 			</td>
 		</tr>
 		<tr>
 			<td id="sidebar">
-				<div data-include="sidebar"></div>
+				<div id="sidebar-html">
+					<script>
+						$("#sidebar-html").load("sidebar.html");
+					</script>
+				</div>
 			</td>
 			<td id="content">
-				<div data-include="home"></div>
+				<div id="content-html">
+					<script>
+					    var url = window.location.href;
+						var parser = document.createElement('a');
+						parser.href = url;
+						document.write(parser.pathname);
+						//$("#content-html").load("home.html");
+					</script>
+				</div>
 			</td>
 		</tr>
 	</table>
