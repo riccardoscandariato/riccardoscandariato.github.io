@@ -28,10 +28,8 @@
 	</script>
 	
 	<style type="text/css">
-
 		body {
-			font-family: Arial, Helvetica, sans-serif;
-			color: rgb(95,95,95);
+			background-color: rgb(240,240,240);
 		}
 		h1, h2, h3 {
 			color: rgb(0,0,0);
@@ -39,42 +37,87 @@
 		img {
 		    max-width: 100%;
 		}
+		table {
+			border: 0px solid black;
+			border-spacing: 0px;
+		}
+		hr {
+			border-width: 0.5px;
+			border-style: solid;
+			border-color: rgb(240, 240, 240);
+			margin-left: -10px;
+			margin-right: -10px;
+		}
 		/* unvisited link */
 		a:link {
-		    color: hotpink;
+		    color: rgb(255, 0, 128);
 			text-decoration: none;
 		}
 
 		/* visited link */
 		a:visited {
-		    color: hotpink;
+		    color: rgb(255, 0, 128);
 			text-decoration: none;
 		}
 
 		/* mouse over link */
 		a:hover {
-		    color: hotpink;
+		    color: rgb(255, 0, 128);
 			text-decoration: none;
 		}
 
 		/* selected link */
 		a:active {
-		    color: hotpink;
+		    color: rgb(255, 0, 128);
 			text-decoration: none;
 		}
 		/* main margins */
 		#wrap {
-			width:80%;
+			width:70%;
 			margin-left: auto; 
 			margin-right: auto;
+			margin-bottom: 40px;
 			height:100%;
+			background-color: white;
+			padding-left: 60px;
+			padding-right: 60px;
+			padding-top: 0px;
+			padding-bottom: 40px;
+			line-height: 150%;
+			font-size: 11pt;
+			font-family: "Trebuchet MS", Geneva, sans-serif;
+			font-weight: 300;
+			color: rgb(95,95,95);
 		}
-		/* top bar links */
+		/* font-family: Arial, Helvetica, sans-serif; */
+		#header {
+			width:70%;
+			margin-left: auto; 
+			margin-right: auto;
+			margin-top: 50px;
+			padding-bottom: 10px;
+			background-color: rgb(240,240,240);
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 14pt;
+			color: rgb(95,95,95);
+		}
 		#navigation {
 			text-transform: uppercase;
 			font-size: small;
-			font-weight: bold;
-			padding-right: 10px;
+			font-weight: bold;			
+			padding-top: 30px; 
+			padding-bottom: 40px; 
+			margin-bottom: 10px;
+		}
+		#sidebar {
+			width: 20%;
+			vertical-align: top;
+			font-size: 10pt;
+		}
+		#content {
+			width: 80%; 
+			vertical-align: top;
+			padding-left: 50px
 		}
 		</style>
 		
@@ -82,30 +125,32 @@
 
 <body>
 
+<div id="header">
+	<h1>Riccardo Scandariato</h1>
+</div>
+
 <div id="wrap">
 	<table>
 		<tr>
-			<td colspan="2">
-				<h1>Riccardo Scandariato</h1>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-				<div style="padding-top: 10px; padding-bottom:20px; margin-bottom: 20px">
-					<a id="navigation" href=".">Home</a>
-					<a id="navigation" href=".">Publications</a>
-					<a id="navigation" href=".">Committees</a>
+			<td id="navigation" colspan="2">
+				<div style="padding-bottom: 10px">
+					<a href=".">Home</a> 
+					<span style="padding-left:20px"/>
+					<a href=".">Publications</a> 
+					<span style="padding-left:20px"/>
+					<a href=".">Committees</a>
+					<span style="padding-left:20px"/>
+					<a href=".">Empirical</a>
 				</div>
+				<hr>
 			</td>
 		</tr>
-	
-
 		<tr>
-			<td style="width: 20%; vertical-align: top">
+			<td id="sidebar">
 				<div data-include="sidebar"></div>
 			</td>
-			<td style="width: 80%; vertical-align: top">
-				<div style="padding-left: 30px" data-include="home"></div>
+			<td id="content">
+				<div data-include="home"></div>
 			</td>
 		</tr>
 	</table>
