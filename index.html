@@ -9,25 +9,21 @@
 	<script src="jquery.js"></script>
 	
 	<script>
-		function getURLParameter(param)
-		{
-		    var url = window.location.href;
-		    getLocation("http://example.com/path");
-		   console.debug(l.hostname)
-		   >> "example.com"
-		   console.debug(l.pathname)
-		    var sURLVariables = url.split('&');
-		    for (var i = 0; i < sURLVariables.length; i++) 
-		    {
-		        var sParameterName = sURLVariables[i].split('=');
-		        if (sParameterName[0] == param) 
-		        {
-		            return sParameterName[1];
-		        }
-		    }
+		function getUrlParam( prop ) {
+		    var params = {};
+		    var search = decodeURIComponent( window.location.href.slice( window.location.href.indexOf( '?' ) + 1 ) );
+		    var definitions = search.split( '&' );
+
+		    definitions.forEach( function( val, key ) {
+		        var parts = val.split( '=', 2 );
+		        params[ parts[ 0 ] ] = parts[ 1 ];
+		    } );
 			
-			return 'home'
-		}​
+			if ( prop in params )
+				return params[ prop ];
+			else
+				return null;
+		}
 	</script>
 	
 	<style type="text/css">
@@ -143,13 +139,13 @@
 		<tr>
 			<td id="navigation" colspan="2">
 				<div style="padding-bottom: 10px">
-					<a href="/home">Home</a> 
+					<a href="?p=home">Home</a> 
 					<span style="padding-left:20px"/>
-					<a href="/pubs">Publications</a> 
+					<a href="?p=pubs">Publications</a> 
 					<span style="padding-left:20px"/>
-					<a href="/service">Committees</a>
+					<a href="?p=service">Committees</a>
 					<span style="padding-left:20px"/>
-					<a href="/empirical">Empirical</a>
+					<a href="?p=empirical">Empirical</a>
 				</div>
 				<hr>
 			</td>
@@ -165,11 +161,25 @@
 			<td id="content">
 				<div id="content-html">
 					<script>
-					    var url = window.location.href;
-						var parser = document.createElement('a');
-						parser.href = url;
-						document.write(parser.pathname);
-						//$("#content-html").load("home.html");
+						var page = "";
+						
+						switch ( getUrlParam("p") ) {
+						    case "home":
+						        page = "home.html";
+						        break;
+						    case "pubs":
+						        page = "pubs.html";
+						        break;
+						    case "service":
+						        page = "service.html";
+						        break;
+						    case "empirical":
+						        page = "empirical.html";
+						        break;
+						    default:
+						        page = "home.html";
+						}
+						$("#content-html").load(page);
 					</script>
 				</div>
 			</td>
