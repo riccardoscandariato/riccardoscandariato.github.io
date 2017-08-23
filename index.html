@@ -11,7 +11,11 @@
 	<script>
 		function getUrlParam( prop ) {
 		    var params = {};
-		    var search = decodeURIComponent( window.location.href.slice( window.location.href.indexOf( '?' ) + 1 ) );
+		    var search = decodeURIComponent( 
+				window.location.href.slice( 
+					window.location.href.indexOf( '?' ) + 1 
+				) 
+			);
 		    var definitions = search.split( '&' );
 
 		    definitions.forEach( function( val, key ) {
@@ -37,7 +41,6 @@
 		
 		img {
 		    max-width: 100%;
-			width:auto;
 		}
 		
 		table {
