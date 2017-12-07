@@ -16,7 +16,7 @@ body {
  * Headings
  */
 h1 {
-    font-family: Pacifico;
+    font-family: $theme-font-family;
 	font-size: 36px;
 	padding-bottom: 15px;
 }
@@ -29,7 +29,7 @@ a {
     text-decoration: none;
     /*
     &:visited {
-        color: darken($brand-color, 15%); 
+        color: darken($theme-color, 15%); 
     }
     */
     &:hover {
@@ -37,10 +37,6 @@ a {
 		color: $theme-color-light; 
     }
 }
-
-
-
-
 
 /**
  * Blockquotes

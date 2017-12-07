@@ -1,6 +1,5 @@
 // Navigation Variables
-$breakpoint: 800px;
-$nav-height: 70px;
+$nav-height: 60px;
 $nav-background: $grey-color-dark;
 $nav-font-color: $grey-color-light;
 $nav-font-size: $bigger-font-size;
@@ -22,9 +21,11 @@ $link-hover-color: $theme-color;
 .brand {
   position: absolute;
   float: left;
+  padding:0;
+  margin:0;
   padding-left: 15px;
-  line-height: $nav-height;
-  font-family: Pacifico;
+  line-height: $nav-height - 7;
+  font-family: $theme-font-family;
   font-size: 1.4em;
   letter-spacing: 1px;
   color: $nav-font-color;
@@ -96,7 +97,8 @@ nav {
   height: $nav-height;
   width: $nav-height;
 }
-@media only screen and (max-width: 798px) {
+
+@media only screen and (max-width: $breakpoint) {
   // Hamburger nav visible on mobile only
   .nav-mobile {
     display: block;
@@ -118,11 +120,7 @@ nav {
     position: static;
   }
 }
-@media screen and (min-width: $breakpoint) {
-  .nav-list {
-    display: block !important;
-  }
-}
+
 #nav-toggle {
   position: absolute;
   left: 18px;

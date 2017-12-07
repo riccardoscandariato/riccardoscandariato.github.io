@@ -3,6 +3,8 @@
 ---
 @charset "utf-8";
 
+$breakpoint: 950px;
+
 /** Colors **********************************************/
 
 $grey-color:       #828282;
@@ -13,7 +15,15 @@ $background-color: white;
 
 $text-color:     black;
 
-$theme-color:       rgb(255, 0, 128);
+$pink:        rgb(255, 0, 128);
+$red:         #FF3636;
+$orange:      #F29105;
+$blue:        #2698BA;
+$green:       #11D68B;
+$grass_green: #B7D12A;
+$purple:      #B509AC;
+
+$theme-color:       $pink;
 $theme-color-light: lighten($theme-color, 15%);
 
 
@@ -26,8 +36,7 @@ $base-line-height:              1.6em;
 $smaller-font-size:             13px;
 $bigger-font-size:              16px;
 
-$brand-font-family:             'Pacifico';
-$brand-font-size:               38px;
+$theme-font-family:             'Pacifico';
 
 /** Misc **********************************************/
 

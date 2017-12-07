@@ -18,7 +18,7 @@ body {
  * Headings
  */
 h1 {
-  font-family: Pacifico;
+  font-family: "Pacifico";
   font-size: 36px;
   padding-bottom: 15px; }
 
@@ -30,7 +30,7 @@ a {
   text-decoration: none;
   /*
   &:visited {
-      color: darken($brand-color, 15%); 
+      color: darken($theme-color, 15%); 
   }
   */ }
   a:hover {
@@ -74,7 +74,7 @@ a {
 #display-on-mobile {
   display: none; }
 
-@media (max-width: 800px) {
+@media screen and (max-width: 950px) {
   #left-right-margins {
     width: 100%; }
 
@@ -88,7 +88,7 @@ a {
   #display-on-mobile {
     display: inline; } }
 .navigation {
-  height: 70px;
+  height: 60px;
   background: #212121;
   font-size: 16px;
   position: fixed;
@@ -100,9 +100,11 @@ a {
 .brand {
   position: absolute;
   float: left;
+  padding: 0;
+  margin: 0;
   padding-left: 15px;
-  line-height: 70px;
-  font-family: Pacifico;
+  line-height: 53px;
+  font-family: "Pacifico";
   font-size: 1.4em;
   letter-spacing: 1px;
   color: #bdbdbd; }
@@ -126,7 +128,7 @@ nav {
       nav ul li a:visited {
         display: block;
         padding: 0 20px;
-        line-height: 70px;
+        line-height: 60px;
         background: #212121;
         color: #bdbdbd;
         text-decoration: none; }
@@ -157,16 +159,16 @@ nav {
   top: 0;
   right: 0;
   background: #212121;
-  height: 70px;
-  width: 70px; }
+  height: 60px;
+  width: 60px; }
 
-@media only screen and (max-width: 798px) {
+@media only screen and (max-width: 950px) {
   .nav-mobile {
     display: block; }
 
   nav {
     width: 100%;
-    padding: 70px 0 15px; }
+    padding: 60px 0 15px; }
     nav ul {
       display: none; }
       nav ul li {
@@ -176,9 +178,6 @@ nav {
 
   .nav-dropdown {
     position: static; } }
-@media screen and (min-width: 800px) {
-  .nav-list {
-    display: block !important; } }
 #nav-toggle {
   position: absolute;
   left: 18px;

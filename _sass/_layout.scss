@@ -34,8 +34,7 @@ a {
 	display: none;
 }
 
-@media (max-width:800px) {
-
+@media screen and (max-width: $breakpoint) {
   #left-right-margins {
 	width: 100%;
   }
