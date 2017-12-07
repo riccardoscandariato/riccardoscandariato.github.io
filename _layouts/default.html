@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <script src="/js/jquery-3.2.1.min.js"></script>
+  
+  <link rel="stylesheet" href="/css/font-awesome.min.css" />
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet'>
+  
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110666219-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-110666219-1');
+  </script>
+</head>
+<body>
+
+
+<section class="navigation">
+<div id="left-right-margins">
+  <div class="nav-container">
+    <div class="brand">
+		Riccardo Scandariato
+    </div>
+    <nav>
+      <div class="nav-mobile"><a id="nav-toggle" href="#!"><span></span></a></div>
+      <ul class="nav-list">
+        <li>
+          <a href="{{ site.baseurl }}/"><i class="fa fa-coffee"></i> Home</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/pubs"><i class="fa fa-file-text"></i> Publications</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/service"><i class="fa fa-university"></i> Committees</a>
+        </li>
+        <li>
+          <a href="{{ site.baseurl }}/empirical"><i class="fa fa-area-chart"></i> Empirical</a>
+        </li>
+        <li id="display-on-mobile">
+          <a href="{{ site.baseurl }}/about"><i class="fa fa-address-card"></i> Contacts</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</div>
+</section>
+
+
+<div id="left-right-margins">
+	<div id="top-bottom-gap">
+		<div id="sidebar-wrapper">
+		  {% include sidebar.html %}
+		</div>
+	
+		<div id="page-content-wrapper">
+			<h1 style="margin-top:0px">{{ page.title }}</h1>
+		    {{ content }}
+			<br/>
+		</div>
+	</div>
+</div>
+
+<script>
+(function($) { // Begin jQuery
+  $(function() { // DOM ready
+    // If a link has a dropdown, add sub menu toggle.
+    $('nav ul li a:not(:only-child)').click(function(e) {
+      $(this).siblings('.nav-dropdown').toggle();
+      // Close one dropdown when selecting another
+      $('.nav-dropdown').not($(this).siblings()).hide();
+      e.stopPropagation();
+    });
+    // Clicking away from dropdown will remove the dropdown class
+    $('html').click(function() {
+      $('.nav-dropdown').hide();
+    });
+    // Toggle open and close nav styles on click
+    $('#nav-toggle').click(function() {
+      $('nav ul').slideToggle();
+    });
+    // Hamburger to X toggle
+    $('#nav-toggle').on('click', function() {
+      this.classList.toggle('active');
+    });
+  }); // end DOM ready
+})(jQuery); // end jQuery
+</script>
+
+</body>
+</html>

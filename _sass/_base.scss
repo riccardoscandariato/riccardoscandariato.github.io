@@ -1,0 +1,54 @@
+/**
+ * Basic styling
+ */
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+    line-height: $base-line-height;
+    font-weight: 100;
+    color: $text-color;
+    background-color: $background-color;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+/**
+ * Headings
+ */
+h1 {
+    font-family: Pacifico;
+	font-size: 32px;
+	padding-bottom: 15px;
+}
+
+/**
+ * Links
+ */
+a {
+    color: $theme-color;
+    text-decoration: none;
+    /*
+    &:visited {
+        color: darken($brand-color, 15%); 
+    }
+    */
+    &:hover {
+        text-decoration: none;
+		color: $theme-color-light; 
+    }
+}
+
+
+
+
+
+/**
+ * Blockquotes
+ */
+blockquote {
+    font-style: italic;
+	color: $text-color;
+	margin-left: 30px;
+    border-left: 10px solid $grey-color-light;
+    padding-left: $horizontal-spacing-unit / 2;
+}

@@ -1,0 +1,55 @@
+a {
+    color: $theme-color;
+    text-decoration: none;
+
+    &:hover {
+		color: $theme-color-light;
+		text-decoration: none;
+    }
+}
+
+#left-right-margins {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#top-bottom-gap {
+  padding-top: 120px;
+}
+	
+#sidebar-wrapper {
+  float: left;
+  width: 22%;
+}
+
+#page-content-wrapper {
+  float: right;
+  width: 70%;
+}
+
+/* Use a media query to add a break point at 800px: */
+
+#display-on-mobile {
+	display: none;
+}
+
+@media (max-width:800px) {
+
+  #left-right-margins {
+	width: 100%;
+  }
+	
+  #page-content-wrapper {
+    width: 100%;
+	float: left;
+  }
+  
+  #sidebar-wrapper {
+  	display:none;
+  }
+  
+  #display-on-mobile {
+	  display: inline;
+  }
+}
