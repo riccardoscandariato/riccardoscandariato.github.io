@@ -121,6 +121,12 @@ nav {
   }
 }
 
+@media screen and (min-width: $breakpoint) {
+  .nav-list {
+    display: block !important;
+  }
+}
+
 #nav-toggle {
   position: absolute;
   left: 18px;
