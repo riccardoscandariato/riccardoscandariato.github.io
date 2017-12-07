@@ -1,5 +1,5 @@
 // Navigation Variables
-$nav-height: 60px;
+$nav-height: 70px;
 $nav-background: $grey-color-dark;
 $nav-font-color: $grey-color-light;
 $nav-font-size: $bigger-font-size;
@@ -24,7 +24,7 @@ $link-hover-color: $theme-color;
   padding:0;
   margin:0;
   padding-left: 15px;
-  line-height: $nav-height - 7;
+  line-height: $nav-height;
   font-family: $theme-font-family;
   font-size: 1.4em;
   letter-spacing: 1px;
