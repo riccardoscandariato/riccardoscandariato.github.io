@@ -73,7 +73,7 @@ a {
 #display-on-mobile {
   display: none; }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 1000px) {
   #left-right-margins {
     width: 100%; }
 
@@ -160,7 +160,7 @@ nav {
   height: 70px;
   width: 70px; }
 
-@media only screen and (max-width: 950px) {
+@media only screen and (max-width: 1000px) {
   .nav-mobile {
     display: block; }
 
@@ -176,7 +176,7 @@ nav {
 
   .nav-dropdown {
     position: static; } }
-@media screen and (min-width: 950px) {
+@media screen and (min-width: 1000px) {
   .nav-list {
     display: block !important; } }
 #nav-toggle {
