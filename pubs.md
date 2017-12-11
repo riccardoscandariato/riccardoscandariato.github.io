@@ -41,8 +41,9 @@ This page contains the complete list of my publications. For additional bibliome
 
 <h2>Book chapters</h2>
 
-<p>B2) Koen Yskout, Kim Wuyts, Dimitri Van Landuyt, Riccardo Scandariato, Wouter Joosen, <b>Empirical research on security and privacy by design: What (not) to expect as a researcher or a reviewer</b>, in <i>Empirical Research for Software Security: Foundations and Experience</i>, Lotfi ben Othmane, Martin Gilje Jaatun, Edgar Weippl (Eds.), Taylor &amp; Francis Group</p>
-<p>B1) Riccardo Scandariato, Federica Paci, Le Minh Sang Tran, Katsiaryna Labunets, Koen Yskout, Fabio Massacci, Wouter Joosen, <b>Empirical Assessment of Security Requirements and Architecture: Lessons Learned</b>, in <i>Advances in Engineering Secure Future Internet Services and Systems</i>, Maritta Heisel, Wouter Joosen, Javier Lopez, Fabio Martinelli (Eds.), Springer LNCS 8431, 2014</p>
+<p>B2) Koen Yskout, Kim Wuyts, Dimitri Van Landuyt, Riccardo Scandariato, Wouter Joosen, <b>Empirical research on security and privacy by design: What (not) to expect as a researcher or a reviewer</b>, in <i>Empirical Research for Software Security: Foundations and Experience</i>, Lotfi ben Othmane, Martin Gilje Jaatun, Edgar Weippl (Eds.), CRC Press, ISBN 9781498776417, 2017</p>
+
+<p>B1) Riccardo Scandariato, Federica Paci, Le Minh Sang Tran, Katsiaryna Labunets, Koen Yskout, Fabio Massacci, Wouter Joosen, <b>Empirical Assessment of Security Requirements and Architecture: Lessons Learned</b>, in <i>Engineering Secure Future Internet Services and Systems</i>, Maritta Heisel, Wouter Joosen, Javier Lopez, Fabio Martinelli (Eds.), Springer, ISBN 9783319074528, 2014</p>
 
 
 <h2>As editor</h2>
