@@ -10,6 +10,7 @@ I am an Associate Editor of the <a href="http://www.igi-global.com/ijsse" rel="n
 <p>I am also involved (or have been involved) in the following events:</p>
 	
 <ul>
+	<li>PC Member of the European Conference on Software Architecture (ECSA 2018)</li>
 	<li>PC Member of the International Symposium on Engineering Secure Software and Systems (ESSoS 2018)</li>
 	<li>PC Member of the First International Workshop on Security Awareness from Design to Deployment (SEAD 2018)</li>
 	<li>PC Member of the International Workshop on Secure Software Engineering in DevOps and Agile Development (SECSE 2018)</li>
