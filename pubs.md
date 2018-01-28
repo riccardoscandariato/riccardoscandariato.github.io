@@ -59,6 +59,8 @@ This page contains the complete list of my publications. For additional bibliome
 
 <h2>Conference and workshop papers</h2>
 
+<p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <b>Generative Secure Design, Defined</b>, International Conference on Software Engineering (ICSE), 2018</p>
+
 <p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <b>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</b>, International Conference on Information Systems Security and Privacy (ICISSP), 2018</p>
 
 <p>C56) Katja Tuma, Riccardo Scandariato, Mathias Widman, Christian Sandberg, <b>Towards security threats that matter</b>, Workshop On The Security Of Industrial Control Systems &amp; Of Cyber-Physical Systems (CyberICPS), 2017</p>
