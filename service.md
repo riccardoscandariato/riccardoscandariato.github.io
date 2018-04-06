@@ -10,6 +10,7 @@ I am an Associate Editor of the <a href="http://www.igi-global.com/ijsse" rel="n
 <p>I am also involved (or have been involved) in the following events:</p>
 	
 <ul>
+	<li>PC Member of the International Conference on Software Engineering (ICSE 2019) Doctoral Symposium</li>
 	<li>PC Member of the European Conference on Software Architecture (ECSA 2018)</li>
 	<li>PC Member of the International Symposium on Engineering Secure Software and Systems (ESSoS 2018)</li>
 	<li>PC Member of the International Workshop on Evolving Security &amp; Privacy Requirements Engineering (ESPRE 2018)</li>

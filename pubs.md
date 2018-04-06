@@ -114,7 +114,7 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <p>C34) Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Yolande Berbers, Serge Demeyer, Wouter Joosen, <b>Maintainability Studies Investigating Aspect Preservation via Automation: Lessons Learned</b>, International Workshop onEmpirical Evaluation of Software Composition Techniques (ESCOT), Lancaster, UK, July 2011</p>
 
-<p>C33) Koen Buyens Riccardo Scandariato Wouter Joosen, <b>Composition of least privilege analysis results in software architectures</b>, International Workshop on Software Engineering for Secure Systems (SESS), Honolulu, Hawaii, USA, May 2011</p>
+<p>C33) Koen Buyens Riccardo Scandariato, Wouter Joosen, <b>Composition of least privilege analysis results in software architectures</b>, International Workshop on Software Engineering for Secure Systems (SESS), Honolulu, Hawaii, USA, May 2011</p>
 
 <p>C32) Koen Yskout, Olivier-Nathanael Ben David, Riccardo Scandariato, Benoit Baudry, <b>Requirements-driven runtime reconfiguration for security</b>, International Workshop on Eternal Systems (EternalS), Budapest, Hungary, May 2011</p>
 
