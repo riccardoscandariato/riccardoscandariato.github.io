@@ -66,7 +66,7 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <b>Generative Secure Design, Defined</b>, New Ideas and Emerging Results Track - International Conference on Software Engineering (ICSE NIER), 2018</p>
 
-<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <b>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</b>, International Conference on Information Systems Security and Privacy (ICISSP), 2018</p>
+<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <b>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</b>, International Conference on Information Systems Security and Privacy (ICISSP), 2018 (also presented as poster, which received the <b>Best Poster</b> award)</p>
 
 <p>C56) Katja Tuma, Riccardo Scandariato, Mathias Widman, Christian Sandberg, <b>Towards security threats that matter</b>, Workshop On The Security Of Industrial Control Systems &amp; Of Cyber-Physical Systems (CyberICPS), 2017</p>
 
