@@ -62,6 +62,8 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <h2>Conference and workshop papers</h2>
 
+<p>C60) Alexander van den Berghe, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <b>A Lingua Franca for Security by Design</b>, IEEE Secure Development Conference (SecDev), 2018
+	
 <p>C59) Thibaud Antignac, Riccardo Scandariato, Gerardo Schneider, <b>Privacy Compliance via Model Transformations</b>, International Workshop on Privacy Engineering (IWPE), 2018
 
 <p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <b>Generative Secure Design, Defined</b>, New Ideas and Emerging Results Track - International Conference on Software Engineering (ICSE NIER), 2018</p>
