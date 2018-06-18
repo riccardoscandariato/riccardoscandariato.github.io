@@ -5,7 +5,7 @@ title: Publications
 permalink: /pubs
 ---
 
-This page contains the complete list of my publications. For additional bibliometrics, please see my <a href="http://scholar.google.com/citations?user=xul68AwAAAAJ&amp;hl" target="_blank">Google Scholar</a> page.
+This page contains the complete list of my publications. For additional bibliometrics, please see my <a href="http://scholar.google.com/citations?user=xul68AwAAAAJ" target="_blank">Google Scholar</a> page.
 <!-- 
 and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Riccardo.html" target="_blank">DBLP list</a>.
 -->
