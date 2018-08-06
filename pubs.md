@@ -13,11 +13,11 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <h2>Journal papers</h2>
 
-<p>J15) Katja Tuma, Gul Calikli, Riccardo Scandariato, <b><a href="https://authors.elsevier.com/c/1XQ0QbKHowhru" target="_blank">Threat analysis of software systems: A systematic literature review</a></b>, Journal of Systems and Software, Volume 144, Pages 275-294, 2018</p>
+<p>J15) Katja Tuma, Gul Calikli, Riccardo Scandariato, <b>Threat analysis of software systems: A systematic literature review</b>, Journal of Systems and Software, Volume 144, Pages 275-294, 2018 <b><a href="https://authors.elsevier.com/c/1XQ0QbKHowhru" target="_blank">[read online]</a></b></p>
 
 <p>J14) Jeffrey Stuckman, James Walden, Riccardo Scandariato, <b>The Effect of Dimensionality Reduction on Software Vulnerability Prediction Models</b>, IEEE Transactions on Reliability, Volume 66, Issue 1, Pages 17-37, 2017 (impact factor: 1.934)</p>
 
-<p>J13) Alexander van den Berghe, Riccardo Scandariato, Koen Yskout, Wouter Joosen, <b>Design Notations for Secure Software: A Systematic Literature Review</b>, Journal of Software and Systems Modeling, Volume 16, Issue 3, Pages 809–831, 2017 (impact factor: 1.250) <a href="https://link.springer.com/epdf/10.1007/s10270-015-0486-9" target="_blank">[read online]</a></p>
+<p>J13) Alexander van den Berghe, Riccardo Scandariato, Koen Yskout, Wouter Joosen, <b>Design Notations for Secure Software: A Systematic Literature Review</b>, Journal of Software and Systems Modeling, Volume 16, Issue 3, Pages 809–831, 2017 (impact factor: 1.250) <b><a href="https://link.springer.com/epdf/10.1007/s10270-015-0486-9" target="_blank">[read online]</a><b></p>
 
 <p>J12) Riccardo Scandariato, Kim Wuyts, Wouter Joosen, <b>A descriptive study of Microsoft's threat modeling technique</b>, Requirements Engineering, Springer, Volume 20, Issue 2, Pages 163-180, 2015 (impact factor: 1.147)</p>
 
