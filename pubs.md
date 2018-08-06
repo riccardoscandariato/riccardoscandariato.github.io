@@ -13,8 +13,7 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <h2>Journal papers</h2>
 
-<p>J15) Katja Tuma, Gul Calikli, Riccardo Scandariato, <b>Threat analysis of software systems: A systematic literature review</b>, Journal of Systems and Software (to appear)</p>
-
+<p>J15) Katja Tuma, Gul Calikli, Riccardo Scandariato, <b><a href="https://authors.elsevier.com/c/1XQ0QbKHowhru" target="_blank">Threat analysis of software systems: A systematic literature review</a></b>, Journal of Systems and Software (to appear)</p>
 
 <p>J14) Jeffrey Stuckman, James Walden, Riccardo Scandariato, <b>The Effect of Dimensionality Reduction on Software Vulnerability Prediction Models</b>, IEEE Transactions on Reliability, Volume 66, Issue 1, Pages 17-37, 2017 (impact factor: 1.934)</p>
 
