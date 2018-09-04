@@ -10,6 +10,7 @@ I am an Associate Editor of the <a href="http://www.igi-global.com/ijsse" rel="n
 <p>I am also involved (or have been involved) in the following events:</p>
 	
 <ul>
+	<li>PC Member of the International Conference on Software Architecture (ICSA 2019)</li>
 	<li>PC Member of the International Conference on Software Engineering (ICSE 2019) Doctoral Symposium</li>
 	<li>PC Member of the Conference on Software Engineering Education and Training (CSEE&amp;T 2019)</li>
 	<li>PC Member of the European Conference on Software Architecture (ECSA 2018)</li>
