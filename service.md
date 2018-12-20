@@ -17,7 +17,7 @@ I am an Associate Editor of the <a href="http://www.igi-global.com/ijsse" rel="n
 	<li>PC Member of the International Conference on Software Engineering (ICSE 2019) Doctoral Symposium</li>
 	<li>PC Member of the International Conference on Software Engineering (ICSE 2019) Poster Track</li>
 	<li>PC Member of the International Workshop on Privacy Engineering (IWPE 2019)</li>
-	<li>Workshop Co-chair of the European Conference on Software Architecture (ECSA 2019)</li>	
+	<li>Workshop Co-chair of the European Conference on Software Architecture (ECSA 2019)</li>
 	<li>PC Member of the Conference on Software Engineering Education and Training (CSEE&amp;T 2019)</li>
 	<li>PC Member of the European Conference on Software Architecture (ECSA 2018)</li>
 	<li>PC Member of the International Symposium on Engineering Secure Software and Systems (ESSoS 2018)</li>
