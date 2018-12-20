@@ -11,13 +11,13 @@ I am an Associate Editor of the <a href="http://www.igi-global.com/ijsse" rel="n
 <p>I am a <a href="https://loop.frontiersin.org/people/185212/overview" target="_blank">Review Editor</a> for Computer and Network Security for <a href="https://www.frontiersin.org/journals/ict" target="_blank">Frontiers in ICT</a>. I am also involved (or have been involved) in the organization of the following events:</p>
 	
 <ul>
-	<li>International Workshop on Bots in Software Engineering (BotSE 2019)</li>
-	<li>PC Member of the International Conference on Software Architecture (ICSA 2019)</li>
 	<li>Track Organizer at the Euromicro Conference on Software Engineering and Advanced Applications (SEAA 2019)</li>
+	<li>Workshop Co-chair of the European Conference on Software Architecture (ECSA 2019)</li>
+	<li>PC Member of the International Conference on Software Architecture (ICSA 2019)</li>
 	<li>PC Member of the International Conference on Software Engineering (ICSE 2019) Doctoral Symposium</li>
 	<li>PC Member of the International Conference on Software Engineering (ICSE 2019) Poster Track</li>
+	<li>PC Member of the International Workshop on Bots in Software Engineering (BotSE 2019)</li>
 	<li>PC Member of the International Workshop on Privacy Engineering (IWPE 2019)</li>
-	<li>Workshop Co-chair of the European Conference on Software Architecture (ECSA 2019)</li>
 	<li>PC Member of the Conference on Software Engineering Education and Training (CSEE&amp;T 2019)</li>
 	<li>PC Member of the European Conference on Software Architecture (ECSA 2018)</li>
 	<li>PC Member of the International Symposium on Engineering Secure Software and Systems (ESSoS 2018)</li>
