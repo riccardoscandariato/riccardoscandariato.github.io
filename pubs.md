@@ -64,6 +64,8 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <h2>Conference and workshop papers</h2>
 
+<p>C61) Katja Tuma, Musard Balliu, Riccardo Scandariato, <b>Flaws in Flows: Unveiling Design Flaws via Information Flow Analysis</b>, International Conference on Software Architecture (ICSA), 2019
+
 <p>C61) Katja Tuma, Riccardo Scandariato, <b>Two Architectural Threat Analysis Techniques Compared</b>, European Conference on Software Architecture (ECSA), 2018
 	
 <p>C60) Alexander van den Berghe, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <b>A Lingua Franca for Security by Design</b>, IEEE Secure Development Conference (SecDev), 2018
