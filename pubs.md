@@ -64,7 +64,7 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <h2>Conference and workshop papers</h2>
 
-<p>Linda Erlenhov, Francisco Gomes de Oliveira Neto, Riccardo Scandariato, Philipp Leitner, <b>Current and Future Bots in Software Development</b>, First Workshop on Bots in Software Engineering, (BotSE @ICSE), 2019
+<p>C63) Linda Erlenhov, Francisco Gomes de Oliveira Neto, Riccardo Scandariato, Philipp Leitner, <b>Current and Future Bots in Software Development</b>, First Workshop on Bots in Software Engineering, (BotSE @ICSE), 2019
 
 <p>C62) Katja Tuma, Musard Balliu, Riccardo Scandariato, <b>Flaws in Flows: Unveiling Design Flaws via Information Flow Analysis</b>, International Conference on Software Architecture (ICSA), 2019
 
