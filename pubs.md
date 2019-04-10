@@ -100,7 +100,7 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <p>C46) Rakesh Rana, Miroslaw Staron, Christian Berger, Agneta Nilsson, Riccardo Scandariato, Alexandra Weilenmann, Martin Rydmark, <b>On the role of cross-disciplinary research and SSE in addressing the challenges of the digitalization of society</b>, IEEE International Conference on Software Engineering and Service Science (ICSESS), Beijing, China, September 2015</p>
 
-<p>C45) Phu Nguyen, Koen Yskout, Thomas Heyman, Jacques Klein, Riccardo Scandariato, Yves Le Traon, <b>Model-Driven Security based on A Unified System of Security Design Patterns</b>, International Conference on Model Driven Engineering Languages and Systems (MODELS), Ottawa, Canada, September 2015</p>
+<p>C45) Phu Nguyen, Koen Yskout, Thomas Heyman, Jacques Klein, Riccardo Scandariato, Yves Le Traon, <b>SoSPa: A system of Security design Patterns for systematically engineering secure systems</b>, International Conference on Model Driven Engineering Languages and Systems (MODELS), Ottawa, Canada, September 2015</p>
 
 <p>C44) Laurens Sion, Koen Yskout, Alexander van den Berghe, Riccardo Scandariato, Wouter Joosen, <b>MASC: Modelling Architectural Security Concerns</b>, International Workshop on Modeling in Software Engineering (MiSE), Florence, Italy, May 2015</p>
 
