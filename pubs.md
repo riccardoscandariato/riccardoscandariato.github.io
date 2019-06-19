@@ -53,6 +53,10 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <h2>As editor</h2>
 
+<!-- 
+<p>E5) Michael Felderer, Riccardo Scandariato, Exploring Security in Software Architecture and Design, IGI Global, 2019</p> 
+-->
+
 <p>E4) Martin Gilje Jaatun, Riccardo Scandariato, Lillian Røstad, <b>Special Issue of the International Journal of Secure Software Engineering</b>, Vol. 5, No. 2, April-June 2014</p>
 
 <p>E3) Jan Jürjens, Ben Livshits, Riccardo Scandariato, <b>Engineering Secure Software and Systems</b>, <a href="http://www.springer.com/computer/communication+networks/book/978-3-642-36562-1" target="_blank">Springer LNCS 7781</a>, 2013</p>

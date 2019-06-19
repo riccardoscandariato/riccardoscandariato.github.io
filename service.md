@@ -11,6 +11,7 @@ I am an Associate Editor of the <a href="http://www.igi-global.com/ijsse" rel="n
 <p>I am a <a href="https://loop.frontiersin.org/people/185212/overview" target="_blank">Review Editor</a> for Computer and Network Security for <a href="https://www.frontiersin.org/journals/ict" target="_blank">Frontiers in ICT</a>. I am also involved (or have been involved) in the organization of the following events:</p>
 
 <ul>
+	<li>PC Member of the Conference on Software Engineering Education and Training (CSEE&amp;T 2020)</li>
 	<li>Workshop Co-chair of the European Conference on Software Architecture (ECSA 2019)</li>
 	<li>PC Member of the International Conference on Software Architecture (ICSA 2019)</li>
 	<li>PC Member of the International Conference on Software Engineering (ICSE 2019) Doctoral Symposium</li>
