@@ -53,9 +53,7 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <h2>As editor</h2>
 
-<!-- 
 <p>E5) Michael Felderer, Riccardo Scandariato, Exploring Security in Software Architecture and Design, IGI Global, 2019</p> 
--->
 
 <p>E4) Martin Gilje Jaatun, Riccardo Scandariato, Lillian Røstad, <b>Special Issue of the International Journal of Secure Software Engineering</b>, Vol. 5, No. 2, April-June 2014</p>
 
@@ -68,15 +66,17 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <h2>Conference and workshop papers</h2>
 
-<p>C63) Linda Erlenhov, Francisco Gomes de Oliveira Neto, Riccardo Scandariato, Philipp Leitner, <b>Current and Future Bots in Software Development</b>, First Workshop on Bots in Software Engineering, (BotSE @ICSE), 2019
+<p>C64) Sven Peldszus, Katja Tuma, Daniel Strüber, Jan Jürjens, Riccardo Scandariato, <b>Secure Data-Flow Compliance Checks between Models and Code based on Automated Mappings</b>, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2019</p>
 
-<p>C62) Katja Tuma, Musard Balliu, Riccardo Scandariato, <b>Flaws in Flows: Unveiling Design Flaws via Information Flow Analysis</b>, International Conference on Software Architecture (ICSA), 2019
+<p>C63) Linda Erlenhov, Francisco Gomes de Oliveira Neto, Riccardo Scandariato, Philipp Leitner, <b>Current and Future Bots in Software Development</b>, First Workshop on Bots in Software Engineering, (BotSE @ICSE), 2019</p>
 
-<p>C61) Katja Tuma, Riccardo Scandariato, <b>Two Architectural Threat Analysis Techniques Compared</b>, European Conference on Software Architecture (ECSA), 2018
+<p>C62) Katja Tuma, Musard Balliu, Riccardo Scandariato, <b>Flaws in Flows: Unveiling Design Flaws via Information Flow Analysis</b>, International Conference on Software Architecture (ICSA), 2019</p>
+
+<p>C61) Katja Tuma, Riccardo Scandariato, <b>Two Architectural Threat Analysis Techniques Compared</b>, European Conference on Software Architecture (ECSA), 2018</p>
 	
-<p>C60) Alexander van den Berghe, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <b>A Lingua Franca for Security by Design</b>, IEEE Secure Development Conference (SecDev), 2018
+<p>C60) Alexander van den Berghe, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <b>A Lingua Franca for Security by Design</b>, IEEE Secure Development Conference (SecDev), 2018</p>
 	
-<p>C59) Thibaud Antignac, Riccardo Scandariato, Gerardo Schneider, <b>Privacy Compliance via Model Transformations</b>, International Workshop on Privacy Engineering (IWPE), 2018
+<p>C59) Thibaud Antignac, Riccardo Scandariato, Gerardo Schneider, <b>Privacy Compliance via Model Transformations</b>, International Workshop on Privacy Engineering (IWPE), 2018</p>
 
 <p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <b>Generative Secure Design, Defined</b>, New Ideas and Emerging Results Track - International Conference on Software Engineering (ICSE NIER), 2018</p>
 
