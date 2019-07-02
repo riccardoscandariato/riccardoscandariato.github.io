@@ -66,6 +66,8 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <h2>Conference and workshop papers</h2>
 
+<p>C65) Katja Tuma, Daniel Hosseini, Kyriakos Malamas, Riccardo Scandariato, <b>Inspection Guidelines to Identify Security Design Flaws</b>, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019</p>
+	
 <p>C64) Sven Peldszus, Katja Tuma, Daniel Strüber, Jan Jürjens, Riccardo Scandariato, <b>Secure Data-Flow Compliance Checks between Models and Code based on Automated Mappings</b>, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2019</p>
 
 <p>C63) Linda Erlenhov, Francisco Gomes de Oliveira Neto, Riccardo Scandariato, Philipp Leitner, <b>Current and Future Bots in Software Development</b>, First Workshop on Bots in Software Engineering, (BotSE @ICSE), 2019</p>
