@@ -32,7 +32,7 @@
 <body>
 
 
-<section class="navigation">
+<div class="navigation">
 <div id="left-right-margins">
   <div class="nav-container">
     <div class="brand">
@@ -50,9 +50,11 @@
         <li>
           <a href="/service"><i class="fas fa-users fa-fw"></i> Committees</a>
         </li>
-        <li>
+        <!--
+		><li>
           <a href="/empirical"><i class="fas fa-chart-area fa-fw"></i> Empirical</a>
-        </li>
+        </li> 
+	    -->
         <li id="display-on-mobile">
           <a href="/about"><i class="fas fa-address-card fa-fw"></i> Contacts</a>
         </li>
@@ -60,21 +62,24 @@
     </nav>
   </div>
 </div>
-</section>
+</div>
 
 
 <div id="left-right-margins">
 	<div id="top-bottom-gap">
 		<div id="sidebar-wrapper">
-		  <img width="100%" src="/assets/me.jpg"/>
+		  <img style="width: 100%;" src="/assets/me.jpg" alt="Riccardo Scandariato"/>
 
 <p>
-Software Engineering Division<br/>
-University of Gothenburg
+<i>
+Department of Computer Science and Engineering &mdash;
+University of Gothenburg and Chalmers University of Technology
+</i>
 </p>
 
 <p>
-To <b>contact me</b>, <a href="http://www.google.com/recaptcha/mailhide/d?k=01hmjGH1dzEaE1mlAzUKkArg==&amp;c=d7UimF29DxcTNS-RYhSevYbpxtCrvcywo_8XthLjFm8=" target="_blank">click here</a> to reveal my email address.
+My <b>email</b> address is:<br/>
+<a href="mailto:riccardo.scandariato@cse.gu.se" target="_blank">riccardo.scandariato@cse.gu.se</a>
 </p>
 
 <p>
@@ -97,13 +102,18 @@ Jupiter building, 4th floor, Room 408
 	
 		<div id="page-content-wrapper">
 			<h1 style="margin-top:0px">Publications</h1>
-		    <p>This page contains the complete list of my publications. For additional bibliometrics, please see my <a href="http://scholar.google.com/citations?user=xul68AwAAAAJ&amp;hl" target="_blank">Google Scholar</a> page and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Riccardo.html" target="_blank">DBLP list</a>.</p>
+		    <p>This page contains the complete list of my publications. For additional bibliometrics, please see my <a href="http://scholar.google.com/citations?user=xul68AwAAAAJ" target="_blank">Google Scholar</a> page.
+<!-- 
+and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Riccardo.html" target="_blank">DBLP list</a>.
+--></p>
 
 <h2>Journal papers</h2>
 
+<p>J15) Katja Tuma, Gul Calikli, Riccardo Scandariato, <b>Threat analysis of software systems: A systematic literature review</b>, Journal of Systems and Software, Volume 144, Pages 275-294, 2018 (impact factor: 2.278)</p>
+
 <p>J14) Jeffrey Stuckman, James Walden, Riccardo Scandariato, <b>The Effect of Dimensionality Reduction on Software Vulnerability Prediction Models</b>, IEEE Transactions on Reliability, Volume 66, Issue 1, Pages 17-37, 2017 (impact factor: 1.934)</p>
 
-<p>J13) Alexander van den Berghe, Riccardo Scandariato, Koen Yskout, Wouter Joosen, <b>Design Notations for Secure Software: A Systematic Literature Review</b>, Journal of Software and Systems Modeling, Volume 16, Issue 3, Pages 809–831, 2017 (impact factor: 1.250) <a href="https://link.springer.com/epdf/10.1007/s10270-015-0486-9" target="_blank">[read online]</a></p>
+<p>J13) Alexander van den Berghe, Riccardo Scandariato, Koen Yskout, Wouter Joosen, <b>Design Notations for Secure Software: A Systematic Literature Review</b>, Journal of Software and Systems Modeling, Volume 16, Issue 3, Pages 809–831, 2017 (impact factor: 1.250)</p>
 
 <p>J12) Riccardo Scandariato, Kim Wuyts, Wouter Joosen, <b>A descriptive study of Microsoft's threat modeling technique</b>, Requirements Engineering, Springer, Volume 20, Issue 2, Pages 163-180, 2015 (impact factor: 1.147)</p>
 
@@ -137,6 +147,8 @@ Jupiter building, 4th floor, Room 408
 
 <h2>As editor</h2>
 
+<p>E5) Michael Felderer, Riccardo Scandariato, Exploring Security in Software Architecture and Design, IGI Global, 2019</p>
+
 <p>E4) Martin Gilje Jaatun, Riccardo Scandariato, Lillian Røstad, <b>Special Issue of the International Journal of Secure Software Engineering</b>, Vol. 5, No. 2, April-June 2014</p>
 
 <p>E3) Jan Jürjens, Ben Livshits, Riccardo Scandariato, <b>Engineering Secure Software and Systems</b>, <a href="http://www.springer.com/computer/communication+networks/book/978-3-642-36562-1" target="_blank">Springer LNCS 7781</a>, 2013</p>
@@ -147,7 +159,23 @@ Jupiter building, 4th floor, Room 408
 
 <h2>Conference and workshop papers</h2>
 
-<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <b>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</b>, International Conference on Information Systems Security and Privacy (ICISSP), 2018</p>
+<p>C65) Katja Tuma, Daniel Hosseini, Kyriakos Malamas, Riccardo Scandariato, <b>Inspection Guidelines to Identify Security Design Flaws</b>, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019</p>
+
+<p>C64) Sven Peldszus, Katja Tuma, Daniel Strüber, Jan Jürjens, Riccardo Scandariato, <b>Secure Data-Flow Compliance Checks between Models and Code based on Automated Mappings</b>, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2019</p>
+
+<p>C63) Linda Erlenhov, Francisco Gomes de Oliveira Neto, Riccardo Scandariato, Philipp Leitner, <b>Current and Future Bots in Software Development</b>, First Workshop on Bots in Software Engineering, (BotSE @ICSE), 2019</p>
+
+<p>C62) Katja Tuma, Musard Balliu, Riccardo Scandariato, <b>Flaws in Flows: Unveiling Design Flaws via Information Flow Analysis</b>, International Conference on Software Architecture (ICSA), 2019</p>
+
+<p>C61) Katja Tuma, Riccardo Scandariato, <b>Two Architectural Threat Analysis Techniques Compared</b>, European Conference on Software Architecture (ECSA), 2018</p>
+
+<p>C60) Alexander van den Berghe, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <b>A Lingua Franca for Security by Design</b>, IEEE Secure Development Conference (SecDev), 2018</p>
+
+<p>C59) Thibaud Antignac, Riccardo Scandariato, Gerardo Schneider, <b>Privacy Compliance via Model Transformations</b>, International Workshop on Privacy Engineering (IWPE), 2018</p>
+
+<p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <b>Generative Secure Design, Defined</b>, New Ideas and Emerging Results Track - International Conference on Software Engineering (ICSE NIER), 2018</p>
+
+<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <b>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</b>, International Conference on Information Systems Security and Privacy (ICISSP), 2018 (also presented as poster, which received the <b>Best Poster</b> award)</p>
 
 <p>C56) Katja Tuma, Riccardo Scandariato, Mathias Widman, Christian Sandberg, <b>Towards security threats that matter</b>, Workshop On The Security Of Industrial Control Systems &amp; Of Cyber-Physical Systems (CyberICPS), 2017</p>
 
@@ -171,7 +199,7 @@ Jupiter building, 4th floor, Room 408
 
 <p>C46) Rakesh Rana, Miroslaw Staron, Christian Berger, Agneta Nilsson, Riccardo Scandariato, Alexandra Weilenmann, Martin Rydmark, <b>On the role of cross-disciplinary research and SSE in addressing the challenges of the digitalization of society</b>, IEEE International Conference on Software Engineering and Service Science (ICSESS), Beijing, China, September 2015</p>
 
-<p>C45) Phu Nguyen, Koen Yskout, Thomas Heyman, Jacques Klein, Riccardo Scandariato, Yves Le Traon, <b>Model-Driven Security based on A Unified System of Security Design Patterns</b>, International Conference on Model Driven Engineering Languages and Systems (MODELS), Ottawa, Canada, September 2015</p>
+<p>C45) Phu Nguyen, Koen Yskout, Thomas Heyman, Jacques Klein, Riccardo Scandariato, Yves Le Traon, <b>SoSPa: A system of Security design Patterns for systematically engineering secure systems</b>, International Conference on Model Driven Engineering Languages and Systems (MODELS), Ottawa, Canada, September 2015</p>
 
 <p>C44) Laurens Sion, Koen Yskout, Alexander van den Berghe, Riccardo Scandariato, Wouter Joosen, <b>MASC: Modelling Architectural Security Concerns</b>, International Workshop on Modeling in Software Engineering (MiSE), Florence, Italy, May 2015</p>
 
@@ -195,7 +223,7 @@ Jupiter building, 4th floor, Room 408
 
 <p>C34) Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Yolande Berbers, Serge Demeyer, Wouter Joosen, <b>Maintainability Studies Investigating Aspect Preservation via Automation: Lessons Learned</b>, International Workshop onEmpirical Evaluation of Software Composition Techniques (ESCOT), Lancaster, UK, July 2011</p>
 
-<p>C33) Koen Buyens Riccardo Scandariato Wouter Joosen, <b>Composition of least privilege analysis results in software architectures</b>, International Workshop on Software Engineering for Secure Systems (SESS), Honolulu, Hawaii, USA, May 2011</p>
+<p>C33) Koen Buyens Riccardo Scandariato, Wouter Joosen, <b>Composition of least privilege analysis results in software architectures</b>, International Workshop on Software Engineering for Secure Systems (SESS), Honolulu, Hawaii, USA, May 2011</p>
 
 <p>C32) Koen Yskout, Olivier-Nathanael Ben David, Riccardo Scandariato, Benoit Baudry, <b>Requirements-driven runtime reconfiguration for security</b>, International Workshop on Eternal Systems (EternalS), Budapest, Hungary, May 2011</p>
 
