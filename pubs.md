@@ -67,6 +67,8 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 <h2>Conference and workshop papers</h2>
 
 
+<p>C67) Marvin Wyrich, Regina Hebig, Stefan Wagner, Riccardo Scandariato, <b>Perception and Acceptance of an Autonomous Refactoring Bot</b>, International Conference on Agents and Artificial Intelligence (ICAART), 2020</p>
+
 <p>C66) Laurens Sion, Katja Tuma, Riccardo Scandariato, Koen Yskout, Wouter Joosen, <b>Towards Automated Security Design Flaw Detection</b>, International Workshop on Software Security from Design to Deployment (SEAD), 2019</p>
 
 <p>C65) Katja Tuma, Daniel Hosseini, Kyriakos Malamas, Riccardo Scandariato, <b>Inspection Guidelines to Identify Security Design Flaws</b>, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019</p>
