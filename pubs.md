@@ -66,6 +66,7 @@ and my <a href="http://www.informatik.uni-trier.de/~ley/pers/hd/s/Scandariato:Ri
 
 <h2>Conference and workshop papers</h2>
 
+<p>C68) Stefan Carl Peiser, Ludwig Friborg, Riccardo Scandariato, <b>JavaScript malware detection using locality sensitive hashing</b>, International Conference on ICT Systems Security and Privacy Protection (IFIP SEC), 2020</p>
 
 <p>C67) Marvin Wyrich, Regina Hebig, Stefan Wagner, Riccardo Scandariato, <b>Perception and Acceptance of an Autonomous Refactoring Bot</b>, International Conference on Agents and Artificial Intelligence (ICAART), 2020</p>
 
