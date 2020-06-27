@@ -63,6 +63,8 @@ I am the co-author of <b>over 80 publications</b>. Below, you can find the compl
 
 <h2>Conference and workshop papers</h2>
 
+<p>C71) Thomas Rosenstatter, Kim Strandberg, Rodi Jolak, Riccardo Scandariato, Tomas Olovsson, <b>REMIND: A Framework for the Resilient Design of Automotive Systems</b>, IEEE Secure Development Conference (SecDev), 2020</p>
+
 <p>C70) Mazen Mohamad, Alexander Åström, Örjan Askerdal, Jörgen Borg, Riccardo Scandariato, <b>Security Assurance Cases for Road Vehicles: an Industry Perspective</b>, International Conference on Availability, Reliability and Security (ARES), 2020</p>
 
 <p>C69) Shamal Faily, Riccardo Scandariato, Adam Shostack, Laurens Sion, Duncan Ki-Aries, <b>Contextualisation of Data Flow Diagrams for security analysis</b>, International Workshop on Graphical Models for Security (GraMSec), 2020</p>
