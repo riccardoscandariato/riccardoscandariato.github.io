@@ -63,9 +63,6 @@ I am the co-author of <b>over 80 publications</b>. Below, you can find the compl
 
 <h2>Conference and workshop papers</h2>
 
-
-AUTHORS: 
-
 <p>C72) Katja Tuma, Laurens Sion, Riccardo Scandariato, Koen Yskout, <b>Automating the Early Detection of Security Design Flaws</b>, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020</p>
 
 <p>C71) Thomas Rosenstatter, Kim Strandberg, Rodi Jolak, Riccardo Scandariato, Tomas Olovsson, <b>REMIND: A Framework for the Resilient Design of Automotive Systems</b>, IEEE Secure Development Conference (SecDev), 2020</p>
