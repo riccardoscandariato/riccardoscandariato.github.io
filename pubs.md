@@ -5,9 +5,6 @@ title: Publications
 permalink: /pubs
 ---
 
-I am the co-author of <b>over 80 publications</b>. Below, you can find the complete list of my publications. For additional bibliometrics, please see my <a href="http://scholar.google.com/citations?user=xul68AwAAAAJ" target="_blank">Google Scholar</a> page.
-
-
 <h2>Journal papers</h2>
 
 <p>J15) Katja Tuma, Gul Calikli, Riccardo Scandariato, <b>Threat analysis of software systems: A systematic literature review</b>, Journal of Systems and Software, Volume 144, Pages 275-294, 2018 (impact factor: 2.278)</p>
