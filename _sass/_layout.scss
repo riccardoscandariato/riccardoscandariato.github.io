@@ -1,13 +1,3 @@
-a {
-    color: $theme-color;
-    text-decoration: none;
-
-    &:hover {
-		color: $theme-color-light;
-		text-decoration: none;
-    }
-}
-
 #left-right-margins {
   width: 80%;
   margin-left: auto;
@@ -36,12 +26,12 @@ a {
 
 @media screen and (max-width: $breakpoint) {
   #left-right-margins {
-	width: 100%;
+	  width: 100%;
   }
 	
   #page-content-wrapper {
     width: 100%;
-	float: left;
+	  float: left;
   }
   
   #sidebar-wrapper {

@@ -25,9 +25,11 @@ $link-hover-color: $theme-color;
   margin:0;
   padding-left: 15px;
   line-height: $nav-height;
+  //font-family: $alt-font-family;
   font-size: 1.4em;
-  letter-spacing: 1px;
+  letter-spacing: 0.3px;
   color: $nav-font-color;
+  font-weight: bold;
 }
 
 // Container with no padding for navbar

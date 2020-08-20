@@ -1,0 +1,53 @@
+---
+layout: default
+
+title: Welcome!
+---
+
+I'm a <b>professor of software engineering</b> at Department of Computer Science and Engineering, <a href="https://www.gu.se/english/about_the_university/staff/?languageId=100001&disableRedirect=true&returnUrl=http%3A%2F%2Fwww.gu.se%2Fomuniversitetet%2Fpersonal%2F%3FuserId%3Dxscari%26departmentId%3D107833&userId=xscari&departmentId=107833" target="_blank">University of Gothenburg</a> and <a href="https://www.chalmers.se/en/Staff/Pages/riccardo-scandariato.aspx" target="_blank">Chalmers University of Technology</a>, in Sweden. My main research interests are in the area of secure software engineering, with focus on:
+<ul>
+	<li><b>Privacy-by-design</b> and <b>security-by-design</b> (threat analysis, precise modeling and analysis of security &amp; privacy properties in software architecture)</li>
+	<li><b>Empirical methods for security</b> (controlled experiments and mining software repositories)</li>
+</ul>
+
+<p>I'm a father of two boys and spend my (limited) spare time <a href="http://www.scandariato.photo" target="_blank">taking photographs</a>.</p>
+
+
+<h2>Short bio</h2>
+
+<p>Prof. Riccardo Scandariato received his PhD in Computer Science in 2004 from Politecnico di Torino, Italy. In 2005, he was a post-doctoral researcher at Politecnico di Torino, with the Software Engineering research group. In 2006, he joined the DistriNet research group at KU Leuven, Belgium. 
+In 2014, he moved to Gothenburg (Sweden) and joined the department of Computer Science and Engineering, which is shared between the Chalmers University of Technology and the University of Gothenburg.</p>
+<p>Prof. Scandariato's main research interests are in the area of secure software engineering, with a particular focus on (i) privacy &amp; security by design and (ii) empirical methods for security. He has published over 80 papers in the area of security and software engineering. 
+He regularly participates to the Program Committees of several top-rated conferences in the area of security and software engineering.</p>
+
+
+<h2>Research team</h2>
+
+<p>Working with young researchers (particularly, PhD students) is one the perks of being a professor. It's something I truly enjoy and dedicate time to. In 2020, I've received a <b> honorable mention as Supervisor of the Year</b> at the Chalmers University of Technology, Sweden, a prize given by the association of the doctoral students. The motivation says: <blockquote>"His consideration, communication skills and knowledge come together in a very friendly and focussed approach to supervision."</blockquote></p> 
+
+<p>I have the privilege of working together with the following researchers:</p>
+
+<ul>
+<li><a href="https://sites.google.com/view/katja-tuma" target="_blank">Katja Tuma</a>, (PhD student) working on security threat assessment of automotive software</li>
+<li><a href="https://scholar.google.se/citations?user=UsHTVwkAAAAJ&hl=en" target="_blank">Mazen Mohamad</a>, (PhD student) working on security assurance cases for automotive</li>	
+<li><a href="https://cse.gu.se/om/interaktionsdesign/forskare/tomasz-kosinski" target="_blank">Tomasz Kosinski</a>, (PhD student) working on privacy of IoT</li>
+<li><a href="http://www.rodijolak.com" target="_blank">Rodi Jolak</a>, (PostDoc) working on resilience of automotive systems</li>
+</ul>
+
+
+<!--
+<h2>Teaching</h2>
+
+I created (and teach) a new project course (15 credits) on <strong>"production ML systems"</strong> for the <a href="https://cse.gu.se/english/education/se180credits" target="_blank">Bachelor program in Software Engineering and Management</a> at the University of Gothenburg. The course official title is "Software Engineering for Data-Intensive AI Applications (DIT824)".
+-->
+
+
+<h2>Former PhD students</h2>
+
+<ul>
+<li><a href="https://distrinet.cs.kuleuven.be/people/alex" target="_blank">Alexander van den Berghe</a>, <i>graduated in March 2020 (KU Leuven)</i>. SMILE: A Security-Centric, Formally-Founded Modelling Language for Humans</li>
+<li><a href="https://scholar.google.com/citations?user=Mt9ot9UAAAAJ&hl=en" target="_blank">Kim Wuyts</a>, <i>graduated in January 2014 (KU Leuven)</i>. Privacy Threats in Software Architectures</li>
+<li><a href="https://scholar.google.com/citations?user=I4SiG-IAAAAJ&hl=en" target="_blank">Thomas Heyman</a>, <i>graduated in March 2013 (KU Leuven)</i>. A formal analysis technique for secure software architectures</li>
+<li><a href="https://scholar.google.com/citations?user=xxSyH2UAAAAJ&hl=en" target="_blank">Koen Yskout</a>, <i>graduated in April 2013 (KU Leuven)</i>. Connecting security requirements and software architecture with patterns</li>
+<li><a href="https://scholar.google.com/citations?user=QhaG3XEAAAAJ&hl=en" target="_blank">Koen Buyens</a>, <i>graduated in January 2012 (KU Leuven, co-supervisor)</i>. Analyzing software architectures for least privilege violations</li>
+</ul>

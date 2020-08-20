@@ -1,8 +1,10 @@
 ---
 layout: default
 
-title: Contacts
+title: Contact me
 permalink: /about
 ---
 
-{% include sidebar.html %}
+{% include address.html %}
+
+{% include profile-pic.html %}
