@@ -5,7 +5,7 @@ title: Welcome!
 ---
 
 <div class="box">
-    <strong>I'm hiring!</strong> I have several positions available at both PhD and PostDoc level. If interested, please send me an email with your CV and a statement of why you want to get a PhD (with me).
+    <strong><i class="fas fa-anchor"></i> I'm hiring, come to Hamburg <i class="fas fa-anchor"></i></strong> I have several positions available at both PhD and PostDoc level. If interested, please send me an email with your CV and a statement of why you want to get a PhD (with me).
     </div>
 
 <p>I'm a full professor<sup><a href="#section1">1</a></sup> and the head of the <b>Institute of Secure Software</b> at the <a href="https://www.tuhh.de/alt/tuhh/startpage.html" target="_blank">Hamburg University of Technology (TUHH)</a>, in Germany. I also hold a part-time position as full professor of software engineering at the University of Gothenburg, in Sweden.</p>
