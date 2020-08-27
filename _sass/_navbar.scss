@@ -1,35 +1,34 @@
 // Navigation Variables
 $nav-height: 70px;
-$nav-background: $grey-color-dark;
-$nav-font-color: $grey-color-light;
+$nav-background: $theme-color;
+$nav-font-color: $theme-color-dark;
 $nav-font-size: $bigger-font-size;
-$link-hover-color: $theme-color;
+$link-hover-color: $theme-color-light;
 
 // Outer navigation wrapper
 .navigation {
   height: $nav-height;
   background: $nav-background;
   font-size: $nav-font-size;
-  position:fixed;
-  left:0px;
-  top:0px;
-  width:100%;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
   z-index: 50;
+  letter-spacing: 1px;
 }
 
 // Logo and branding
 .brand {
+  font-family: $alt-font-family;
+  font-size: 24px;
   position: absolute;
   float: left;
-  padding:0;
-  margin:0;
+  padding: 0;
+  margin: 0;
   padding-left: 15px;
   line-height: $nav-height;
-  //font-family: $alt-font-family;
-  font-size: 1.4em;
-  letter-spacing: 0.3px;
   color: $nav-font-color;
-  font-weight: bold;
 }
 
 // Container with no padding for navbar
@@ -60,7 +59,7 @@ nav {
         text-decoration: none;
         &:hover {
           background: $link-hover-color;
-          color: $grey-color-dark;
+          color: $theme-color-dark;
         }
         &:not(:only-child):after {
           padding-left: 4px;

@@ -7,36 +7,29 @@ $breakpoint: 1000px;
 
 /** Colors **********************************************/
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 23%);
-$grey-color-dark:  darken($grey-color, 38%);
+$strawberry:  rgb(255, 0, 128);
+$grass_green: #B7D12A;
+$teal:        #62C3CF;
 
 $background-color: white;
 
 $text-color:     black;
 
-$pink:        rgb(255, 0, 128);
-$red:         #FF3636;
-$orange:      #F29105;
-$blue:        #2698BA;
-$green:       #11D68B;
-$grass_green: #B7D12A;
-$purple:      #B509AC;
-
-$theme-color:       $pink;
+$theme-color:       $teal;
 $theme-color-light: lighten($theme-color, 15%);
-
+$theme-color-dark:  darken($theme-color, 40%);
 
 /** Font **********************************************/
 
-$base-font-family:              Raleway;
+$base-font-family:              'Nunito', sans-serif;
+
 $base-font-size:                15px;
 $base-line-height:              1.6em;
 
-$smaller-font-size:             13px;
-$bigger-font-size:              16px;
+$alt-font-family:               'Pangolin', cursive;
 
-$alt-font-family:               Stalemate;
+$smaller-font-size:             12px;
+$bigger-font-size:              16px;
 
 /** Misc **********************************************/
 

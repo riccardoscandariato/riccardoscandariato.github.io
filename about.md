@@ -5,10 +5,10 @@ title: Contact me
 permalink: /about
 ---
 
-You can <b>visit</b> me at:
+You are welcome to <b>visit</b> me at the:
 
 {% include address.html %}
 
-<p>And this is my <b>face</b>:</p>
+<p>And, on a good day, my <b>face</b> looks like this:</p>
 
 {% include profile-pic.html %}
