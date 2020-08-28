@@ -7,6 +7,7 @@ $link-hover-color: $theme-color-light;
 
 // Outer navigation wrapper
 .navigation {
+  font-family: $alt-font-family;
   height: $nav-height;
   background: $nav-background;
   font-size: $nav-font-size;
@@ -20,7 +21,7 @@ $link-hover-color: $theme-color-light;
 
 // Logo and branding
 .brand {
-  font-family: $alt-font-family;
+  //font-family: $alt-font-family;
   font-size: 24px;
   position: absolute;
   float: left;

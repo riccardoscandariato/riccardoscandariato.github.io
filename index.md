@@ -5,7 +5,7 @@ title: Welcome!
 ---
 
 <div class="box">
-    <strong><i class="fas fa-anchor"></i> I'm hiring, come to Hamburg <i class="fas fa-anchor"></i></strong> I have several positions available at both PhD and PostDoc level. If interested, please send me an email with your CV and a statement of why you want to get a PhD (with me).
+    <mark><i class="fas fa-anchor"></i> Wanna come to Hamburg? I'm hiring! <i class="fas fa-anchor"></i></mark> I have several positions available at both PhD and PostDoc level. If interested, please send me an email with your CV and a statement of why you want to get a PhD (with me).
     </div>
 
 <p>I'm a full professor<sup><a href="#section1">1</a></sup> and the head of the <b>Institute of Secure Software</b> at the <a href="https://www.tuhh.de/alt/tuhh/startpage.html" target="_blank">Hamburg University of Technology (TUHH)</a>, in Germany. I also hold a part-time position as full professor of software engineering at the University of Gothenburg, in Sweden.</p>
@@ -21,9 +21,9 @@ title: Welcome!
 <h2>Research interests</h2>
 
 <p>My work focuses on the design of secure applications, particularly in the realms of &mu;-services and IoT ecosystems. 
-My research goal is to build <b>round-trip security &amp; privacy engineering methods</b>, which are based on lightweight design models and connect the design models with the implementation code. 
+My research goal is to build <strong>round-trip security &amp; privacy engineering methods</strong>, which are based on lightweight design models and connect the design models with the implementation code. 
 In this research agenda, an important role is played by the use of ML/AI, as well as the adoption security-oriented intelligent agents.
-My work is also characterized by the systematic use of <b>empirical methods for security</b>, including controlled experiments and mining software repositories.
+My work is also characterized by the systematic use of <strong>empirical methods for security</strong>, including controlled experiments and mining software repositories.
 </p>
 
 
@@ -37,7 +37,7 @@ Since late 2020, I'm the head of the Institute of Secure Software at the <b>Hamb
 
 <h2>Supervision</h2>
 
-<p>Working with young researchers (particularly, PhD students) is one the perks of being a professor. It's something I truly enjoy and dedicate time to. In 2020, I've received a <b> honorable mention as Supervisor of the Year</b> at the Chalmers University of Technology, Sweden, a prize given by the association of the doctoral students. The motivation says: <blockquote>"His consideration, communication skills and knowledge come together in a very friendly and focussed approach to supervision."</blockquote></p> 
+<p>Working with young researchers (particularly, PhD students) is one the perks of being a professor. It's something I truly enjoy and dedicate time to. In 2020, I've received a <strong> honorable mention as Supervisor of the Year</strong> at the Chalmers University of Technology, Sweden, a prize given by the association of the doctoral students. The motivation says: <blockquote>"His consideration, communication skills and knowledge come together in a very friendly and focussed approach to supervision."</blockquote></p> 
 
 <p>In Sweden, I have the privilege of collaborating with the following researchers:</p>
 

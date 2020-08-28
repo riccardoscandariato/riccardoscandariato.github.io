@@ -5,7 +5,7 @@ title: Committees
 permalink: /committees
 ---
 
-<h2>2020</h2>
+<h3>2020</h3>
 
 <ul>
 <li>PC Member of the International Conference on Software Architecture (ICSA 2020)</li>
@@ -15,7 +15,7 @@ permalink: /committees
 <li>PC Member of the International Workshop on Bots in Software Engineering (BotSE 2020)</li>
 </ul>
 
-<h2>2019</h2>
+<h3>2019</h3>
 
 <ul>
 <li>Workshop Co-chair of the European Conference on Software Architecture (ECSA 2019)</li>
@@ -30,7 +30,7 @@ permalink: /committees
 <li>PC Member of the Conference on Software Engineering Education and Training (CSEE&amp;T 2019)</li>
 </ul>
 
-<h2>2018</h2>
+<h3>2018</h3>
 
 <ul>
 <li>PC Member of the European Conference on Software Architecture (ECSA 2018)</li>
@@ -40,7 +40,7 @@ permalink: /committees
 <li>PC Member of the International Workshop on Secure Software Engineering in DevOps and Agile Development (SECSE 2018)</li>
 </ul>
 
-<h2>2017</h2>
+<h3>2017</h3>
 
 <ul>
 <li>PC Member of the Empirical Software Engineering and Measurement (ESEM 2017 - Short Papers Track)</li>
@@ -49,7 +49,7 @@ permalink: /committees
 <li>PC Member of the International Workshop on Evolving Security &amp; Privacy Requirements Engineering (ESPRE 2017)</li>
 </ul>
 
-<h2>2016</h2>
+<h3>2016</h3>
 
 <ul>
 <li>PC Member of the International Conference on Software Engineer (ICSE 2016)</li>
@@ -57,7 +57,7 @@ permalink: /committees
 <li>PC Member of the International Workshop on Evolving Security and Privacy Requirements Engineering (ESPRE 2016)</li>
 </ul>
 
-<h2>2015</h2>
+<h3>2015</h3>
 
 <ul>
 <li>PC Member of the Working IEEE/IFIP Conference on Software Architecture (WICSA 2015)</li>
@@ -69,7 +69,7 @@ permalink: /committees
 <li>PC Member of the International Workshop on Variability for Qualities in Software Architecture (VAQUITA 2015)</li>
 </ul>
 
-<h2>2014</h2>
+<h3>2014</h3>
 
 <ul>
 <li>PC Member of the International Symposium on Empirical Software Engineering and Measurement (ESEM 2014)</li>
@@ -81,7 +81,7 @@ permalink: /committees
 <li>PC Member of the International Workshop on Measurability of Security in Software Architectures (MeSSa 2014)</li>
 </ul>
 
-<h2>2013</h2>
+<h3>2013</h3>
 
 <ul>
 <li>Chair of the Workshop on Secure Software Engineering (SecSE 2013)</li>
@@ -93,7 +93,7 @@ permalink: /committees
 <li>Publication Chair of the International Symposium on Engineering Secure Software and Systems (ESSoS 2013)</li>
 </ul>
 
-<h2>2012</h2>
+<h3>2012</h3>
 
 <ul>
 <li>Steering Committee Member of the International Workshop on Security Measurements and Metrics (MetriSec 2011-2012)</li>
@@ -106,7 +106,7 @@ permalink: /committees
 <li>Publication Chair of the International Symposium on Engineering Secure Software and Systems (ESSoS 2012)</li>
 </ul>
 
-<h2>2011</h2>
+<h3>2011</h3>
 
 <ul>
 <li>Chair of the Workshop on Secure Software Engineering (SecSE 2011)</li>
@@ -119,7 +119,7 @@ permalink: /committees
 <li>Poster Session Chair of the ACM Symposium on Access Control Models and Technologies (SACMAT 2011)</li>
 </ul>
 
-<h2>2010</h2>
+<h3>2010</h3>
 
 <ul>
 <li>Chair of the International Workshop on Security Measurements and Metrics (MetriSec 2010)</li>
@@ -132,7 +132,7 @@ permalink: /committees
 <li>PC Member of the International Workshop on Secure Software Engineering (SecSE 2010)</li>
 </ul>
 
-<h2>2009</h2>
+<h3>2009</h3>
 
 <ul>
 <li>Chair of the International Workshop on Security Measurements and Metrics (MetriSec 2009)</li>
@@ -143,7 +143,7 @@ permalink: /committees
 <li>PC Member of the European Workshop on Public Key Services, Applications and Infrastructures (EUROPKI 2009)</li>
 </ul>
 
-<h2>2008</h2>
+<h3>2008</h3>
 
 <ul>
 <li>Chair of the International Workshop on Middleware Security (MidSec 2008)</li>
