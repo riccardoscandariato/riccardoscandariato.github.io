@@ -39,7 +39,7 @@ Since late 2020, I'm the head of the Institute of Secure Software at the <b>Hamb
 
 <p>Working with young researchers (particularly, PhD students) is one the perks of being a professor. It's something I truly enjoy and dedicate time to. In 2020, I've received a <strong> honorable mention as Supervisor of the Year</strong> at the Chalmers University of Technology, Sweden, a prize given by the association of the doctoral students. The motivation says: <blockquote>"His consideration, communication skills and knowledge come together in a very friendly and focussed approach to supervision."</blockquote></p> 
 
-<p>In Sweden, I have the privilege of collaborating with the following researchers:</p>
+<p>In Sweden, I have the privilege of collaborating with these brilliant researchers:</p>
 
 <ul>
 <li><a href="https://sites.google.com/view/katja-tuma" target="_blank">Katja Tuma</a>, (PhD student) working on security threat assessment of automotive software</li>
@@ -49,14 +49,14 @@ Since late 2020, I'm the head of the Institute of Secure Software at the <b>Hamb
 </ul>
 
 
-<p>Former PhD students:
+<p>In the past, I also worked with these bright individuals:
 
 <ul>
-<li><a href="https://scholar.google.com/citations?user=MTdbzYQAAAAJ&hl=en" target="_blank">Alexander van den Berghe</a>, <em>graduated in March 2020 (KU Leuven)</em>. SMILE: A Security-Centric, Formally-Founded Modelling Language for Humans</li>
-<li><a href="https://scholar.google.com/citations?user=Mt9ot9UAAAAJ&hl=en" target="_blank">Kim Wuyts</a>, <em>graduated in January 2014 (KU Leuven)</em>. Privacy Threats in Software Architectures</li>
-<li><a href="https://scholar.google.com/citations?user=I4SiG-IAAAAJ&hl=en" target="_blank">Thomas Heyman</a>, <em>graduated in March 2013 (KU Leuven)</em>. A formal analysis technique for secure software architectures</li>
-<li><a href="https://scholar.google.com/citations?user=xxSyH2UAAAAJ&hl=en" target="_blank">Koen Yskout</a>, <em>graduated in April 2013 (KU Leuven)</em>. Connecting security requirements and software architecture with patterns</li>
-<li><a href="https://scholar.google.com/citations?user=QhaG3XEAAAAJ&hl=en" target="_blank">Koen Buyens</a>, <em>graduated in January 2012 (KU Leuven, co-supervisor)</em>. Analyzing software architectures for least privilege violations</li>
+<li><a href="https://distrinet.cs.kuleuven.be/people/alex" target="_blank">Dr. Alexander van den Berghe</a>, graduated in March 2020 (KU Leuven) with a PhD thesis titled <b>SMILE: A Security-Centric, Formally-Founded Modelling Language for Humans</b></li>
+<li><a href="https://scholar.google.com/citations?user=Mt9ot9UAAAAJ&hl=en" target="_blank">Dr. Kim Wuyts</a>, graduated in January 2014 (KU Leuven) with a PhD thesis titled <b>Privacy Threats in Software Architectures</b></li>
+<li><a href="https://scholar.google.com/citations?user=I4SiG-IAAAAJ&hl=en" target="_blank">Dr. Thomas Heyman</a>, graduated in March 2013 (KU Leuven) with a PhD thesis titled <b>A formal analysis technique for secure software architectures</b></li>
+<li><a href="https://scholar.google.com/citations?user=xxSyH2UAAAAJ&hl=en" target="_blank">Dr. Koen Yskout</a>, graduated in April 2013 (KU Leuven) with a PhD thesis titled <b>Connecting security requirements and software architecture with patterns</b></li>
+<li><a href="https://scholar.google.com/citations?user=QhaG3XEAAAAJ&hl=en" target="_blank">Dr. Koen Buyens</a>, graduated in January 2012 (KU Leuven, co-supervisor) with a PhD thesis titled <b>Analyzing software architectures for least privilege violations</b></li>
 </ul>
 </p>
 
