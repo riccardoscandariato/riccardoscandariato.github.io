@@ -8,7 +8,7 @@ title: Welcome!
     <mark><i class="fas fa-anchor"></i> Wanna come to Hamburg? I'm hiring! <i class="fas fa-anchor"></i></mark> I have several positions available at both PhD and PostDoc level. If interested, please send me an email with your CV and a statement of why you want to get a PhD (with me).
     </div>
 
-<p>I'm a full professor<sup><a href="#section1">1</a></sup> and the head of the <b>Institute of Secure Software</b> at the <a href="https://www.tuhh.de/alt/tuhh/startpage.html" target="_blank">Hamburg University of Technology (TUHH)</a>, in Germany. I also hold a part-time position as full professor of software engineering at the University of Gothenburg, in Sweden.</p>
+<p>I'm a full professor<sup><a href="#section1">1</a></sup> and the head of the <b>Institute of Software Security</b> at the <a href="https://www.tuhh.de/alt/tuhh/startpage.html" target="_blank">Hamburg University of Technology (TUHH)</a>, in Germany. I also hold a part-time position as full professor of software engineering at the University of Gothenburg, in Sweden.</p>
 
 <p>I'm a father of two boys and spend my (limited) spare time taking <a href="http://www.scandariato.photo" target="_blank">photographs</a>.</p>
 
@@ -31,7 +31,7 @@ My work is also characterized by the systematic use of <strong>empirical methods
 
 <p>I received my PhD in Computer Science in 2004 from Politecnico di Torino, Italy. 
 In my academic career I had the opportunity to work in several countries, including the United States (<b>University of Virginia</b>, 2003), Italy (<b>Politecnico di Torino</b>, 2004-2005), Belgium (<b>KU Leuven</b>, 2006-2014) and Sweden (<b>University of Gothenburg</b>, 2014-2020).
-Since late 2020, I'm the head of the Institute of Secure Software at the <b>Hamburg University of Technology (TUHH)</b>, in Germany.</p>
+Since late 2020, I'm the head of the Institute of Software Security at the <b>Hamburg University of Technology (TUHH)</b>, in Germany.</p>
 
 <p>H-index: <a href="http://scholar.google.com/citations?user=xul68AwAAAAJ" target="_blank">Google Scholar page</a>
 
