@@ -47,7 +47,7 @@ permalink: /pubs
 
 <h2>As editor</h2>
 
-<p>E5) Michael Felderer, Riccardo Scandariato, Exploring Security in Software Architecture and Design, IGI Global, 2019</p> 
+<p>E5) Michael Felderer, Riccardo Scandariato, <strong>Exploring Security in Software Architecture and Design</strong>, IGI Global, 2019</p> 
 
 <p>E4) Martin Gilje Jaatun, Riccardo Scandariato, Lillian Røstad, <strong>Special Issue of the International Journal of Secure Software Engineering</strong>, Vol. 5, No. 2, April-June 2014</p>
 
