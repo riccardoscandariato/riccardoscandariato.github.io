@@ -5,10 +5,16 @@ title: Committees
 permalink: /committees
 ---
 
+<h3>2021</h3>
+
+<ul>
+<li>PC Member of the International Conference on Model Driven Engineering Languages and Systems (MODELS 2021 Foundations Track)</li>
+<li>PC Member of the International Conference on Software Architecture (ICSA 2021)</li>
+</ul>
+
 <h3>2020</h3>
 
 <ul>
-<li>PC Member of the International Conference on Software Architecture (ICSA 2021)</li>
 <li>PC Member of the International Conference on Software Architecture (ICSA 2020)</li>
 <li>PC Member of the Conference on Software Engineering Education and Training (CSEE&amp;T 2020)</li>
 <li>PC Member of the International Workshop on Graphical Models for Security (GraMSec 2020)</li>
