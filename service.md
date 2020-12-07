@@ -10,6 +10,7 @@ permalink: /committees
 <ul>
 <li>PC Member of the International Conference on Model Driven Engineering Languages and Systems (MODELS 2021 Foundations Track)</li>
 <li>PC Member of the International Conference on Software Architecture (ICSA 2021)</li>
+<li>PC Member of the International Workshop on Bots in Software Engineering (BotSE 2021)</li>
 </ul>
 
 <h3>2020</h3>
