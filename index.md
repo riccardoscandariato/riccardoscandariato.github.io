@@ -5,7 +5,7 @@ title: Welcome!
 ---
 
 <div class="box">
-    <mark><i class="fas fa-anchor"></i> Wanna come to Hamburg? I'm hiring! <i class="fas fa-anchor"></i></mark> I have several positions available at both PhD and PostDoc level. If interested, please send me an email with your CV and a statement of why you want to get a PhD (with me).
+    <mark><i class="fas fa-anchor"></i> Wanna come to Hamburg? I'm hiring! <i class="fas fa-anchor"></i></mark> I have a position available at senior researcher level. If you have a PhD and are interested, please send me an email with your CV and a statement of why you want to work with me.
     </div>
 
 <p>I'm a full professor<sup><a href="#section1">1</a></sup> and the head of the <b>Institute of Software Security</b> at the <a href="https://www.tuhh.de/alt/tuhh/startpage.html" target="_blank">Hamburg University of Technology (TUHH)</a>, in Germany. I also hold a part-time position as full professor of software engineering at the University of Gothenburg, in Sweden.</p>
@@ -20,7 +20,7 @@ title: Welcome!
 
 <h2>Research interests</h2>
 
-<p>My work focuses on the design of secure applications, particularly in the realms of &mu;-services and IoT ecosystems. 
+<p>My work focuses on the design of secure and privacy-friendly applications, particularly in the realms of &mu;-services, IoT ecosystems, and cyber-physical systems (particularly, automotive). 
 My research goal is to build <strong>round-trip security &amp; privacy engineering methods</strong>, which are based on lightweight design models and connect the design models with the implementation code. 
 In this research agenda, an important role is played by the use of ML/AI, as well as the adoption security-oriented intelligent agents.
 My work is also characterized by the systematic use of <strong>empirical methods for security</strong>, including controlled experiments and mining software repositories.
