@@ -20,7 +20,7 @@ title: Welcome!
 
 <h2>Research interests</h2>
 
-<p>My work focuses on the design of secure and privacy-friendly applications, particularly in the realms of &mu;-services, IoT ecosystems, and cyber-physical systems (particularly, automotive). 
+<p>My work focuses on the design of secure and privacy-friendly applications, particularly in the realms of &mu;-services, IoT ecosystems, and cyber-physical systems (e.g., automotive). 
 My research goal is to build <strong>round-trip security &amp; privacy engineering methods</strong>, which are based on lightweight design models and connect the design models with the implementation code. 
 In this research agenda, an important role is played by the use of ML/AI, as well as the adoption security-oriented intelligent agents.
 My work is also characterized by the systematic use of <strong>empirical methods for security</strong>, including controlled experiments and mining software repositories.
