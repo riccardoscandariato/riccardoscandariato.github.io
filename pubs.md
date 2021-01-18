@@ -60,6 +60,8 @@ permalink: /pubs
 
 <h2>Conference and workshop papers</h2>
 
+<p>C73) Ivan Pashchenko, Riccardo Scandariato, Antonino Sabetta, Fabio Massacci, <strong>Secure Software Development in the Era of Fluid Multi-party Open Software and Services</strong>, New Ideas and Emerging Results Track - International Conference on Software Engineering (ICSE NIER), 2021</p>
+
 <p>C72) Katja Tuma, Laurens Sion, Riccardo Scandariato, Koen Yskout, <strong>Automating the Early Detection of Security Design Flaws</strong>, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020</p>
 
 <p>C71) Thomas Rosenstatter, Kim Strandberg, Rodi Jolak, Riccardo Scandariato, Tomas Olovsson, <strong>REMIND: A Framework for the Resilient Design of Automotive Systems</strong>, IEEE Secure Development Conference (SecDev), 2020</p>
