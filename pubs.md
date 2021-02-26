@@ -7,6 +7,8 @@ permalink: /pubs
 
 <h2>Journal papers</h2>
 
+<p>J15) Mazen Mohamad, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Security Assurance Cases – State of the Art of anEmerging Approach</strong>, Empirical Software Engineering, To appear</p>
+
 <p>J15) Katja Tuma, Gul Calikli, Riccardo Scandariato, <strong>Threat analysis of software systems: A systematic literature review</strong>, Journal of Systems and Software, Volume 144, Pages 275-294, 2018 (impact factor: 2.278)</p>
 
 <p>J14) Jeffrey Stuckman, James Walden, Riccardo Scandariato, <strong>The Effect of Dimensionality Reduction on Software Vulnerability Prediction Models</strong>, IEEE Transactions on Reliability, Volume 66, Issue 1, Pages 17-37, 2017 (impact factor: 1.934)</p>
@@ -21,7 +23,7 @@ permalink: /pubs
 
 <p>J9) Aram Hovsepyan, Riccardo Scandariato, Maximilian Steff, Wouter Joosen,<strong> Design Churn as Predictor of Vulnerabilities?</strong>, International Journal of Secure Software Engineering, IGI Global, Volume 5, Issue 3, 2014</p>
 
-<p>J8) Michael Felderer, Basel Katt, Philipp Kalb, Jan Juerjens, Martin Ochoa, Federica Paci, Le Minh Sang Tran, Thein Than Tun, Koen Yskout, Riccardo Scandariato, Frank Piessens, Dries Vanoverberghe, Elizabeta Fourneret, Matthias Gander, Bjornar Solhaug, Ruth Breu, <strong>Evolution of Security Engineering Artifacts: A State of the Art Survey</strong>, International Journal of Secure Software Engineering, IGI Global, Volume 5, Issue 4, 2014</p>
+<p>J8) Michael Felderer, Basel Katt, Philipp Kalb, Jan J&uuml;rjens, Martin Ochoa, Federica Paci, Le Minh Sang Tran, Thein Than Tun, Koen Yskout, Riccardo Scandariato, Frank Piessens, Dries Vanoverberghe, Elizabeta Fourneret, Matthias Gander, Bjornar Solhaug, Ruth Breu, <strong>Evolution of Security Engineering Artifacts: A State of the Art Survey</strong>, International Journal of Secure Software Engineering, IGI Global, Volume 5, Issue 4, 2014</p>
 
 <p>J7) Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>Change Patterns: Co-evolving Requirements and Architecture</strong>, Software and Systems Modeling, Springer, Volume 13, Issue 2, May 2014 (impact factor: 1.250)</p>
 
@@ -51,7 +53,7 @@ permalink: /pubs
 
 <p>E4) Martin Gilje Jaatun, Riccardo Scandariato, Lillian Røstad, <strong>Special Issue of the International Journal of Secure Software Engineering</strong>, Vol. 5, No. 2, April-June 2014</p>
 
-<p>E3) Jan Jürjens, Ben Livshits, Riccardo Scandariato, <strong>Engineering Secure Software and Systems</strong>, Springer LNCS 7781, 2013</p>
+<p>E3) Jan J&uuml;rjens, Ben Livshits, Riccardo Scandariato, <strong>Engineering Secure Software and Systems</strong>, Springer LNCS 7781, 2013</p>
 
 <p>E2) Gilles Barthe, Ben Livshits, Riccardo Scandariato, <strong>Engineering Secure Software and Systems</strong>, Springer LNCS 7159, 2012</p>
 
@@ -60,13 +62,16 @@ permalink: /pubs
 
 <h2>Conference and workshop papers</h2>
 
+
+<p>C74) Mazen Mohamad, &Ouml;rjan Askerdal, Rodi Jolak, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Asset-driven Security Assurance Cases with Built-in Quality Assurance</strong>, International Workshop on Engineering and Cybersecurity of Critical Systems (ENCYCRIS), 2021</p>
+
 <p>C73) Ivan Pashchenko, Riccardo Scandariato, Antonino Sabetta, Fabio Massacci, <strong>Secure Software Development in the Era of Fluid Multi-party Open Software and Services</strong>, New Ideas and Emerging Results Track - International Conference on Software Engineering (ICSE NIER), 2021</p>
 
 <p>C72) Katja Tuma, Laurens Sion, Riccardo Scandariato, Koen Yskout, <strong>Automating the Early Detection of Security Design Flaws</strong>, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020</p>
 
 <p>C71) Thomas Rosenstatter, Kim Strandberg, Rodi Jolak, Riccardo Scandariato, Tomas Olovsson, <strong>REMIND: A Framework for the Resilient Design of Automotive Systems</strong>, IEEE Secure Development Conference (SecDev), 2020</p>
 
-<p>C70) Mazen Mohamad, Alexander Åström, Örjan Askerdal, Jörgen Borg, Riccardo Scandariato, <strong>Security Assurance Cases for Road Vehicles: an Industry Perspective</strong>, International Conference on Availability, Reliability and Security (ARES), 2020</p>
+<p>C70) Mazen Mohamad, Alexander &Aring;str&ouml;m, &Ouml;rjan Askerdal, J&ouml;rgen Borg, Riccardo Scandariato, <strong>Security Assurance Cases for Road Vehicles: an Industry Perspective</strong>, International Conference on Availability, Reliability and Security (ARES), 2020</p>
 
 <p>C69) Shamal Faily, Riccardo Scandariato, Adam Shostack, Laurens Sion, Duncan Ki-Aries, <strong>Contextualisation of Data Flow Diagrams for security analysis</strong>, International Workshop on Graphical Models for Security (GraMSec), 2020</p>
 	
@@ -78,7 +83,7 @@ permalink: /pubs
 
 <p>C65) Katja Tuma, Daniel Hosseini, Kyriakos Malamas, Riccardo Scandariato, <strong>Inspection Guidelines to Identify Security Design Flaws</strong>, International Workshop on Designing and Measuring CyberSecurity in Software Architecture (DeMeSSA), 2019</p>
 	
-<p>C64) Sven Peldszus, Katja Tuma, Daniel Strüber, Jan Jürjens, Riccardo Scandariato, <strong>Secure Data-Flow Compliance Checks between Models and Code based on Automated Mappings</strong>, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2019</p>
+<p>C64) Sven Peldszus, Katja Tuma, Daniel Str&uuml;ber, Jan J&uuml;rjens, Riccardo Scandariato, <strong>Secure Data-Flow Compliance Checks between Models and Code based on Automated Mappings</strong>, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2019</p>
 
 <p>C63) Linda Erlenhov, Francisco Gomes de Oliveira Neto, Riccardo Scandariato, Philipp Leitner, <strong>Current and Future Bots in Software Development</strong>, First Workshop on Bots in Software Engineering, (BotSE @ICSE), 2019</p>
 
