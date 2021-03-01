@@ -51,7 +51,7 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 <ul>
 <li><a href="http://www.rodijolak.com" target="_blank">Rodi Jolak</a>, (PostDoc) working on resilience of automotive systems</li>
 <li><a href="https://scholar.google.se/citations?user=UsHTVwkAAAAJ&hl=en" target="_blank">Mazen Mohamad</a>, (PhD student) working on security assurance cases for automotive</li>	
-<li><a href="https://cse.gu.se/om/interaktionsdesign/forskare/tomasz-kosinski" target="_blank">Tomasz Kosinski</a>, (PhD student) working on privacy of IoT (I'm his co-supervisor)</li>
+<li>Tomasz Kosinski, (PhD student) working on privacy of IoT (I'm his co-supervisor)</li>
 </ul>
 
 <p>In the past, I also worked with these bright individuals:
