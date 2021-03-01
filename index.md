@@ -44,7 +44,6 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 <li><strong>Catherine Tony</strong>, (PhD student) working on innovative dev-bots assisting software developers in the creation of secure and privacy-friendly applications</li>
 <li><strong>Cuong Bui Quang</strong>, (PhD student) working on automated security and privacy repairs at both model and code level</li>
 <li><strong>Komal Kashish</strong>, (PhD student) working on the design and implementation of secure and privacy friendly applications in the domain of Internet of Things (IoT)</li>
-<li><strong>Maximilian Scholz</strong>, (PhD student) working on the problem of traceability of security and privacy concerns between models and code</li>
 </ul>
 
 <p>In Sweden, I have the privilege of collaborating with these brilliant researchers:</p>
