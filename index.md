@@ -14,7 +14,7 @@ title: Welcome!
 
 <p>My favorite saying is <em>"done is better than perfect"</em>.
 
-<p>I don't have Twitter, LinkedIn, ResearchGate, Facebook, Instagram, TikTok, you name it...</p>
+<p>I don't have Twitter, Facebook, Instagram, TikTok, you name it...</p>
 
 
 
