@@ -7,7 +7,7 @@ permalink: /pubs
 
 <h2>Journal papers</h2>
 
-<p>J15) Mazen Mohamad, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Security Assurance Cases – State of the Art of anEmerging Approach</strong>, Empirical Software Engineering, To appear</p>
+<p>J16) Mazen Mohamad, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Security Assurance Cases – State of the Art of an Emerging Approach</strong>, Empirical Software Engineering, To appear</p>
 
 <p>J15) Katja Tuma, Gul Calikli, Riccardo Scandariato, <strong>Threat analysis of software systems: A systematic literature review</strong>, Journal of Systems and Software, Volume 144, Pages 275-294, 2018 (impact factor: 2.278)</p>
 
