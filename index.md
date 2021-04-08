@@ -5,7 +5,7 @@ title: Welcome!
 ---
 
 <div class="box">
-    <mark><i class="fas fa-anchor"></i> Wanna come to Hamburg? I'm hiring! <i class="fas fa-anchor"></i></mark> I have a position available at <strong>senior researcher</strong> level. If you have a PhD and are interested, please send me an email with your CV and a statement of why you want to work with me.
+    <mark><i class="fas fa-anchor"></i> Wanna come to Hamburg, Germany? I'm hiring! <i class="fas fa-anchor"></i></mark> I have a position available at <strong>senior researcher</strong> level. If you have a PhD and are interested, please send me an email with your CV and a statement of why you want to work with me.
     </div>
 
 <p>I'm a full professor<sup><a href="#section1">1</a></sup> and the head of the <strong>Institute of Software Security</strong> at the <a href="https://www.tuhh.de/alt/tuhh/startpage.html" target="_blank">Hamburg University of Technology (TUHH)</a>, in Germany. I also hold a part-time position as full professor of software engineering at the University of Gothenburg, in Sweden.</p>
