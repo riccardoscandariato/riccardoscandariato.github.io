@@ -2,7 +2,6 @@
 layout: default
 
 title: Contact me
-permalink: /about
 ---
 
 You are welcome to <b>visit</b> me at the:

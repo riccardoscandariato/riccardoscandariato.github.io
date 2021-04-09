@@ -2,7 +2,6 @@
 layout: default
 
 title: Committees
-permalink: /committees
 ---
 
 <h3>2021</h3>

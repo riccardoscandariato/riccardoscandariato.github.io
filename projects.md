@@ -2,7 +2,6 @@
 layout: default
 
 title: Active projects
-permalink: /projects
 ---
 
 <h3>AssureMOSS: Assurance and certification in secure Multi-party Open Software and Services</h3>

@@ -2,7 +2,6 @@
 layout: default
 
 title: Publications
-permalink: /pubs
 ---
 
 <h2>Journal papers</h2>
