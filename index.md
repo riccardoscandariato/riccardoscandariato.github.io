@@ -4,7 +4,7 @@ layout: default
 title: Welcome!
 ---
 
-<!-->
+<!--
 <div class="box">
     <mark><i class="fas fa-anchor"></i> Wanna come to Hamburg? I'm hiring! <i class="fas fa-anchor"></i></mark> I have a position available at <strong>senior researcher</strong> level. If you have a PhD and are interested, please send me an email with your CV and a statement of why you want to work with me.
 </div>
