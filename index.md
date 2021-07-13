@@ -41,26 +41,25 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 
 <h2>Supervision</h2>
 
-<p>Working with young researchers (particularly, PhD students) is one the perks of being a professor. It's something I truly enjoy and dedicate time to. In 2020, I've received a <strong> honorable mention as Supervisor of the Year</strong> at the Chalmers University of Technology, Sweden, a prize given by the association of the doctoral students. The motivation says: <blockquote>"His consideration, communication skills and knowledge come together in a very friendly and focussed approach to supervision."</blockquote></p> 
-
-<p>In Germany, I have the pleasure of supervising the following PhD students:</p>
+<p>Working with young researchers is one the perks of being a professor. It's something I truly enjoy and dedicate time to. In Germany, I have the pleasure of supervising the following research associates:</p>
 <ul>
-<li><strong>Catherine Tony</strong>, (PhD student) working on innovative dev-bots assisting software developers in the creation of secure and privacy-friendly applications</li>
-<li><strong>Cuong Bui Quang</strong>, (PhD student) working on automated security and privacy repairs at both model and code level</li>
-<li><strong>Komal Kashish</strong>, (PhD student) working on the design and implementation of secure and privacy friendly applications in the domain of Internet of Things (IoT)</li>
+<li><strong>Catherine Tony</strong>, working on innovative dev-bots assisting software developers in the creation of secure and privacy-friendly applications</li>
+<li><strong>Cuong Bui Quang</strong>, working on automated security and privacy repairs at both model and code level</li>
+<li><strong>Komal Kashish</strong>, working on the design and implementation of secure and privacy friendly applications in the domain of Internet of Things (IoT)</li>
 </ul>
 
 <p>In Sweden, I have the privilege of collaborating with these brilliant researchers:</p>
 
 <ul>
-<li><a href="http://www.rodijolak.com" target="_blank">Rodi Jolak</a>, (PostDoc) working on resilience of automotive systems</li>
+
 <li><a href="https://scholar.google.se/citations?user=UsHTVwkAAAAJ&hl=en" target="_blank">Mazen Mohamad</a>, (PhD student) working on security assurance cases for automotive</li>	
-<li>Tomasz Kosinski, (PhD student) working on privacy of IoT (I'm his co-supervisor)</li>
+<li>Tomasz Kosinski, (PhD student, co-supervisor) working on privacy of IoT</li>
 </ul>
 
 <p>In the past, I also worked with these bright individuals:
 
 <ul>
+<li><a href="http://www.rodijolak.com" target="_blank">Dr. Rodi Jolak</a>, (University of Gothenburg, PostDoc) working on resilience of automotive systems</li>
 <li><a href="https://sites.google.com/view/katja-tuma" target="_blank">Dr. Katja Tuma</a>, graduated in January 2021 (University of Gothenburg) with a PhD thesis titled <strong>Efficiency and Automation in Threat Analysis of Software Systems</strong></li>
 <li><a href="https://distrinet.cs.kuleuven.be/people/alex" target="_blank">Dr. Alexander van den Berghe</a>, graduated in March 2020 (KU Leuven) with a PhD thesis titled <strong>SMILE: A Security-Centric, Formally-Founded Modelling Language for Humans</strong></li>
 <li><a href="https://scholar.google.com/citations?user=Mt9ot9UAAAAJ&hl=en" target="_blank">Dr. Kim Wuyts</a>, graduated in January 2014 (KU Leuven) with a PhD thesis titled <strong>Privacy Threats in Software Architectures</strong></li>
