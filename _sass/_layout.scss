@@ -5,12 +5,13 @@
 }
 
 #top-bottom-gap {
-  padding-top: 120px;
+  padding-top: 100px;
 }
 	
 #sidebar-wrapper {
   float: left;
   width: 22%;
+  padding-bottom: 40px;
 }
 
 #page-content-wrapper {
@@ -32,10 +33,6 @@
   #page-content-wrapper {
     width: 100%;
 	  float: left;
-  }
-  
-  #sidebar-wrapper {
-  	display:none;
   }
   
   #display-on-mobile {

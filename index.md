@@ -21,6 +21,27 @@ and the head of the <strong>Institute of Software Security</strong> at the <a hr
 <p>I don't have Twitter, Facebook, Instagram, TikTok, you name it...</p>
 
 
+<h2>Contact info</h2>
+
+<p>You are welcome to <strong>visit</strong> me at the:</p>
+<blockquote>
+Institute of Software Security<br/>
+Hamburg University of Technology (TUHH)<br/>
+<em>Blohmstra&szlig;e 15</em><br/>
+<em>21079 Hamburg</em><br/>
+<em>Germany</em>
+</blockquote>
+
+<!--
+<p>
+    (see <a href="https://www.google.com/maps/place/Blohmstraße+15,+21079+Hamburg/@53.4662432,9.9779913,17z" target="_blank">map</a>)
+</p>
+-->
+
+<p>My <strong>email</strong> is:</p>
+<blockquote>
+<code>ric***do</code> <strong>.</strong> <code>sca***to</code> @ <code>tuhh</code> <strong>.</strong> <code>de</code>
+</blockquote>
 
 <h2>Research interests</h2>
 
