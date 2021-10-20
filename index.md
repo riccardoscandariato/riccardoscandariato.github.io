@@ -44,14 +44,33 @@ Hamburg University of Technology (TUHH)<br/>
 <code>ric***do</code> <strong>.</strong> <code>sca***to</code> @ <code>tuhh</code> <strong>.</strong> <code>de</code>
 </blockquote>
 
+
 <h2>Research interests</h2>
 
+<!--
 <p>My work focuses on the design of secure and privacy-friendly applications, particularly in the realms of &mu;-services, IoT ecosystems, and cyber-physical systems (e.g., automotive). 
 My research goal is to build <strong>round-trip security &amp; privacy engineering methods</strong>, which are based on lightweight design models and connect the design models with the implementation code. 
 In this research agenda, an important role is played by the use of ML/AI, as well as the adoption security-oriented intelligent agents.
 My work is also characterized by the systematic use of <strong>empirical methods for security</strong>, including controlled experiments and mining software repositories.
 </p>
+-->
 
+<p>
+Together with my team, I apply an inter-disciplinary approach to create innovative tools and techniques to design and implement secure and privacy-friendly applications. 
+My target application domains are micro-services, Internet-of-Things ecosystems, and cyber-physical systems. 
+While my main interest is in the technical aspects of software security, I also investigate how security techniques can be made more effective and usable for the developers. 
+My core research topics are:
+<ul>
+<li>Model-based security</li>
+<li>Program repair for software security</li>
+<li>Benchmarking of security features in application software</li>
+<li>Prediction of software vulnerabilities</li>
+<li>Threat and risk analysis</li>
+<li>Usable security and privacy</li>
+</ul>
+In this research agenda, an important role is played by the use of ML/AI to solve cybersecurity challenges.
+My work is also characterized by the systematic use of empirical methods for security, including controlled experiments and mining software repositories.
+</p>
 
 <h2>Very condensed CV</h2>
 
@@ -63,26 +82,32 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 
 <h2>Supervision</h2>
 
-<p>Working with young researchers is one the perks of being a professor. It's something I truly enjoy and dedicate time to. In Germany, I have the pleasure of supervising the following research associates:</p>
+<p>Working with young researchers is one the perks of being a professor. It's something I truly enjoy and dedicate time to. I have the privilege of supervising the following research associates:</p>
 <ul>
+<li><strong>Anusha Bambhore Tukaram</strong>, working on security analysis of microservice application software</li>
 <li><strong>Catherine Tony</strong>, working on innovative dev-bots assisting software developers in the creation of secure and privacy-friendly applications</li>
-<li><strong>Cuong Bui Quang</strong>, working on automated security and privacy repairs at both model and code level</li>
-<li><strong>Komal Kashish</strong>, working on the design and implementation of secure and privacy friendly applications in the domain of Internet of Things (IoT)</li>
+<li><strong>Cuong Bui Quang</strong>, working on automated program repair techniques for security vulnerabilities</li>
+<li><strong>Komal Kashish</strong>, working on the design and implementation of secure applications in the domain of Internet of Things (IoT)</li>
+<li><strong>Simon Schneider</strong>, working on lightweight techniques to identify security features in application code (e.g., microservices)</li>
+<li><strong>Torge Hinrichs</strong>, working on predicting software vulnerabilities via machine learning, co-supervised with <a href="https://www.haw-hamburg.de/en/university/employees/detail/person/person/show/bettina-buth/172/" target="_blank">Prof. Bettina Buth</a> of HAW Hamburg</li>
 </ul>
 
-<p>In Sweden, I have the privilege of collaborating with these brilliant researchers:</p>
+<p>I have also the pleasure of co-supervising these brilliant researchers:</p>
 
 <ul>
 
-<li><a href="https://scholar.google.se/citations?user=UsHTVwkAAAAJ&hl=en" target="_blank">Mazen Mohamad</a>, (PhD student) working on security assurance cases for automotive</li>	
-<li>Tomasz Kosinski, (PhD student, co-supervisor) working on privacy of IoT</li>
+<li><a href="https://scholar.google.se/citations?user=UsHTVwkAAAAJ&hl=en" target="_blank">Mazen Mohamad</a>, PhD student working on security assurance cases for automotive at the University of Gothenburg, under the main supervision of <a href="https://jpsteghofer.net" target="_blank">Prof. Jan-Philipp Stegh&ouml;fer</a></li>
+<!-- li>Max Neuendorf, PhD fast-track student at the University of Hamburg, under the main supervision of <a href="https://www.inf.uni-hamburg.de/inst/ab/snp/team/fischer.html" target="_blank">Prof. Mathias Fisher</a></li -->	
 </ul>
 
-<p>In the past, I also worked with these bright individuals:
+<h2>Alumni</h2>
+
+<p>In the past, I worked with these very bright individuals:
 
 <ul>
-<li><a href="http://www.rodijolak.com" target="_blank">Dr. Rodi Jolak</a>, (University of Gothenburg, PostDoc) working on resilience of automotive systems</li>
-<li><a href="https://sites.google.com/view/katja-tuma" target="_blank">Dr. Katja Tuma</a>, graduated in January 2021 (University of Gothenburg) with a PhD thesis titled <strong>Efficiency and Automation in Threat Analysis of Software Systems</strong></li>
+<li><a href="https://katjatuma.github.io" target="_blank">Dr. Katja Tuma</a>, graduated in January 2021 (University of Gothenburg) with a PhD thesis titled <strong>Efficiency and Automation in Threat Analysis of Software Systems</strong></li>
+<li><a href="http://www.rodijolak.com" target="_blank">Dr. Rodi Jolak</a>, PostDoc (University of Gothenburg) working on resilience of automotive systems in 2020-2021</li>
+<li><a href="https://research.chalmers.se/publication/525467" target="_blank">Dr. Tomasz Kosinski</a>, graduated in September 2021 (University of Gothenburg, co-supervisor) with a PhD thesis titled <strong>Privacy expectations and challenges of smart home ecosystems</strong></li>
 <li><a href="https://distrinet.cs.kuleuven.be/people/alex" target="_blank">Dr. Alexander van den Berghe</a>, graduated in March 2020 (KU Leuven) with a PhD thesis titled <strong>SMILE: A Security-Centric, Formally-Founded Modelling Language for Humans</strong></li>
 <li><a href="https://scholar.google.com/citations?user=Mt9ot9UAAAAJ&hl=en" target="_blank">Dr. Kim Wuyts</a>, graduated in January 2014 (KU Leuven) with a PhD thesis titled <strong>Privacy Threats in Software Architectures</strong></li>
 <li><a href="https://scholar.google.com/citations?user=I4SiG-IAAAAJ&hl=en" target="_blank">Dr. Thomas Heyman</a>, graduated in March 2013 (KU Leuven) with a PhD thesis titled <strong>A formal analysis technique for secure software architectures</strong></li>

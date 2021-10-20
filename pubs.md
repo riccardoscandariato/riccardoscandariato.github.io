@@ -63,6 +63,7 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
+<p>C75) Tomasz Kosinski, Primal Wijesekera, Morten Fjeld, Riccardo Scandariato, <strong>Fool me once: Privacy analysis of companion apps required to get the "smart" from IoT</strong>, International Conference on Privacy, Security, and Trust (PST), 2021
 
 <p>C74) Mazen Mohamad, &Ouml;rjan Askerdal, Rodi Jolak, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Asset-driven Security Assurance Cases with Built-in Quality Assurance</strong>, International Workshop on Engineering and Cybersecurity of Critical Systems (ENCYCRIS), 2021</p>
 
