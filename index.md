@@ -63,7 +63,7 @@ My core research topics are:
 <ul>
 <li>Model-based security</li>
 <li>Program repair for software security</li>
-<li>Benchmarking of security features in application software</li>
+<li>Benchmarking security features in application software</li>
 <li>Prediction of software vulnerabilities</li>
 <li>Threat and risk analysis</li>
 <li>Usable security and privacy</li>
