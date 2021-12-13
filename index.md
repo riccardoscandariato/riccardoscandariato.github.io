@@ -80,7 +80,7 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 
 <p>H-index: <a href="http://scholar.google.com/citations?user=xul68AwAAAAJ" target="_blank">Google Scholar page</a>
 
-<h2>Supervision</h2>
+<h2>Team</h2>
 
 <p>Working with young researchers is one the perks of being a professor. It's something I truly enjoy and dedicate time to. I have the privilege of supervising the following research associates:</p>
 <ul>
@@ -92,12 +92,15 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 <li><strong>Torge Hinrichs</strong>, working on predicting software vulnerabilities via machine learning, co-supervised with <a href="https://www.haw-hamburg.de/en/university/employees/detail/person/person/show/bettina-buth/172/" target="_blank">Prof. Bettina Buth</a> of HAW Hamburg</li>
 </ul>
 
-<p>I have also the pleasure of co-supervising these brilliant researchers:</p>
-
+<p>In our team, we are also inspired by the work of senior researchers:
 <ul>
+<li><strong>Nicolas Diaz Ferreyra</strong> is a post-doctoral researcher working on privacy.</li>	
+</ul>
 
-<li><a href="https://scholar.google.se/citations?user=UsHTVwkAAAAJ&hl=en" target="_blank">Mazen Mohamad</a>, PhD student working on security assurance cases for automotive at the University of Gothenburg, under the main supervision of <a href="https://jpsteghofer.net" target="_blank">Prof. Jan-Philipp Stegh&ouml;fer</a></li>
-<!-- li>Max Neuendorf, PhD fast-track student at the University of Hamburg, under the main supervision of <a href="https://www.inf.uni-hamburg.de/inst/ab/snp/team/fischer.html" target="_blank">Prof. Mathias Fisher</a></li -->	
+<p>I have also the pleasure of co-supervising these brilliant researchers:</p>
+<ul>
+<li><strong>Mazen Mohamad</strong>, PhD student working on security assurance cases for automotive at the University of Gothenburg, under the main supervision of <a href="https://jpsteghofer.net" target="_blank">Prof. Jan-Philipp Stegh&ouml;fer</a></li>
+<li><strong>Max Neuendorf</strong>, PhD fast-track student at the University of Hamburg, under the main supervision of <a href="https://www.inf.uni-hamburg.de/inst/ab/snp/team/fischer.html" target="_blank">Prof. Mathias Fisher</a></li>	
 </ul>
 
 <h2>Alumni</h2>
