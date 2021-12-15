@@ -92,7 +92,7 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 <li><strong>Torge Hinrichs</strong>, working on predicting software vulnerabilities via machine learning, co-supervised with <a href="https://www.haw-hamburg.de/en/university/employees/detail/person/person/show/bettina-buth/172/" target="_blank">Prof. Bettina Buth</a> of HAW Hamburg</li>
 </ul>
 
-<p>In our team, we are also inspired by the work of senior researchers:
+<p>The team is also inspired by the excellent work of our senior researchers:
 <ul>
 <li><strong>Nicolas Diaz Ferreyra</strong> is a post-doctoral researcher working on privacy.</li>	
 </ul>
