@@ -6,7 +6,7 @@ title: Publications
 
 <h2>Journal papers</h2>
 
-<p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, Checking Security Compliance between Models and Code, Software and Systems Modeling, Springer, To appear</p>
+<p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code, Software and Systems Modeling</strong>, Springer, To appear</p>
 
 <p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Volume 186, April 2022</p>
 
