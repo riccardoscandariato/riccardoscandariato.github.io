@@ -12,7 +12,7 @@ title: Welcome!
 
 <p>I'm a full professor
 <!-- <sup><a href="#section1">1</a></sup> -->
-and the head of the <strong>Institute of Software Security</strong> at the <a href="https://www.tuhh.de/alt/tuhh/startpage.html" target="_blank">Hamburg University of Technology (TUHH)</a>, in Germany.</p>
+and the head of the <strong><a href="https://www.tuhh.de/softsec" target="_blank">Institute of Software Security</a></strong> at the <a href="https://www.tuhh.de/alt/tuhh/startpage.html" target="_blank">Hamburg University of Technology (TUHH)</a>, in Germany.</p>
 <!-- I also hold a part-time position as full professor of software engineering at the University of Gothenburg, in Sweden. -->
 
 <p>I'm a father of two boys and spend my (limited) spare time taking <a href="https://riccardoscandariato.github.io/photos" target="_blank">photographs</a>.</p>
