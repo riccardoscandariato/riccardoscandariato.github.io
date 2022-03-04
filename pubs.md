@@ -67,7 +67,7 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
-<p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, IInternational Conference on Mining Software Repositories (MSR), 2022</p>
+<p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022</p>
 
 <p>C74) Mazen Mohamad, &Ouml;rjan Askerdal, Rodi Jolak, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Asset-driven Security Assurance Cases with Built-in Quality Assurance</strong>, International Workshop on Engineering and Cybersecurity of Critical Systems (ENCYCRIS), 2021</p>
 
