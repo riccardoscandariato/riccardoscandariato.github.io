@@ -3,6 +3,12 @@ layout: default
 
 title: Committees
 ---
+ 
+<h3>2022</h3>
+
+<ul>
+<li>PC Member of the ARES International Workshop on Continuous Software Evaluation and Certification (IWCSEC 2022)</li>
+</ul>
 
 <h3>2021</h3>
 
