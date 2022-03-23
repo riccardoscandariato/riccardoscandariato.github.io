@@ -85,7 +85,7 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 <p>Working with young researchers is one the perks of being a professor. It's something I truly enjoy and dedicate time to. I have the privilege of supervising the following research associates:</p>
 <ul>
 <!-- li><strong>Anusha Bambhore Tukaram</strong>, working on security analysis of microservice application software</li -->
-<li><strong>Catherine Tony</strong>, working on automatic generation of secure and privacy-friendly code</li>
+<li><strong>Catherine Tony</strong>, working on automatic generation of secure and privacy-friendly aplication code</li>
 <li><strong>Cuong Bui Quang</strong>, working on automated program repair techniques for security vulnerabilities</li>
 <!-- li><strong>Komal Kashish</strong>, working on the design and implementation of secure applications in the domain of Internet of Things (IoT)</li -->
 <li><strong>Simon Schneider</strong>, working on lightweight techniques to identify security features in application code (e.g., microservices)</li>
