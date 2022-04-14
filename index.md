@@ -109,6 +109,8 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 <p>In the past, I worked with these very bright individuals:
 
 <ul>
+<li>Mrs. Komal Kashish, collaboration on <strong>security of IoT edge frameworks</strong></li>
+<li>Mrs. Anusha Bambhore Tukaram, collaboration on <strong>security of microservice applications</strong></li>
 <li><a href="https://katjatuma.github.io" target="_blank">Dr. Katja Tuma</a>, graduated in January 2021 (University of Gothenburg) with a PhD thesis titled <strong>Efficiency and Automation in Threat Analysis of Software Systems</strong></li>
 <li><a href="http://www.rodijolak.com" target="_blank">Dr. Rodi Jolak</a>, PostDoc (University of Gothenburg) working on resilience of automotive systems in 2020-2021</li>
 <li><a href="https://research.chalmers.se/publication/525467" target="_blank">Dr. Tomasz Kosinski</a>, graduated in September 2021 (University of Gothenburg, co-supervisor) with a PhD thesis titled <strong>Privacy expectations and challenges of smart home ecosystems</strong></li>
