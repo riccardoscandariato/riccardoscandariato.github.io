@@ -54,20 +54,9 @@ title: Publications
 <p>B1) Riccardo Scandariato, Federica Paci, Le Minh Sang Tran, Katsiaryna Labunets, Koen Yskout, Fabio Massacci, Wouter Joosen, <strong>Empirical Assessment of Security Requirements and Architecture: Lessons Learned</strong>, in <em>Engineering Secure Future Internet Services and Systems, Maritta Heisel, Wouter Joosen, Javier Lopez, Fabio Martinelli (Eds.)</em>, Springer, ISBN 9783319074528, 2014</p>
 
 
-<h2>As editor</h2>
-
-<p>E5) Michael Felderer, Riccardo Scandariato, <strong>Exploring Security in Software Architecture and Design</strong>, IGI Global, 2019</p> 
-
-<p>E4) Martin Gilje Jaatun, Riccardo Scandariato, Lillian Røstad, <strong>Special Issue of the International Journal of Secure Software Engineering</strong>, Vol. 5, No. 2, April-June 2014</p>
-
-<p>E3) Jan J&uuml;rjens, Ben Livshits, Riccardo Scandariato, <strong>Engineering Secure Software and Systems</strong>, Springer LNCS 7781, 2013</p>
-
-<p>E2) Gilles Barthe, Ben Livshits, Riccardo Scandariato, <strong>Engineering Secure Software and Systems</strong>, Springer LNCS 7159, 2012</p>
-
-<p>E1) Alessandro Moschitti, Riccardo Scandariato, <strong>Eternal Systems</strong>, Springer CCIS 255, 2011</p>
-
-
 <h2>Conference and workshop papers</h2>
+
+<p>C76) Catherine Tony, Mohana Balasubramanian, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>Conversational DevBots for Secure Programming: An Empirical Study on SKF Chatbot</strong>, International Conference on Evaluation and Assessment in Software Engineering (EASE), 2022</p>
 
 <p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022</p>
 
@@ -221,3 +210,18 @@ Crete, Greece, October 2010 (invited)</p>
 <p>C2) Patricia Lago, Riccardo Scandariato, Maurizio Morisio, <strong>An approach to evolution control in component-based software product lines</strong>, ACM Workshop on Software Product Line, Orlando, FL, May 2002</p>
 
 <p>C1) Patricia Lago, Riccardo Scandariato, <strong>A TINA-based solution for dynamic VPN provisioning on heterogeneous networks</strong>, IEEE Telecommunications Information Networking Architecture Conference (TINA), Paris, France, September 2000</p>
+
+
+
+<h2>As editor</h2>
+
+<p>E5) Michael Felderer, Riccardo Scandariato, <strong>Exploring Security in Software Architecture and Design</strong>, IGI Global, 2019</p> 
+
+<p>E4) Martin Gilje Jaatun, Riccardo Scandariato, Lillian Røstad, <strong>Special Issue of the International Journal of Secure Software Engineering</strong>, Vol. 5, No. 2, April-June 2014</p>
+
+<p>E3) Jan J&uuml;rjens, Ben Livshits, Riccardo Scandariato, <strong>Engineering Secure Software and Systems</strong>, Springer LNCS 7781, 2013</p>
+
+<p>E2) Gilles Barthe, Ben Livshits, Riccardo Scandariato, <strong>Engineering Secure Software and Systems</strong>, Springer LNCS 7159, 2012</p>
+
+<p>E1) Alessandro Moschitti, Riccardo Scandariato, <strong>Eternal Systems</strong>, Springer CCIS 255, 2011</p>
+
