@@ -56,6 +56,11 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
+
+<p>C78) Priyanka Billawa, Anusha Bambhore Tukaram, Nicolas Diaz Ferreyra, Jan-Philipp Steghöfer, Riccardo Scandariato, Georg Simhandl, <strong>Security of Microservice Applications: A Practitioners' Perspective on Challenges and Best Practices</strong>, International Conference on Availability, Reliability and Security (ARES), 2022</p>
+
+<p>C77) Hanaa Alshareef, Katja Tuma, Sandro Stucki, Gerardo Schneider, Riccardo Scandariato, <strong>Precise Analysis of Purpose Limitation in Data Flow Diagrams</strong>, International Conference on Availability, Reliability and Security (ARES), 2022</p>
+
 <p>C76) Catherine Tony, Mohana Balasubramanian, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>Conversational DevBots for Secure Programming: An Empirical Study on SKF Chatbot</strong>, International Conference on Evaluation and Assessment in Software Engineering (EASE), 2022</p>
 
 <p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022 (<strong>Best Data and Tool Showcase Paper Award</strong>)</p>
