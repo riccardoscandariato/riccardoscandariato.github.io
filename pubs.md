@@ -60,7 +60,7 @@ title: Publications
 
 <p>C79) Kamakshi Srikumar, Komal Kashish, Kolja Eggers, Nicolas E. Diaz Ferreyra, Julian Koch, Thorsten Schüppstuhl, Riccardo Scandariato, <strong>STRIPED: A Threat Analysis Method for IoT Systems</strong>, International Workshop on Security and Forensics of IoT, IoT-SECFOR, 2022</p>
 
-<p>C78) Priyanka Billawa, Anusha Bambhore Tukaram, Nicolas Diaz Ferreyra, Jan-Philipp Steghöfer, Riccardo Scandariato, Georg Simhandl, <strong>Security of Microservice Applications: A Practitioners' Perspective on Challenges and Best Practices</strong>, International Conference on Availability, Reliability and Security (ARES), 2022</p>
+<p>C78) Priyanka Billawa, Anusha Bambhore Tukaram, Nicolas Diaz Ferreyra, Jan-Philipp Steghöfer, Riccardo Scandariato, Georg Simhandl, <strong>SoK: Security of Microservice Applications: A Practitioners' Perspective on Challenges and Best Practices</strong>, International Conference on Availability, Reliability and Security (ARES), 2022</p>
 
 <p>C77) Hanaa Alshareef, Katja Tuma, Sandro Stucki, Gerardo Schneider, Riccardo Scandariato, <strong>Precise Analysis of Purpose Limitation in Data Flow Diagrams</strong>, International Conference on Availability, Reliability and Security (ARES), 2022</p>
 
