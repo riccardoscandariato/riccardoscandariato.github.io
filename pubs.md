@@ -56,6 +56,8 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
+<p>C81) Rodi Jolak, Thomas Rosenstatter, Saif Aldaghistani, Riccardo Scandariato, <strong>RIPOSTE: A Collaborative Cyber Attack Response Framework for Automotive Systems</strong>, Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA 2022)</p>
+
 <p>C80) Eduard Pinconschi, Quang-Cuong Bui, Rui Abreu, Pedro Adão, Riccardo Scandariato, <strong>Maestro: A Platform for Benchmarking Automatic Program Repair Tools on Software Vulnerabilities</strong>, International Symposium on Software Testing and Analysis - Tool Demonstration Track, ISSTA 2022</p>
 
 <p>C79) Kamakshi Srikumar, Komal Kashish, Kolja Eggers, Nicolas E. Diaz Ferreyra, Julian Koch, Thorsten Schüppstuhl, Riccardo Scandariato, <strong>STRIPED: A Threat Analysis Method for IoT Systems</strong>, International Workshop on Security and Forensics of IoT, IoT-SECFOR, 2022</p>
