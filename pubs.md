@@ -8,31 +8,31 @@ title: Publications
 
 <p>J20) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Microservice Security Metrics for Secure Communication, Identity Management, and Observability</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
 
-<p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code, Software and Systems Modeling</strong>, Springer, To appear</p>
+<p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code</strong>, Software and Systems Modeling, Springer, 2022</p>
 
-<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Volume 186, April 2022</p>
+<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022</p>
 
-<p>J17) Katja Tuma, Christian Sandberg, Urban Thorsson, Mathias Widman, Thomas Herpel, Riccardo Scandariato, <strong>Finding Security Threats That Matter: Two Industrial Case Studies</strong>, Journal of Systems and Software, Volume 179, September 2021</p>
+<p>J17) Katja Tuma, Christian Sandberg, Urban Thorsson, Mathias Widman, Thomas Herpel, Riccardo Scandariato, <strong>Finding Security Threats That Matter: Two Industrial Case Studies</strong>, Journal of Systems and Software, Elsevier, Volume 179, September 2021</p>
 
 <p>J16) Mazen Mohamad, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Security Assurance Cases – State of the Art of an Emerging Approach</strong>, Empirical Software Engineering, 26(70), May 2021</p>
 
-<p>J15) Katja Tuma, Gul Calikli, Riccardo Scandariato, <strong>Threat analysis of software systems: A systematic literature review</strong>, Journal of Systems and Software, Volume 144, Pages 275-294, 2018</p>
+<p>J15) Katja Tuma, Gul Calikli, Riccardo Scandariato, <strong>Threat analysis of software systems: A systematic literature review</strong>, Journal of Systems and Software, Elsevier, Volume 144, Pages 275-294, 2018</p>
 
 <p>J14) Jeffrey Stuckman, James Walden, Riccardo Scandariato, <strong>The Effect of Dimensionality Reduction on Software Vulnerability Prediction Models</strong>, IEEE Transactions on Reliability, Volume 66, Issue 1, Pages 17-37, 2017</p>
 
-<p>J13) Alexander van den Berghe, Riccardo Scandariato, Koen Yskout, Wouter Joosen, <strong>Design Notations for Secure Software: A Systematic Literature Review</strong>, Journal of Software and Systems Modeling, Volume 16, Issue 3, Pages 809–831, 2017</p>
+<p>J13) Alexander van den Berghe, Riccardo Scandariato, Koen Yskout, Wouter Joosen, <strong>Design Notations for Secure Software: A Systematic Literature Review</strong>, Software and Systems Modeling, Springer, Volume 16, Issue 3, Pages 809–831, 2017</p>
 
 <p>J12) Riccardo Scandariato, Kim Wuyts, Wouter Joosen, <strong>A descriptive study of Microsoft's threat modeling technique</strong>, Requirements Engineering, Springer, Volume 20, Issue 2, Pages 163-180, 2015</p>
 
 <p>J11) Riccardo Scandariato, James Walden, Aram Hovsepyan, Wouter Joosen, <strong>Predicting Vulnerable Software Components via Text Mining</strong>, IEEE Transactions on Software Engineering, Volume 40, Issue 10, Pages 993-1006, October 2014</p>
 
-<p>J10) Kim Wuyts, Riccardo Scandariato, Wouter Joosen, <strong>Empirical Evaluation of a Privacy-Focused Threat Modeling Methodology</strong>, Journal of Systems and Software, Volume 96, Pages 122-138, October 2014</p>
+<p>J10) Kim Wuyts, Riccardo Scandariato, Wouter Joosen, <strong>Empirical Evaluation of a Privacy-Focused Threat Modeling Methodology</strong>, Journal of Systems and Software, Elsevier, Volume 96, Pages 122-138, October 2014</p>
 
 <p>J9) Aram Hovsepyan, Riccardo Scandariato, Maximilian Steff, Wouter Joosen,<strong> Design Churn as Predictor of Vulnerabilities?</strong>, International Journal of Secure Software Engineering, IGI Global, Volume 5, Issue 3, 2014</p>
 
 <p>J8) Michael Felderer, Basel Katt, Philipp Kalb, Jan J&uuml;rjens, Martin Ochoa, Federica Paci, Le Minh Sang Tran, Thein Than Tun, Koen Yskout, Riccardo Scandariato, Frank Piessens, Dries Vanoverberghe, Elizabeta Fourneret, Matthias Gander, Bjornar Solhaug, Ruth Breu, <strong>Evolution of Security Engineering Artifacts: A State of the Art Survey</strong>, International Journal of Secure Software Engineering, IGI Global, Volume 5, Issue 4, 2014</p>
 
-<p>J7) Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>Change Patterns: Co-evolving Requirements and Architecture</strong>, Software and Systems Modeling, Springer, Volume 13, Issue 2, May 2014</p>
+<p>J7) Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>Change Patterns: Co-evolving Requirements and Architecture</strong>, Software and Systems Modeling, Springer, Elsevier, Volume 13, Issue 2, May 2014</p>
 
 <p>J6) Koen Buyens, Riccardo Scandariato, Wouter Joosen, <strong>Least privilege analysis in software architectures</strong>, Software and Systems Modeling, Springer, Volume 12, Issue 2, May 2013</p>
 
