@@ -56,7 +56,10 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
-<p>C82) Anusha Bambhore Tukaram, Simon Schneider, Nicolas E. Diaz Ferreyra, Georg Simhandl, Uwe Zdun, Riccardo Scandariato, <strong>Towards a Security Benchmark for the Architectural Design of Microservice Applications</strong>, International Workshop on Continuous Software Evaluation and Certification (IWCSEC), 2022
+
+<p>C83) Mazen Mohamad, Jan-Philipp Steghöfer, Alexander Åström, Riccardo Scandariato, <strong>Identifying security-related requirements in regulatory  documents based on cross-project classification</strong>, International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2022</p>
+
+<p>C82) Anusha Bambhore Tukaram, Simon Schneider, Nicolas E. Diaz Ferreyra, Georg Simhandl, Uwe Zdun, Riccardo Scandariato, <strong>Towards a Security Benchmark for the Architectural Design of Microservice Applications</strong>, International Workshop on Continuous Software Evaluation and Certification (IWCSEC), 2022</p>
 
 <p>C81) Rodi Jolak, Thomas Rosenstatter, Saif Aldaghistani, Riccardo Scandariato, <strong>RIPOSTE: A Collaborative Cyber Attack Response Framework for Automotive Systems</strong>, Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA), 2022</p>
 
