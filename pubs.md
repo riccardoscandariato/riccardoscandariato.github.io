@@ -6,6 +6,8 @@ title: Publications
 
 <h2>Journal papers</h2>
 
+<p>J21) Mazen Mohamad, Örjan Askerdal, Jan-Philipp Steghöfer, Riccardo Scandariato, <strong>CASCADE: An Asset-driven Approach to Build Security Assurance Cases for Automotive Systems</strong>, ACM Transactions on Cyber-Physical Systems, To appear</p>
+
 <p>J20) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Microservice Security Metrics for Secure Communication, Identity Management, and Observability</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
 
 <p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code</strong>, Software and Systems Modeling, Springer, 2022</p>
