@@ -58,6 +58,7 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
+<p>C84) Catherine Tony, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>GitHub Considered Harmful? Analyzing Open-Source Projects for the Automatic Generation of Cryptography API Call Sequences</strong>, International Conference on Software Quality, Reliability, and Security (QRS), 2022</p>
 
 <p>C83) Mazen Mohamad, Jan-Philipp Steghöfer, Alexander Åström, Riccardo Scandariato, <strong>Identifying security-related requirements in regulatory  documents based on cross-project classification</strong>, International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2022</p>
 
