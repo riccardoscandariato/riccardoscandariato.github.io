@@ -4,7 +4,7 @@ layout: default
 title: Active projects
 ---
 
-<h3>AssureMOSS: Assurance and certification in secure Multi-party Open Software and Services</h3>
+<h3><a href="https://assuremoss.org/en/" target="_blank">AssureMOSS: Assurance and certification in secure Multi-party Open Software and Services</a></h3>
 <h4 class="subtitle">Oct 2020 &ndash; Sept 2023</h4>
 <blockquote>
 Research and Innovation Action funded by the EU under the H2020 framework. I'm the <strong>scientific leader and a workpackage leader</strong>. In collaboration with academic and industrial partnenrs we devise innovative techniques (also based on AI) to make modern software projects more secure. The focus is on open, multi-party software. In particular, I'm working on reconstructing lightweigh models from code (e.g., micro-services) and to use such models for security analysis.
