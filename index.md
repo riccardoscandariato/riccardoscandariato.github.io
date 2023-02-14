@@ -24,25 +24,27 @@ and the head of the <strong><a href="https://www.tuhh.de/softsec" target="_blank
 
 <h2>Contact info</h2>
 
+<p>My <strong>email</strong> is:</p>
+<blockquote>
+<code>lastname</code> @ <code>tuhh</code> <strong>.</strong> <code>de</code>
+</blockquote>
+
 <p>You are welcome to <strong>visit</strong> me at the:</p>
 <blockquote>
 Institute of Software Security<br/>
 Hamburg University of Technology (TUHH)<br/>
-<em>Blohmstra&szlig;e 15</em><br/>
+<em><a href="https://www.google.com/maps/place/Blohmstraße+15,+21079+Hamburg/@53.4662432,9.9779913,17z" target="_blank">Blohmstra&szlig;e 15</a></em><br/>
 <em>21079 Hamburg</em><br/>
 <em>Germany</em>
 </blockquote>
 
 <!--
 <p>
-    (see <a href="https://www.google.com/maps/place/Blohmstraße+15,+21079+Hamburg/@53.4662432,9.9779913,17z" target="_blank">map</a>)
+    (see map</a>)
 </p>
 -->
 
-<p>My <strong>email</strong> is:</p>
-<blockquote>
-<code>ric***do</code> <strong>.</strong> <code>sca***to</code> @ <code>tuhh</code> <strong>.</strong> <code>de</code>
-</blockquote>
+
 
 
 <h2>Research interests</h2>
@@ -61,11 +63,12 @@ My target application domains are micro-services, Internet-of-Things ecosystems,
 While my main interest is in the technical aspects of software security, I also investigate how security techniques can be made more effective and usable for the developers. 
 My core research topics are:
 <ul>
-<li>Model-based security</li>
-<li>Program repair for software security</li>
-<li>Benchmarking security features in application software</li>
+<li>Software vulnerability repair</li>
 <li>Prediction of software vulnerabilities</li>
-<li>Threat and risk analysis</li>
+<li>Localization of scurity features in application software</li>
+<li>Generation of secure code</li>
+<li>Security benchmarking</li>
+<li>Model-based security and threat analysis</li>
 <li>Usable security and privacy</li>
 </ul>
 In this research agenda, an important role is played by the use of ML/AI to solve cybersecurity challenges.
