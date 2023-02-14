@@ -15,9 +15,9 @@ title: Welcome!
 and the head of the <strong><a href="https://www.tuhh.de/softsec" target="_blank">Institute of Software Security</a></strong> at the <a href="https://www.tuhh.de/alt/tuhh/startpage.html" target="_blank">Hamburg University of Technology (TUHH)</a>, in Germany.</p>
 <!-- I also hold a part-time position as full professor of software engineering at the University of Gothenburg, in Sweden. -->
 
-<p>I'm a father of two boys and spend my (limited) spare time taking <a href="https://riccardoscandariato.github.io/photos" target="_blank">photographs</a>.</p>
+<p>I'm a father of two boys and spend my (limited) spare time taking photographs.</p> <!-- a href="https://riccardoscandariato.github.io/photos" target="_blank" -->
 
-<p>My favorite saying is <em>"done is better than perfect"</em>.
+<p>My favorite saying is <em>"done is better than perfect"</em>.</p>
 
 <p>I don't have Twitter, Facebook, Instagram, TikTok, you name it...</p>
 
