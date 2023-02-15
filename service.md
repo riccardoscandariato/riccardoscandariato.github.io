@@ -4,6 +4,12 @@ layout: default
 title: Committees
 ---
  
+ <h3>2022</h3>
+
+<ul>
+<li>PC Chair of the International Conference on Availability, Reliability and Security (ARES 2023)</li>
+</ul>
+
 <h3>2022</h3>
 
 <ul>
