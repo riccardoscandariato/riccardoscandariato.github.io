@@ -19,7 +19,7 @@ title: Welcome!
 
 <p>My <strong>email</strong> is:</p>
 <blockquote>
-<code>lastname</code> @ <code>tuhh</code> <strong>.</strong> <code>de</code>
+<code>scanda***to @ tuhh.de</code>
 </blockquote>
 
 <p>You are welcome to <strong>visit</strong> me <a href="https://www.google.com/maps/place/Blohmstraße+15,+21079+Hamburg/@53.4662432,9.9779913,17z" target="_blank">[Google Maps]</a> at the:</p>
