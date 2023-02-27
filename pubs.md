@@ -58,7 +58,9 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
-<p>C84) Nicolas E. Diaz Ferreyra, Gautam Kishore Shahi, Catherine Tony, Stefan Stieglitz, Riccardo Scandariato, <strong>Regret, Delete, (Do Not) Repeat: An Analysis of Self-Cleaning Practices on Twitter After the Outbreak of the COVID-19 Pandemic</strong>, ACM CHI Conference on Human Factors in Computing Systems (CHI), 2023</p>
+<p>C86) Nicolas E. Diaz Ferreyra, Abdessamad Imine, Melina Vidoni, Riccardo Scandariato, <strong>Developers Need Protection, Too: Perspectives and Research  Challenges for Privacy in Social Coding Platforms</strong>, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), 2023</p>
+
+<p>C85) Nicolas E. Diaz Ferreyra, Gautam Kishore Shahi, Catherine Tony, Stefan Stieglitz, Riccardo Scandariato, <strong>Regret, Delete, (Do Not) Repeat: An Analysis of Self-Cleaning Practices on Twitter After the Outbreak of the COVID-19 Pandemic</strong>, ACM CHI Conference on Human Factors in Computing Systems (CHI), 2023</p>
 
 <p>C84) Catherine Tony, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>GitHub Considered Harmful? Analyzing Open-Source Projects for the Automatic Generation of Cryptography API Call Sequences</strong>, International Conference on Software Quality, Reliability, and Security (QRS), 2022</p>
 
