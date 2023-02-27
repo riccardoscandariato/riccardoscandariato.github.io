@@ -12,7 +12,7 @@ title: Publications
 
 <p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code</strong>, Software and Systems Modeling, Springer, 2022</p>
 
-<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022</p>
+<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022 (also as journal-first at ICSA 2023)</p>
 
 <p>J17) Katja Tuma, Christian Sandberg, Urban Thorsson, Mathias Widman, Thomas Herpel, Riccardo Scandariato, <strong>Finding Security Threats That Matter: Two Industrial Case Studies</strong>, Journal of Systems and Software, Elsevier, Volume 179, September 2021</p>
 
@@ -57,6 +57,8 @@ title: Publications
 
 
 <h2>Conference and workshop papers</h2>
+
+<p>C84) Nicolas E. Diaz Ferreyra, Gautam Kishore Shahi, Catherine Tony, Stefan Stieglitz, Riccardo Scandariato, <strong>Regret, Delete, (Do Not) Repeat: An Analysis of Self-Cleaning Practices on Twitter After the Outbreak of the COVID-19 Pandemic</strong>, ACM CHI Conference on Human Factors in Computing Systems (CHI), 2023</p>
 
 <p>C84) Catherine Tony, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>GitHub Considered Harmful? Analyzing Open-Source Projects for the Automatic Generation of Cryptography API Call Sequences</strong>, International Conference on Software Quality, Reliability, and Security (QRS), 2022</p>
 
