@@ -8,6 +8,7 @@ title: Committees
 
 <ul>
 <li>PC Chair of the International Conference on Availability, Reliability and Security (ARES 2023)</li>
+<li>PC Member of the European Conference on Software Architecture (ECSA 2023)</li>
 </ul>
 
 <h3>2022</h3>
