@@ -4,13 +4,12 @@ layout: default
 title: Active projects
 ---
 
-<!-- 
 <h3><a href="https://sec4ai4sec.eu" target="_blank">Sec4AI4Sec: Cybersecurity for AI-Augmented Systems</a></h3>
 <h4 class="subtitle">Oct 2023 &ndash; Sept 2026</h4>
 <blockquote>
 Research and Innovation Action funded by the EU under the H2020 framework.
 </blockquote>
--->
+
 
 <h3><a href="https://assuremoss.org/en/" target="_blank">AssureMOSS: Assurance and certification in secure Multi-party Open Software and Services</a></h3>
 <h4 class="subtitle">Oct 2020 &ndash; Sept 2023</h4>
