@@ -6,11 +6,13 @@ title: Publications
 
 <h2>Journal papers</h2>
 
+<p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, To appear</p>
+
 <p>J21) Mazen Mohamad, Rodi Jolak, Örjan Askerdal, Jan-Philipp Steghöfer, Riccardo Scandariato, <strong>CASCADE: An Asset-driven Approach to Build Security Assurance Cases for Automotive Systems</strong>, ACM Transactions on Cyber-Physical Systems, To appear</p>
 
 <p>J20) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Microservice Security Metrics for Secure Communication, Identity Management, and Observability</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
 
-<p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code</strong>, Software and Systems Modeling, Springer, 2022</p>
+<p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code</strong>, Software and Systems Modeling, Volume 22, Springer, 2022</p>
 
 <p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022 (also as journal-first at ICSA 2023)</p>
 
