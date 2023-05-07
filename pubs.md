@@ -6,7 +6,7 @@ title: Publications
 
 <h2>Journal papers</h2>
 
-<p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, To appear</p>
+<p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, Volume 202, 2023</p>
 
 <p>J21) Mazen Mohamad, Rodi Jolak, Örjan Askerdal, Jan-Philipp Steghöfer, Riccardo Scandariato, <strong>CASCADE: An Asset-driven Approach to Build Security Assurance Cases for Automotive Systems</strong>, ACM Transactions on Cyber-Physical Systems, To appear</p>
 
