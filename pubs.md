@@ -6,6 +6,8 @@ title: Publications
 
 <h2>Journal papers</h2>
 
+<p>J23) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Detection Strategies for Microservice Security Tactics</strong>, IEEE Transactions on Software Engineering, To appear</p>
+
 <p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, Volume 202, 2023</p>
 
 <p>J21) Mazen Mohamad, Rodi Jolak, Örjan Askerdal, Jan-Philipp Steghöfer, Riccardo Scandariato, <strong>CASCADE: An Asset-driven Approach to Build Security Assurance Cases for Automotive Systems</strong>, ACM Transactions on Cyber-Physical Systems, 7(1), 2023</p>
