@@ -6,7 +6,7 @@ title: Publications
 
 <h2>Journal papers</h2>
 
-<p>J23) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Detection Strategies for Microservice Security Tactics</strong>, IEEE Transactions on Software Engineering, To appear</p>
+<p>J23) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Detection Strategies for Microservice Security Tactics</strong>, IEEE Transactions on Dependable and Secure Computing, To appear</p>
 
 <p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, Volume 202, 2023</p>
 
