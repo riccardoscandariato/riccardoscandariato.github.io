@@ -16,7 +16,7 @@ title: Publications
 
 <p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code</strong>, Software and Systems Modeling, Volume 22, Springer, 2022</p>
 
-<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022 (also acceptet at the Journal-First Track of the International Conference on Software Architecture, ICSA 2023)</p>
+<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022 (also accepted at the Journal-First Track of the International Conference on Software Architecture, ICSA 2023)</p>
 
 <p>J17) Katja Tuma, Christian Sandberg, Urban Thorsson, Mathias Widman, Thomas Herpel, Riccardo Scandariato, <strong>Finding Security Threats That Matter: Two Industrial Case Studies</strong>, Journal of Systems and Software, Elsevier, Volume 179, September 2021</p>
 
