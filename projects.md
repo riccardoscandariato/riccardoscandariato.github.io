@@ -7,7 +7,7 @@ title: Active projects
 <h3><a href="https://sec4ai4sec.eu" target="_blank">Sec4AI4Sec: Cybersecurity for AI-Augmented Systems</a></h3>
 <h4 class="subtitle">Oct 2023 &ndash; Sept 2026</h4>
 <blockquote>
-Research and Innovation Action funded by the EU under the H2020 framework.
+Research and Innovation Action funded by the EU under the Horizon Europe framework.
 </blockquote>
 
 

@@ -8,7 +8,7 @@ title: Publications
 
 <p>J23) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Detection Strategies for Microservice Security Tactics</strong>, IEEE Transactions on Dependable and Secure Computing, To appear</p>
 
-<p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, Volume 202, 2023</p>
+<p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, Volume 202, 2023 (also accepted at the Journal-First Track of the International Conference on Automated Software Engineering, ASE 2023)</p>
 
 <p>J21) Mazen Mohamad, Rodi Jolak, Örjan Askerdal, Jan-Philipp Steghöfer, Riccardo Scandariato, <strong>CASCADE: An Asset-driven Approach to Build Security Assurance Cases for Automotive Systems</strong>, ACM Transactions on Cyber-Physical Systems, 7(1), 2023</p>
 
@@ -16,7 +16,7 @@ title: Publications
 
 <p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code</strong>, Software and Systems Modeling, Volume 22, Springer, 2022</p>
 
-<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022 (also as journal-first at ICSA 2023)</p>
+<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022 (also acceptet at the Journal-First Track of the International Conference on Software Architecture, ICSA 2023)</p>
 
 <p>J17) Katja Tuma, Christian Sandberg, Urban Thorsson, Mathias Widman, Thomas Herpel, Riccardo Scandariato, <strong>Finding Security Threats That Matter: Two Industrial Case Studies</strong>, Journal of Systems and Software, Elsevier, Volume 179, September 2021</p>
 
@@ -62,17 +62,19 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
+<p>C89) Quang-Cuong Bui, Malte Laukötter and Riccardo Scandariato, <strong>DockerCleaner: Automatic Repair of Security Smells in Dockerfiles</strong>, International Conference on Software Maintenance and Evolution (ICSME), 2023
+
 <p>C88) Simon Schneider, Tufan Özen, Michael Chen, Riccardo Scandariato, <strong>microSecEnD: A Dataset of Security-Enriched Dataflow Diagrams for Microservice Applications</strong>, International Conference on Mining Software Repositories (MSR), 2023
 
 <p>C87) Catherine Tony, Markus Mutas, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations</strong>, International Conference on Mining Software Repositories (MSR), 2023
 
-<p>C86) Nicolas E. Diaz Ferreyra, Abdessamad Imine, Melina Vidoni, Riccardo Scandariato, <strong>Developers Need Protection, Too: Perspectives and Research  Challenges for Privacy in Social Coding Platforms</strong>, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), 2023</p>
+<p>C86) Nicolas E. Diaz Ferreyra, Abdessamad Imine, Melina Vidoni, Riccardo Scandariato, <strong>Developers Need Protection, Too: Perspectives and Research Challenges for Privacy in Social Coding Platforms</strong>, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), 2023</p>
 
 <p>C85) Nicolas E. Diaz Ferreyra, Gautam Kishore Shahi, Catherine Tony, Stefan Stieglitz, Riccardo Scandariato, <strong>Regret, Delete, (Do Not) Repeat: An Analysis of Self-Cleaning Practices on Twitter After the Outbreak of the COVID-19 Pandemic</strong>, ACM CHI Conference on Human Factors in Computing Systems (CHI), 2023</p>
 
 <p>C84) Catherine Tony, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>GitHub Considered Harmful? Analyzing Open-Source Projects for the Automatic Generation of Cryptography API Call Sequences</strong>, International Conference on Software Quality, Reliability, and Security (QRS), 2022</p>
 
-<p>C83) Mazen Mohamad, Jan-Philipp Steghöfer, Alexander Åström, Riccardo Scandariato, <strong>Identifying security-related requirements in regulatory  documents based on cross-project classification</strong>, International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2022</p>
+<p>C83) Mazen Mohamad, Jan-Philipp Steghöfer, Alexander Åström, Riccardo Scandariato, <strong>Identifying security-related requirements in regulatory documents based on cross-project classification</strong>, International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2022</p>
 
 <p>C82) Anusha Bambhore Tukaram, Simon Schneider, Nicolas E. Diaz Ferreyra, Georg Simhandl, Uwe Zdun, Riccardo Scandariato, <strong>Towards a Security Benchmark for the Architectural Design of Microservice Applications</strong>, International Workshop on Continuous Software Evaluation and Certification (IWCSEC), 2022</p>
 
