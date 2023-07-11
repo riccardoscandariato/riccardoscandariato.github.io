@@ -73,7 +73,6 @@ My work is also characterized by the systematic use of empirical methods for sec
 <li><strong>Cuong Bui Quang</strong>, PhD strudent working on automated program repair techniques for security vulnerabilities</li>
 <li><strong>Simon Schneider</strong>, PhD strudent working on lightweight techniques to identify security features in application code (e.g., microservices)</li>
 <li><strong>Torge Hinrichs</strong>, PhD strudent working on predicting software vulnerabilities via machine learning</li>
-<li><strong>Mazen Mohamad</strong>, PhD student working on security assurance cases at the University of Gothenburg, under the main supervision of <a href="https://jpsteghofer.net" target="_blank">Prof. Jan-Philipp Stegh&ouml;fer</a></li>
 <!-- <li><strong>Max Neuendorf</strong>, PhD fast-track student at the University of Hamburg, under the main supervision of <a href="https://www.inf.uni-hamburg.de/inst/ab/snp/team/fischer.html" target="_blank">Prof. Mathias Fisher</a></li -->	
 </ul>
 
@@ -82,6 +81,7 @@ My work is also characterized by the systematic use of empirical methods for sec
 <p>In the past, I worked with these very bright individuals:</p>
 
 <ul>
+<li><a href="https://orcid.org/0000-0002-3446-1265" target="_blank">Dr. Mazen Mohamad</a>, graduated in June 2023 (University of Gothenburg, co-supervisor) with a PhD thesis titled <strong>Understanding, Implementing, and Supporting Security Assurance Cases in Safety-Critical Domains</strong></li>
 <li>Mrs. Komal Kashish, collaboration on <strong>security of IoT edge frameworks</strong> in 2021-2022</li>
 <li>Mrs. Anusha Bambhore Tukaram, collaboration on <strong>security of microservice applications</strong> in 2021-2022</li>
 <li><a href="https://katjatuma.github.io" target="_blank">Dr. Katja Tuma</a>, graduated in January 2021 (University of Gothenburg) with a PhD thesis titled <strong>Efficiency and Automation in Threat Analysis of Software Systems</strong></li>
