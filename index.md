@@ -54,10 +54,9 @@ While my main interest is in the technical aspects of software security, I also 
 My core research topics are:</p>
 <ul>
 <li>Software vulnerability repair</li>
-<li>Prediction of software vulnerabilities</li>
+<li>Localization and pediction of software vulnerabilities</li>
 <li>Localization of scurity features in application software</li>
 <li>Generation of secure code</li>
-<li>Security benchmarking</li>
 <li>Model-based security and threat analysis</li>
 <li>Usable security and privacy</li>
 </ul>
