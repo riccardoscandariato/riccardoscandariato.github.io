@@ -73,7 +73,13 @@ My work is also characterized by the systematic use of empirical methods for sec
 <li><strong>Cuong Bui Quang</strong>, PhD strudent working on automated program repair techniques for security vulnerabilities</li>
 <li><strong>Simon Schneider</strong>, PhD strudent working on lightweight techniques to identify security features in application code (e.g., microservices)</li>
 <li><strong>Torge Hinrichs</strong>, PhD strudent working on predicting software vulnerabilities via machine learning</li>
-<!-- <li><strong>Max Neuendorf</strong>, PhD fast-track student at the University of Hamburg, under the main supervision of <a href="https://www.inf.uni-hamburg.de/inst/ab/snp/team/fischer.html" target="_blank">Prof. Mathias Fisher</a></li -->	
+</ul>
+
+<h3>Co-Advisor</h3>
+
+<ul>
+<li><strong>Pierre-Jean Quéval</strong>, PhD student at the University of Vienna, under the supervision of <a href="https://swa.cs.univie.ac.at/team/person/38685/" target="_blank">Prof. Uwe Zdun</a></li>
+<li><strong>Max Neuendorf</strong>, PhD fast-track student at the University of Hamburg, under the supervision of <a href="https://www.inf.uni-hamburg.de/inst/ab/snp/team/fischer.html" target="_blank">Prof. Mathias Fisher</a></li>
 </ul>
 
 <h2>Alumni</h2>
