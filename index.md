@@ -6,7 +6,7 @@ title: Welcome!
 
 <p>I'm a full professor and the head of the <strong><a href="https://www.tuhh.de/softsec" target="_blank">Institute of Software Security</a></strong> at the <a href="https://www.tuhh.de/alt/tuhh/startpage.html" target="_blank">Hamburg University of Technology (TUHH)</a>, in Germany.</p>
 
-<p>I'm also the coordinator on the <a href="https://www.tuhh.de/tuhh/en/studying/before-studying/degree-courses/international-study-programs/information-and-communication-systems.html"  target="_blank">International Master in Information and Communication Systems</a>.</p>
+<p>I'm also the coordinator of the <a href="https://www.tuhh.de/tuhh/en/studying/before-studying/degree-courses/international-study-programs/information-and-communication-systems.html"  target="_blank">International Master in Information and Communication Systems</a>.</p>
 
 <p>I'm a father to two boys, a husband, and an amateur photographer.</p> 
 
