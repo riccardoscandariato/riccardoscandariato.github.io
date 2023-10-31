@@ -6,6 +6,8 @@ title: Publications
 
 <h2>Journal papers</h2>
 
+<p>J24) Quang-Cuong Bui, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato, <strong>APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities</strong>, Empirical Software Engineering, To appear</p>
+
 <p>J23) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Detection Strategies for Microservice Security Tactics</strong>, IEEE Transactions on Dependable and Secure Computing, To appear</p>
 
 <p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, Volume 202, 2023 (also accepted at the Journal-First Track of the International Conference on Automated Software Engineering, ASE 2023)</p>
