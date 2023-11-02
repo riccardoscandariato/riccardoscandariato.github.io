@@ -12,7 +12,9 @@ title: Welcome!
 
 <p>My favorite saying is <em>"done is better than perfect"</em>.</p>
 
-<p>I don't have Twitter, Facebook, Instagram, TikTok, you name it...</p>
+<p>My favorite citation is <em>"Wer eine Vision hat, der soll zum Arzt gehen"</em> (anyone who has a vision should go to the doctor) from <a href="https://en.wikipedia.org/wiki/Helmut_Schmidt" target="_blank">Helmut Schmidt</a>.</p>
+
+<p>I don't have LinkedIn, X, Instagram, TikTok, you name it...</p>
 
 
 <h2>Contact info</h2>
