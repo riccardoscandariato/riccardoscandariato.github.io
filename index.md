@@ -72,10 +72,10 @@ My work is also characterized by the systematic use of empirical methods for sec
 <ul>
 <li><strong>Nicolas Diaz Ferreyra</strong>, post-doctoral researcher working on privacy</li>	
 <li><strong>Emanuele Iannone</strong>, post-doctoral researcher working on automated vulnerability repair and automated exploit generation</li>
-<li><strong>Catherine Tony</strong>, PhD strudent working on automatic generation of secure and privacy-friendly application code</li>
-<li><strong>Cuong Bui Quang</strong>, PhD strudent working on automated program repair techniques for security vulnerabilities</li>
-<li><strong>Simon Schneider</strong>, PhD strudent working on lightweight techniques to identify security features in application code (e.g., microservices)</li>
-<li><strong>Torge Hinrichs</strong>, PhD strudent working on predicting software vulnerabilities via machine learning</li>
+<li><strong>Catherine Tony</strong>, PhD student working on automatic generation of secure and privacy-friendly application code</li>
+<li><strong>Cuong Bui Quang</strong>, PhD student working on automated program repair techniques for security vulnerabilities</li>
+<li><strong>Simon Schneider</strong>, PhD student working on lightweight techniques to identify security features in application code (e.g., microservices)</li>
+<li><strong>Torge Hinrichs</strong>, PhD student working on predicting software vulnerabilities via machine learning</li>
 </ul>
 
 <h3>Co-Advisor</h3>
