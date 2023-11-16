@@ -6,6 +6,8 @@ title: Publications
 
 <h2>Journal papers</h2>
 
+<p>J25) Nicolas E. Diaz Ferreyra, Melina Vidoni, Maritta Heisel, Riccardo Scandariato, <strong>Cybersecurity Discussions in Stack Overflow: A Developer-Centred Analysis of Engagement and Self-Disclosure Behaviour</strong>, Social Network Analysis and Mining, To appear</p>
+
 <p>J24) Quang-Cuong Bui, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato, <strong>APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities</strong>, Empirical Software Engineering, To appear</p>
 
 <p>J23) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Detection Strategies for Microservice Security Tactics</strong>, IEEE Transactions on Dependable and Secure Computing, To appear</p>
