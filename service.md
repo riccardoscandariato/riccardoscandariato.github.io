@@ -8,6 +8,7 @@ title: Committees
 
 <ul>
 <li>PC Member of the International Conference on Software Analysis, Evolution and Reengineering (SANER 2024)</li>
+<li>PC Member of the International Conference on Availability, Reliability and Security (ARES 2024)</li>
 <li>Steering Committee Member of the International Conference on Availability, Reliability and Security (ARES 2024)</li>
 </ul>
 
