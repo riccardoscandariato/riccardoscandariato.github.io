@@ -20,7 +20,7 @@ title: Publications
 
 <p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code</strong>, Software and Systems Modeling, Volume 22, Springer, 2022</p>
 
-<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022 (also accepted at the Journal-First Track of the International Conference on Software Architecture, ICSA 2023)</p>
+<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022 <small>(also presented as <strong>Journal First</strong> at the International Conference on Software Architecture, <strong>ICSA 2023</strong>)</small></p>
 
 <p>J17) Katja Tuma, Christian Sandberg, Urban Thorsson, Mathias Widman, Thomas Herpel, Riccardo Scandariato, <strong>Finding Security Threats That Matter: Two Industrial Case Studies</strong>, Journal of Systems and Software, Elsevier, Volume 179, September 2021</p>
 
@@ -66,6 +66,8 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
+<p>C91) Clinton Cao, Simon Schneider, Nicolas E. Diaz Ferreyra, Sicco Verwer, Annibale Panichella, Riccardo Scandariato, <strong>CATMA: Conformance Analysis Tool For Microservice Applications</strong>, International Conference on Software Engineering - Demonstrations Track (ICSE Demo), 2024
+
 <p>C90) Simon Schneider, Nicolas E. Diaz Ferreyra, Pierre-Jean Queval, Georg Simhandl, Uwe Zdun and Riccardo Scandariato, <strong>How Dataflow Diagrams Impact Software Security Analysis: an Empirical Experiment</strong>, International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024
 
 <p>C89) Quang-Cuong Bui, Malte Laukötter and Riccardo Scandariato, <strong>DockerCleaner: Automatic Repair of Security Smells in Dockerfiles</strong>, International Conference on Software Maintenance and Evolution (ICSME), 2023
@@ -100,7 +102,7 @@ title: Publications
 
 <p>C74) Mazen Mohamad, &Ouml;rjan Askerdal, Rodi Jolak, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Asset-driven Security Assurance Cases with Built-in Quality Assurance</strong>, International Workshop on Engineering and Cybersecurity of Critical Systems (ENCYCRIS), 2021</p>
 
-<p>C73) Ivan Pashchenko, Riccardo Scandariato, Antonino Sabetta, Fabio Massacci, <strong>Secure Software Development in the Era of Fluid Multi-party Open Software and Services</strong>, New Ideas and Emerging Results Track - International Conference on Software Engineering (ICSE NIER), 2021</p>
+<p>C73) Ivan Pashchenko, Riccardo Scandariato, Antonino Sabetta, Fabio Massacci, <strong>Secure Software Development in the Era of Fluid Multi-party Open Software and Services</strong>, International Conference on Software Engineering - New Ideas and Emerging Results Track (ICSE NIER), 2021</p>
 
 <p>C72) Katja Tuma, Laurens Sion, Riccardo Scandariato, Koen Yskout, <strong>Automating the Early Detection of Security Design Flaws</strong>, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2020</p>
 
@@ -130,7 +132,7 @@ title: Publications
 	
 <p>C59) Thibaud Antignac, Riccardo Scandariato, Gerardo Schneider, <strong>Privacy Compliance via Model Transformations</strong>, International Workshop on Privacy Engineering (IWPE), 2018</p>
 
-<p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <strong>Generative Secure Design, Defined</strong>, New Ideas and Emerging Results Track - International Conference on Software Engineering (ICSE NIER), 2018</p>
+<p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <strong>Generative Secure Design, Defined</strong>, International Conference on Software Engineering - New Ideas and Emerging Results Track (ICSE NIER), 2018</p>
 
 <p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <strong>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</strong>, International Conference on Information Systems Security and Privacy (ICISSP), 2018 (also presented as poster, which received the <strong>Best Poster</strong> award)</p>
 
