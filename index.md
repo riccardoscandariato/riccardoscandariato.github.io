@@ -82,7 +82,7 @@ My work is also characterized by the systematic use of empirical methods for sec
 
 <ul>
 <li><strong>Pierre-Jean Quéval</strong>, PhD student at the University of Vienna, under the supervision of <a href="https://swa.cs.univie.ac.at/team/person/38685/" target="_blank">Prof. Uwe Zdun</a></li>
-<li><strong>Max Neuendorf</strong>, PhD fast-track student at the University of Hamburg, under the supervision of <a href="https://www.inf.uni-hamburg.de/inst/ab/snp/team/fischer.html" target="_blank">Prof. Mathias Fisher</a></li>
+<li><strong>Max Neuendorf</strong>, PhD fast-track student at the University of Hamburg, under the supervision of <a href="https://www.inf.uni-hamburg.de/en/inst/ab/net/team/fischer.html" target="_blank">Prof. Mathias Fisher</a></li>
 </ul>
 
 <h2>Alumni</h2>
