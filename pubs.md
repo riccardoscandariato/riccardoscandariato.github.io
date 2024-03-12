@@ -65,6 +65,7 @@ title: Publications
 
 
 <h2>Conference and workshop papers</h2>
+<p>C93) Simon Schneider, Alexander Bakhtin, Xiaozhou Li, Jacopo Soldani, Antonio Brogi, Tomas Cerny, Riccardo Scandariato, Davide Taibi, <strong>Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications</strong>, International Conference on Mining Software Repositories - Registered Reports Track (MSR), 2024
 
 <p>C92) Nicolas E. Diaz Ferreyra, Mojtaba Shahin, Mansooreh Zahedi, Sodiq Quadri, Riccardo Scandariato, <strong>What Can Self-Admitted Technical Debt Tell Us About Security? A  Mixed-Methods Study</strong>, International Conference on Mining Software Repositories (MSR), 2024
 
