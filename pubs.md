@@ -6,7 +6,7 @@ title: Publications
 
 <h2>Journal papers</h2>
 
-<p>J26)Mazen Mohamadad, Jan-Philipp Steghöfer, Eric Knauss,  Riccardo Scandariato, <strong>Managing Security Evidence in Safety-Critical Organizations</strong>, Journal of Systems and Software, Elsevier, To appear</p>
+<p>J26) Mazen Mohamadad, Jan-Philipp Steghöfer, Eric Knauss,  Riccardo Scandariato, <strong>Managing Security Evidence in Safety-Critical Organizations</strong>, Journal of Systems and Software, Elsevier, To appear</p>
 
 <p>J25) Nicolas E. Diaz Ferreyra, Melina Vidoni, Maritta Heisel, Riccardo Scandariato, <strong>Cybersecurity Discussions in Stack Overflow: A Developer-Centred Analysis of Engagement and Self-Disclosure Behaviour</strong>, Social Network Analysis and Mining, To appear</p>
 
