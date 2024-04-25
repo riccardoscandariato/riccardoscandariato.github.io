@@ -6,6 +6,8 @@ title: Publications
 
 <h2>Journal papers</h2>
 
+<p>J26)Mazen Mohamadad, Jan-Philipp Steghöfer, Eric Knauss,  Riccardo Scandariato, <strong>Managing Security Evidence in Safety-Critical Organizations</strong>, Journal of Systems and Software, Elsevier, To appear</p>
+
 <p>J25) Nicolas E. Diaz Ferreyra, Melina Vidoni, Maritta Heisel, Riccardo Scandariato, <strong>Cybersecurity Discussions in Stack Overflow: A Developer-Centred Analysis of Engagement and Self-Disclosure Behaviour</strong>, Social Network Analysis and Mining, To appear</p>
 
 <p>J24) Quang-Cuong Bui, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato, <strong>APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities</strong>, Empirical Software Engineering, 29(18), 2024 <small>(also presented as <strong>Journal First</strong> at the International Conference on Software Engineering, <strong>ICSE 2024</strong>)</small></p>
