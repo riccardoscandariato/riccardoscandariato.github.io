@@ -11,15 +11,17 @@ Research and Innovation Action funded by the EU under the Horizon Europe framewo
 </blockquote>
 
 
-<h3><a href="https://assuremoss.org/en/" target="_blank">AssureMOSS: Assurance and certification in secure Multi-party Open Software and Services</a></h3>
-<h4 class="subtitle">Oct 2020 &ndash; Sept 2023</h4>
-<blockquote>
-Research and Innovation Action funded by the EU under the H2020 framework. I'm the <strong>scientific leader and a workpackage leader</strong>. In collaboration with academic and industrial partnenrs we devise innovative techniques (also based on AI) to make modern software projects more secure. The focus is on open, multi-party software. In particular, I'm working on reconstructing lightweigh models from code (e.g., micro-services) and to use such models for security analysis.
-</blockquote>
+
 
 <br/>
 
 <h1>Recently archived projects</h1>
+
+<h3><a href="https://assuremoss.org/en/" target="_blank">AssureMOSS: Assurance and certification in secure Multi-party Open Software and Services</a></h3>
+<h4 class="subtitle">Oct 2020 &ndash; Sept 2023</h4>
+<blockquote>
+Research and Innovation Action funded by the EU under the H2020 framework. I was the <strong>scientific leader and a workpackage leader</strong>. In collaboration with academic and industrial partnenrs we devised innovative techniques (also based on AI) to make modern software projects more secure. The focus is on open, multi-party software. In particular, I was working on reconstructing lightweigh models from code (e.g., micro-services) and on using such models for security analysis.
+</blockquote>
 
 <h3>CASUS: Building Security Assurance Cases in Automotive Open Systems</h3>
 <h4 class="subtitle">Nov 2017 &ndash; Aug 2021</h4>
