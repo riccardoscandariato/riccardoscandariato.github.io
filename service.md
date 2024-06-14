@@ -4,6 +4,12 @@ layout: default
 title: Committees
 ---
  
+ <h3>2025</h3>
+
+<ul>
+<li>PC Member of the International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)</li>
+</ul>
+
  <h3>2024</h3>
 
 <ul>
