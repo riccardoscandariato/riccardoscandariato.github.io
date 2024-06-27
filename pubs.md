@@ -6,13 +6,15 @@ title: Publications
 
 <h2>Journal papers</h2>
 
-<p>J26) Mazen Mohamadad, Jan-Philipp Steghöfer, Eric Knauss,  Riccardo Scandariato, <strong>Managing Security Evidence in Safety-Critical Organizations</strong>, Journal of Systems and Software, Elsevier, To appear</p>
+<p>J27) Evangelos Ntentos, Nicole Lueger, Georg Simhandl, Uwe Zdun, Simon Schneider, Riccardo Scandariato, Nicolas Diaz-Ferreyra, <strong>On the Understandability of Design-Level Security Practices in Infrastructure-as-Code Scripts and Deployment Architectures</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
 
-<p>J25) Nicolas E. Diaz Ferreyra, Melina Vidoni, Maritta Heisel, Riccardo Scandariato, <strong>Cybersecurity Discussions in Stack Overflow: A Developer-Centred Analysis of Engagement and Self-Disclosure Behaviour</strong>, Social Network Analysis and Mining, To appear</p>
+<p>J26) Mazen Mohamadad, Jan-Philipp Steghöfer, Eric Knauss,  Riccardo Scandariato, <strong>Managing Security Evidence in Safety-Critical Organizations</strong>, Journal of Systems and Software, Elsevier, Volume 214, 2024</p>
+
+<p>J25) Nicolas E. Diaz Ferreyra, Melina Vidoni, Maritta Heisel, Riccardo Scandariato, <strong>Cybersecurity Discussions in Stack Overflow: A Developer-Centred Analysis of Engagement and Self-Disclosure Behaviour</strong>, Social Network Analysis and Mining, 14(16), 2024</p>
 
 <p>J24) Quang-Cuong Bui, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato, <strong>APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities</strong>, Empirical Software Engineering, 29(18), 2024 <small>(also presented as <strong>Journal First</strong> at the International Conference on Software Engineering, <strong>ICSE 2024</strong>)</small></p>
 
-<p>J23) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Detection Strategies for Microservice Security Tactics</strong>, IEEE Transactions on Dependable and Secure Computing, To appear</p>
+<p>J23) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Detection Strategies for Microservice Security Tactics</strong>, IEEE Transactions on Dependable and Secure Computing, 21(3), 2024</p>
 
 <p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, Volume 202, 2023 <small>(also presented as <strong>Journal First</strong> at the International Conference on Automated Software Engineering, <strong>ASE 2023</strong>)</small></p>
 
