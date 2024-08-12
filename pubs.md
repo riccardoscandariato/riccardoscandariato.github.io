@@ -174,7 +174,7 @@ title: Publications
 
 <p>C43) Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>Do Security Patterns Really Help Designers?</strong> International Conference on Software Engineering (ICSE), Florence, Italy, May 2015</p>
 
-<p>C42) James Walden, Jeffrey Stuckman, Riccardo Scandariato, <strong>Predicting Vulnerable Components: Software Metrics vs Text Mining</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Naples, Italy, November 2014 (<strong>Best Paper Award ISSRE 2014</strong>) (<strong>Most Influential Paper ISSRE 2024</strong>)</p>
+<p>C42) James Walden, Jeffrey Stuckman, Riccardo Scandariato, <strong>Predicting Vulnerable Components: Software Metrics vs Text Mining</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Naples, Italy, November 2014 [<strong>Best Paper Award ISSRE 2014</strong>] and [<strong>Most Influential Paper ISSRE 2024</strong>]</p>
 
 <p>C41) Riccardo Scandariato, James Walden, Wouter Joosen, <strong>Static Analysis Versus Penetration Testing: a Controlled Experiment</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Pasadena, CA, USA, November 2013</p>
 
