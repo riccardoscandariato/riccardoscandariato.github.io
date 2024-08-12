@@ -108,7 +108,7 @@ title: Publications
 
 <p>C76) Catherine Tony, Mohana Balasubramanian, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>Conversational DevBots for Secure Programming: An Empirical Study on SKF Chatbot</strong>, International Conference on Evaluation and Assessment in Software Engineering (EASE), 2022</p>
 
-<p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022 (<strong>Best Data and Tool Showcase Paper Award</strong>)</p>
+<p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022<br/>[<strong>Best Data and Tool Showcase Paper Award</strong>]</p>
 
 <p>C74) Mazen Mohamad, &Ouml;rjan Askerdal, Rodi Jolak, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Asset-driven Security Assurance Cases with Built-in Quality Assurance</strong>, International Workshop on Engineering and Cybersecurity of Critical Systems (ENCYCRIS), 2021</p>
 
@@ -144,7 +144,7 @@ title: Publications
 
 <p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <strong>Generative Secure Design, Defined</strong>, International Conference on Software Engineering - New Ideas and Emerging Results Track (ICSE NIER), 2018</p>
 
-<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <strong>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</strong>, International Conference on Information Systems Security and Privacy (ICISSP), 2018 (also presented as poster, which received the <strong>Best Poster</strong> award)</p>
+<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <strong>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</strong>, International Conference on Information Systems Security and Privacy (ICISSP), 2018<br/>[also presented as poster, which received the <strong>Best Poster</strong> award]</p>
 
 <p>C56) Katja Tuma, Riccardo Scandariato, Mathias Widman, Christian Sandberg, <strong>Towards security threats that matter</strong>, Workshop On The Security Of Industrial Control Systems &amp; Of Cyber-Physical Systems (CyberICPS), 2017</p>
 
