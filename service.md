@@ -8,6 +8,8 @@ title: Committees
 
 <ul>
 <li>PC Member of the International Conference on Software Analysis, Evolution and Reengineering (SANER 2025)</li>
+<li>PC Member of the International Conference on Availability, Reliability and Security (ARES 2025)</li>
+<li>PC Member of the European Conference on Software Architecture (ECSA 2025)</li>
 </ul>
 
  <h3>2024</h3>
