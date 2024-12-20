@@ -70,6 +70,8 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
+<p>C95) Nicolas Diaz Ferreyra, Sirine Khelifi, Nalin Arachchilage, Riccardo Scandariato, <strong>The Good, the Bad, and the (Un)Usable: A Rapid Literature Review on Privacy as Code</strong>, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), 2023
+
 <p>C94) Simon Schneider, Ananya Saha, Emanuele Mezzi, Katja Tuma, Riccardo Scandariato, <strong>Designing Secure AI-based Systems: a Multi-Vocal Literature</strong>, IEEE Secure Development Conference (SecDev), 2024
 
 <p>C93) Simon Schneider, Alexander Bakhtin, Xiaozhou Li, Jacopo Soldani, Antonio Brogi, Tomas Cerny, Riccardo Scandariato, Davide Taibi, <strong>Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications</strong>, International Conference on Mining Software Repositories - Registered Reports Track (MSR), 2024
