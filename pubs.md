@@ -6,6 +6,8 @@ title: Publications
 
 <h2>Journal papers</h2>
 
+<p>J28) Catherine Tony, Nicolas Diaz Ferreyra, Markus Mutas, Salem Dhif, Riccardo Scandariato, <strong>Prompting Techniques for Secure Code Generation: A Systematic Investigation</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
+
 <p>J27) Evangelos Ntentos, Nicole Lueger, Georg Simhandl, Uwe Zdun, Simon Schneider, Riccardo Scandariato, Nicolas Diaz-Ferreyra, <strong>On the Understandability of Design-Level Security Practices in Infrastructure-as-Code Scripts and Deployment Architectures</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
 
 <p>J26) Mazen Mohamadad, Jan-Philipp Steghöfer, Eric Knauss,  Riccardo Scandariato, <strong>Managing Security Evidence in Safety-Critical Organizations</strong>, Journal of Systems and Software, Elsevier, Volume 214, 2024</p>
@@ -70,23 +72,27 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
-<p>C95) Nicolas Diaz Ferreyra, Sirine Khelifi, Nalin Arachchilage, Riccardo Scandariato, <strong>The Good, the Bad, and the (Un)Usable: A Rapid Literature Review on Privacy as Code</strong>, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), 2023
 
-<p>C94) Simon Schneider, Ananya Saha, Emanuele Mezzi, Katja Tuma, Riccardo Scandariato, <strong>Designing Secure AI-based Systems: a Multi-Vocal Literature</strong>, IEEE Secure Development Conference (SecDev), 2024
+<p>C96) Torge Hinrichs, Tim Diercks, Riccardo Scandariato, <strong>Impact of Identifier Normalization on Vulnerability Detection Techniques</strong>, International Workshop on Mining Software Repositories Applications for Privacy and Security (MSR4P&amp;S), 2025</p>
 
-<p>C93) Simon Schneider, Alexander Bakhtin, Xiaozhou Li, Jacopo Soldani, Antonio Brogi, Tomas Cerny, Riccardo Scandariato, Davide Taibi, <strong>Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications</strong>, International Conference on Mining Software Repositories - Registered Reports Track (MSR), 2024
 
-<p>C92) Nicolas E. Diaz Ferreyra, Mojtaba Shahin, Mansooreh Zahedi, Sodiq Quadri, Riccardo Scandariato, <strong>What Can Self-Admitted Technical Debt Tell Us About Security? A  Mixed-Methods Study</strong>, International Conference on Mining Software Repositories (MSR), 2024
+<p>C95) Nicolas Diaz Ferreyra, Sirine Khelifi, Nalin Arachchilage, Riccardo Scandariato, <strong>The Good, the Bad, and the (Un)Usable: A Rapid Literature Review on Privacy as Code</strong>, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), 2025</p>
 
-<p>C91) Clinton Cao, Simon Schneider, Nicolas E. Diaz Ferreyra, Sicco Verwer, Annibale Panichella, Riccardo Scandariato, <strong>CATMA: Conformance Analysis Tool For Microservice Applications</strong>, International Conference on Software Engineering - Demonstrations Track (ICSE Demo), 2024
+<p>C94) Simon Schneider, Ananya Saha, Emanuele Mezzi, Katja Tuma, Riccardo Scandariato, <strong>Designing Secure AI-based Systems: a Multi-Vocal Literature</strong>, IEEE Secure Development Conference (SecDev), 2024</p>
 
-<p>C90) Simon Schneider, Nicolas E. Diaz Ferreyra, Pierre-Jean Queval, Georg Simhandl, Uwe Zdun and Riccardo Scandariato, <strong>How Dataflow Diagrams Impact Software Security Analysis: an Empirical Experiment</strong>, International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024
+<p>C93) Simon Schneider, Alexander Bakhtin, Xiaozhou Li, Jacopo Soldani, Antonio Brogi, Tomas Cerny, Riccardo Scandariato, Davide Taibi, <strong>Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications</strong>, International Conference on Mining Software Repositories - Registered Reports Track (MSR), 2024</p>
 
-<p>C89) Quang-Cuong Bui, Malte Laukötter and Riccardo Scandariato, <strong>DockerCleaner: Automatic Repair of Security Smells in Dockerfiles</strong>, International Conference on Software Maintenance and Evolution (ICSME), 2023
+<p>C92) Nicolas E. Diaz Ferreyra, Mojtaba Shahin, Mansooreh Zahedi, Sodiq Quadri, Riccardo Scandariato, <strong>What Can Self-Admitted Technical Debt Tell Us About Security? A  Mixed-Methods Study</strong>, International Conference on Mining Software Repositories (MSR), 2024</p>
 
-<p>C88) Simon Schneider, Tufan Özen, Michael Chen, Riccardo Scandariato, <strong>microSecEnD: A Dataset of Security-Enriched Dataflow Diagrams for Microservice Applications</strong>, International Conference on Mining Software Repositories - Data and Tool Showcase (MSR), 2023
+<p>C91) Clinton Cao, Simon Schneider, Nicolas E. Diaz Ferreyra, Sicco Verwer, Annibale Panichella, Riccardo Scandariato, <strong>CATMA: Conformance Analysis Tool For Microservice Applications</strong>, International Conference on Software Engineering - Demonstrations Track (ICSE Demo), 2024</p>
 
-<p>C87) Catherine Tony, Markus Mutas, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations</strong>, International Conference on Mining Software Repositories - Data and Tool Showcase (MSR), 2023
+<p>C90) Simon Schneider, Nicolas E. Diaz Ferreyra, Pierre-Jean Queval, Georg Simhandl, Uwe Zdun and Riccardo Scandariato, <strong>How Dataflow Diagrams Impact Software Security Analysis: an Empirical Experiment</strong>, International Conference on Software Analysis, Evolution and Reengineering (SANER), 2024</p>
+
+<p>C89) Quang-Cuong Bui, Malte Laukötter and Riccardo Scandariato, <strong>DockerCleaner: Automatic Repair of Security Smells in Dockerfiles</strong>, International Conference on Software Maintenance and Evolution (ICSME), 2023</p>
+
+<p>C88) Simon Schneider, Tufan Özen, Michael Chen, Riccardo Scandariato, <strong>microSecEnD: A Dataset of Security-Enriched Dataflow Diagrams for Microservice Applications</strong>, International Conference on Mining Software Repositories - Data and Tool Showcase (MSR), 2023</p>
+
+<p>C87) Catherine Tony, Markus Mutas, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations</strong>, International Conference on Mining Software Repositories - Data and Tool Showcase (MSR), 2023</p>
 
 <p>C86) Nicolas E. Diaz Ferreyra, Abdessamad Imine, Melina Vidoni, Riccardo Scandariato, <strong>Developers Need Protection, Too: Perspectives and Research Challenges for Privacy in Social Coding Platforms</strong>, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), 2023</p>
 
