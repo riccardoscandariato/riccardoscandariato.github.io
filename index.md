@@ -78,7 +78,7 @@ My work is also characterized by the systematic use of empirical methods for sec
 <li><strong>Torge Hinrichs</strong>, PhD student working on predicting and localizing software vulnerabilities via machine learning</li>
 </ul>
 
-<h3>Co-Advisor</h3>
+<p>I also co-advise the following students:</p>
 
 <ul>
 <li><strong>Pierre-Jean Quéval</strong>, PhD student at the University of Vienna, under the supervision of <a href="https://swa.cs.univie.ac.at/team/person/38685/" target="_blank">Prof. Uwe Zdun</a></li>
