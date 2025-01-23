@@ -57,8 +57,8 @@ My core research topics are:</p>
 <ul>
 <li>Software vulnerability repair</li>
 <li>Localization and prediction of software vulnerabilities</li>
+<li>Automated generation of secure code</li>
 <li>Localization of security features in application software</li>
-<li>Generation of secure code</li>
 <li>Model-based security and threat analysis</li>
 <li>Usable security and privacy</li>
 </ul>
@@ -70,12 +70,12 @@ My work is also characterized by the systematic use of empirical methods for sec
 
 <p>Working with young researchers is one the perks of being a professor. It's something I truly enjoy and dedicate time to. I have the privilege of collaborating with the following research associates:</p>
 <ul>
-<li><strong>Nicolas Diaz Ferreyra</strong>, post-doctoral researcher working on privacy</li>	
-<li><strong>Emanuele Iannone</strong>, post-doctoral researcher working on automated vulnerability repair and automated exploit generation</li>
-<li><strong>Catherine Tony</strong>, PhD student working on automatic generation of secure and privacy-friendly application code</li>
-<li><strong>Cuong Bui Quang</strong>, PhD student working on automated program repair techniques for security vulnerabilities</li>
-<li><strong>Simon Schneider</strong>, PhD student working on lightweight techniques to identify security features in application code (e.g., microservices)</li>
-<li><strong>Torge Hinrichs</strong>, PhD student working on predicting software vulnerabilities via machine learning</li>
+<li><strong>Dr. Nicolas Diaz Ferreyra</strong>, senior researcher and lecturer (Oberingenieur) working on developer-centred security and privacy</li>	
+<li><strong>Dr. Emanuele Iannone</strong>, post-doctoral researcher working on automated vulnerability repair and security testing</li>
+<li><strong>Catherine Tony</strong>, PhD student working on AI-based automatic generation of secure code by means of prompt engineering</li>
+<li><strong>Cuong Bui Quang</strong>, PhD student working on automated vulnerability repair techniques for Java</li>
+<li><strong>Simon Schneider</strong>, PhD student working on lightweight techniques to localize and analyze security features in microservice applications</li>
+<li><strong>Torge Hinrichs</strong>, PhD student working on predicting and localizing software vulnerabilities via machine learning</li>
 </ul>
 
 <h3>Co-Advisor</h3>
