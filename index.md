@@ -66,7 +66,7 @@ My core research topics are:</p>
 My work is also characterized by the systematic use of empirical methods for security, including controlled experiments and mining software repositories.</p>
 
 
-<h2>Team</h2>
+<h2>Research team</h2>
 
 <p>Working with young researchers is one the perks of being a professor. It's something I truly enjoy and dedicate time to. I have the privilege of collaborating with the following research associates:</p>
 <ul>
