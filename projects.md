@@ -10,7 +10,11 @@ title: Active projects
 Research and Innovation Action funded by the EU under the Horizon Europe framework.
 </blockquote>
 
-
+<h3>SecDeRec: Software Agents for Security Debt Recognition</h3>
+<h4 class="subtitle">2025</h4>
+<blockquote>
+Research project with Ki Reply GmbH.
+</blockquote>
 
 
 <br/>
