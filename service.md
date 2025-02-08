@@ -58,7 +58,7 @@ title: Committees
 <h3>2019</h3>
 
 <ul>
-<li>Workshop Co-chair of the European Conference on Software Architecture (ECSA 2019)</li>
+<li>Workshop Chair of the European Conference on Software Architecture (ECSA 2019)</li>
 <li>PC Member of the International Conference on Software Architecture (ICSA 2019)</li>
 <li>PC Member of the International Conference on Software Engineering (ICSE 2019) Doctoral Symposium</li>
 <li>PC Member of the International Conference on Software Engineering (ICSE 2019) Poster Track</li>
@@ -151,7 +151,7 @@ title: Committees
 <ul>
 <li>Chair of the Workshop on Secure Software Engineering (SecSE 2011)</li>
 <li>Chair of the International Workshop on Eternal Systems (EternalS 2011)</li>
-<li>Co-organizer of the Workshop on Security Predictions (PREDICT 2011)</li>
+<li>Organizer of the Workshop on Security Predictions (PREDICT 2011)</li>
 <li>PC Member of the IFIP Conference on Communications and Multimedia Security (CMS 2011)</li>
 <li>PC Member of the International Workshop on Security Measurements and Metrics (MetriSec 2011)</li>
 <li>PC Member of the International Workshop on Software Engineering for Secure Systems (SESS 2011)</li>
