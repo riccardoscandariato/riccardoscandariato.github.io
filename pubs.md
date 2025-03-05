@@ -6,6 +6,8 @@ title: Publications
 
 <h2>Journal papers</h2>
 
+<p>J29) Simon Schneider, Alexander Bakhtin, Xiaozhou Li, Jacopo Soldani, Antonio Brogi, Tomas Cerny, Riccardo Scandariato, Davide Taibi, <strong>Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications</strong>, Empirical Software Engineering, To appear</p>
+
 <p>J28) Catherine Tony, Nicolas Diaz Ferreyra, Markus Mutas, Salem Dhif, Riccardo Scandariato, <strong>Prompting Techniques for Secure Code Generation: A Systematic Investigation</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
 
 <p>J27) Evangelos Ntentos, Nicole Lueger, Georg Simhandl, Uwe Zdun, Simon Schneider, Riccardo Scandariato, Nicolas Diaz-Ferreyra, <strong>On the Understandability of Design-Level Security Practices in Infrastructure-as-Code Scripts and Deployment Architectures</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
@@ -74,7 +76,6 @@ title: Publications
 
 
 <p>C96) Torge Hinrichs, Tim Diercks, Riccardo Scandariato, <strong>Impact of Identifier Normalization on Vulnerability Detection Techniques</strong>, International Workshop on Mining Software Repositories Applications for Privacy and Security (MSR4P&amp;S), 2025</p>
-
 
 <p>C95) Nicolas Diaz Ferreyra, Sirine Khelifi, Nalin Arachchilage, Riccardo Scandariato, <strong>The Good, the Bad, and the (Un)Usable: A Rapid Literature Review on Privacy as Code</strong>, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), 2025</p>
 

@@ -93,13 +93,13 @@ My work is also characterized by the systematic use of empirical methods for sec
 <li><a href="https://orcid.org/0000-0002-3446-1265" target="_blank">Dr. Mazen Mohamad</a>, graduated in June 2023 (University of Gothenburg, co-supervisor) with a PhD thesis titled <strong>Understanding, Implementing, and Supporting Security Assurance Cases in Safety-Critical Domains</strong></li>
 <li>Mrs. Komal Kashish, collaboration on <strong>security of IoT edge frameworks</strong> in 2021-2022</li>
 <li>Mrs. Anusha Bambhore Tukaram, collaboration on <strong>security of microservice applications</strong> in 2021-2022</li>
-<li><a href="https://katjatuma.github.io" target="_blank">Dr. Katja Tuma</a>, graduated in January 2021 (University of Gothenburg) with a PhD thesis titled <strong>Efficiency and Automation in Threat Analysis of Software Systems</strong></li>
+<li><a href="https://katjatuma.github.io" target="_blank">Prof. Dr. Katja Tuma</a>, graduated in January 2021 (University of Gothenburg) with a PhD thesis titled <strong>Efficiency and Automation in Threat Analysis of Software Systems</strong></li>
 <li><a href="http://www.rodijolak.com" target="_blank">Dr. Rodi Jolak</a>, PostDoc (University of Gothenburg) working on resilience of automotive systems in 2020-2021</li>
 <li><a href="https://research.chalmers.se/publication/525467" target="_blank">Dr. Tomasz Kosinski</a>, graduated in September 2021 (University of Gothenburg, co-supervisor) with a PhD thesis titled <strong>Privacy expectations and challenges of smart home ecosystems</strong></li>
 <li><a href="https://distrinet.cs.kuleuven.be/people/alex" target="_blank">Dr. Alexander van den Berghe</a>, graduated in March 2020 (KU Leuven) with a PhD thesis titled <strong>SMILE: A Security-Centric, Formally-Founded Modelling Language for Humans</strong></li>
 <li><a href="https://scholar.google.com/citations?user=Mt9ot9UAAAAJ&hl=en" target="_blank">Dr. Kim Wuyts</a>, graduated in January 2014 (KU Leuven) with a PhD thesis titled <strong>Privacy Threats in Software Architectures</strong></li>
 <li><a href="https://scholar.google.com/citations?user=I4SiG-IAAAAJ&hl=en" target="_blank">Dr. Thomas Heyman</a>, graduated in March 2013 (KU Leuven) with a PhD thesis titled <strong>A formal analysis technique for secure software architectures</strong></li>
-<li><a href="https://scholar.google.com/citations?user=xxSyH2UAAAAJ&hl=en" target="_blank">Dr. Koen Yskout</a>, graduated in April 2013 (KU Leuven) with a PhD thesis titled <strong>Connecting security requirements and software architecture with patterns</strong></li>
+<li><a href="https://scholar.google.com/citations?user=xxSyH2UAAAAJ&hl=en" target="_blank">Prof. Dr. Koen Yskout</a>, graduated in April 2013 (KU Leuven) with a PhD thesis titled <strong>Connecting security requirements and software architecture with patterns</strong></li>
 <li><a href="https://scholar.google.com/citations?user=QhaG3XEAAAAJ&hl=en" target="_blank">Dr. Koen Buyens</a>, graduated in January 2012 (KU Leuven, co-supervisor) with a PhD thesis titled <strong>Analyzing software architectures for least privilege violations</strong></li>
 </ul>
 
