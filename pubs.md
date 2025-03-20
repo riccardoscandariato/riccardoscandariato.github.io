@@ -75,13 +75,11 @@ title: Publications
 <h2>Conference and workshop papers</h2>
 
 
-<p>C96) Torge Hinrichs, Tim Diercks, Riccardo Scandariato, <strong>Impact of Identifier Normalization on Vulnerability Detection Techniques</strong>, International Workshop on Mining Software Repositories Applications for Privacy and Security (MSR4P&amp;S), 2025</p>
+<p>C95) Torge Hinrichs, Tim Diercks, Riccardo Scandariato, <strong>Impact of Identifier Normalization on Vulnerability Detection Techniques</strong>, International Workshop on Mining Software Repositories Applications for Privacy and Security (MSR4P&amp;S), 2025</p>
 
-<p>C95) Nicolas Diaz Ferreyra, Sirine Khelifi, Nalin Arachchilage, Riccardo Scandariato, <strong>The Good, the Bad, and the (Un)Usable: A Rapid Literature Review on Privacy as Code</strong>, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), 2025</p>
+<p>C94) Nicolas Diaz Ferreyra, Sirine Khelifi, Nalin Arachchilage, Riccardo Scandariato, <strong>The Good, the Bad, and the (Un)Usable: A Rapid Literature Review on Privacy as Code</strong>, International Conference on Cooperative and Human Aspects of Software Engineering (CHASE), 2025</p>
 
-<p>C94) Simon Schneider, Ananya Saha, Emanuele Mezzi, Katja Tuma, Riccardo Scandariato, <strong>Designing Secure AI-based Systems: a Multi-Vocal Literature</strong>, IEEE Secure Development Conference (SecDev), 2024</p>
-
-<p>C93) Simon Schneider, Alexander Bakhtin, Xiaozhou Li, Jacopo Soldani, Antonio Brogi, Tomas Cerny, Riccardo Scandariato, Davide Taibi, <strong>Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications</strong>, International Conference on Mining Software Repositories - Registered Reports Track (MSR), 2024</p>
+<p>C93) Simon Schneider, Ananya Saha, Emanuele Mezzi, Katja Tuma, Riccardo Scandariato, <strong>Designing Secure AI-based Systems: a Multi-Vocal Literature</strong>, IEEE Secure Development Conference (SecDev), 2024</p>
 
 <p>C92) Nicolas E. Diaz Ferreyra, Mojtaba Shahin, Mansooreh Zahedi, Sodiq Quadri, Riccardo Scandariato, <strong>What Can Self-Admitted Technical Debt Tell Us About Security? A  Mixed-Methods Study</strong>, International Conference on Mining Software Repositories (MSR), 2024</p>
 
