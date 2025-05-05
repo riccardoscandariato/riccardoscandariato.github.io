@@ -76,6 +76,7 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
+<p>C96) Simon Schneider, Komal Kashish, Katja Tuma, Riccardo Scandariato, <strong>In Specs we Trust? Conformance-Analysis of Implementation to Specifications in Node-RED and Associated Security Risks</strong>, International Conference on Availability, Reliability and Security (ARES), 2025</p>
 
 <p>C95) Torge Hinrichs, Tim Diercks, Riccardo Scandariato, <strong>Impact of Identifier Normalization on Vulnerability Detection Techniques</strong>, International Workshop on Mining Software Repositories Applications for Privacy and Security (MSR4P&amp;S), 2025</p>
 
