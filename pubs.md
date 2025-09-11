@@ -6,7 +6,7 @@ title: Publications
 
 <h2>Journal papers</h2>
 
-<p>J32) Torge Hinrichs, Emanuele Iannone, Tamas Aladics, Peter Hegedus, Andrea De Lucia, Fabio Palomba, Riccardo Scandariato, <strong>Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits</strong>, ACM Transactions on Software Engineering and Methodology, To appea
+<p>J32) Torge Hinrichs, Emanuele Iannone, Tamas Aladics, Peter Hegedus, Andrea De Lucia, Fabio Palomba, Riccardo Scandariato, <strong>Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits</strong>, ACM Transactions on Software Engineering and Methodology, To appear
 
 <p>J31) Torge Hinrichs, Emanuele Iannone, Riccardo Scandariato, <strong>Beyond Prompting: The Role of Phrasing Tasks in Vulnerability Prediction for Java</strong>, Cybersecurity, To appear
 
