@@ -50,20 +50,16 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 <h2>Research interests</h2>
 
 <p>
-Together with my team, I apply an inter-disciplinary approach to create innovative tools and techniques to design and implement secure and privacy-friendly applications. 
-My target application domains are micro-services, Internet-of-Things ecosystems, and cyber-physical systems. 
-While my main interest is in the technical aspects of software security, I also investigate how security techniques can be made more effective and usable for the developers. 
+Together with my team, I apply an inter-disciplinary approach to create innovative techniques to develop secure applications. While my main interest is in the technical aspects of software security, I also investigate how security techniques can be made more effective for the developers. 
 My core research topics are:</p>
 <ul>
+<li>Automated generation of secure code</li>
 <li>Software vulnerability repair</li>
 <li>Localization and prediction of software vulnerabilities</li>
-<li>Automated generation of secure code</li>
 <li>Localization of security features in application software</li>
 <li>Model-based security and threat analysis</li>
-<li>Usable security and privacy</li>
 </ul>
-<p>In this research agenda, an important role is played by the use of ML/AI to solve cybersecurity challenges.
-My work is also characterized by the systematic use of empirical methods for security, including controlled experiments and mining software repositories.</p>
+<p>In this research agenda, an important role is played by the use of AI. My work is also characterized by the systematic use of empirical methods for security, including controlled experiments and mining software repositories.</p>
 
 
 <h2>Research team</h2>
