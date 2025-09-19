@@ -12,7 +12,7 @@ title: Welcome!
 
 <p>My favorite saying is <em>"done is better than perfect"</em>.</p>
 
-<p>My favorite citation is <em>"Wer eine Vision hat, der soll zum Arzt gehen"</em> (anyone who has a vision should go to the doctor) from <a href="https://en.wikipedia.org/wiki/Helmut_Schmidt" target="_blank">Helmut Schmidt</a>.</p>
+<p>My favorite citation is <em>"Wer eine Vision hat, der soll zum Arzt gehen"</em> (anyone who has a vision should go to the doctor) from <a href="https://en.wikipedia.org/wiki/Helmut_Schmidt" target="_blank">Helmut Schmidt</a> (allegedly).</p>
 
 <p>I don't have LinkedIn, X, Instagram, TikTok, you name it...</p>
 
@@ -42,7 +42,7 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 
 <h2>Academic identifiers</h2>
 <ul>
-<li><a href="https://scholar.google.com/citations?hl=en&user=xul68AwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar page</a></li>
+<li><a href="https://scholar.google.com/citations?hl=en&user=xul68AwAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a></li>
 <li><a href="https://orcid.org/0000-0003-3591-7671" target="_blank">ORCID</a></li>
 </ul>
 
