@@ -70,6 +70,8 @@ My core research topics are:</p>
 <li><strong>Dr. Emanuele Iannone</strong>, post-doctoral researcher working on automated vulnerability repair and security testing</li>
 <li><strong>Catherine Tony</strong>, PhD student working on AI-based automatic generation of secure code by means of prompt engineering</li>
 <li><strong>Cuong Bui Quang</strong>, PhD student working on automated vulnerability repair techniques for Java</li>
+<li><strong>Luca Morelli</strong>, PhD student working on GenAI for secure software</li>
+<li><strong>Noah Frontzkowski</strong>, PhD student working on data-driven vulnerability repair</li>
 <li><strong>Simon Schneider</strong>, PhD student working on lightweight techniques to localize and analyze security features in microservice applications</li>
 <li><strong>Torge Hinrichs</strong>, PhD student working on predicting and localizing software vulnerabilities via machine learning</li>
 </ul>
