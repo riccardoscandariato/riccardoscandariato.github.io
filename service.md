@@ -7,7 +7,9 @@ title: Committees
  <h3>2026</h3>
 
 <ul>
+<li>PC Member of the International Conference on Software Analysis, Evolution and Reengineering (SANER 2026) </li>
 <li>PC Member of the International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 - Early Research Achievement Track)</li>
+
 </ul>
 
  <h3>2025</h3>
