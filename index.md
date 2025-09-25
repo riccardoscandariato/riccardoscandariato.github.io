@@ -53,11 +53,12 @@ Since late 2020, I'm the head of the Institute of Software Security at the <stro
 Together with my team, I apply an inter-disciplinary approach to create innovative techniques to develop secure applications. While my main interest is in the technical aspects of software security, I also investigate how security techniques can be made more effective for the developers. 
 My core research topics are:</p>
 <ul>
-<li>Automated generation of secure code</li>
+<li>Automated generation of secure code (GenAI)</li>
+<li>Prediction of vulnerability locations via foundation models</li>
 <li>Software vulnerability repair</li>
-<li>Localization and prediction of software vulnerabilities</li>
-<li>Localization of security features in application software</li>
-<li>Model-based security and threat analysis</li>
+<li>Identification of vulnerability contributing commits</li>
+<li>Security tests</li>
+<li>Security-by-design and threat analysis</li>
 </ul>
 <p>In this research agenda, an important role is played by the use of AI. My work is also characterized by the systematic use of empirical methods for security, including controlled experiments and mining software repositories.</p>
 
