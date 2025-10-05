@@ -16,7 +16,7 @@ title: Publications
 
 <p>J29) Simon Schneider, Alexander Bakhtin, Xiaozhou Li, Jacopo Soldani, Antonio Brogi, Tomas Cerny, Riccardo Scandariato, Davide Taibi, <strong>Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications</strong>, Empirical Software Engineering, 30(128), 2025</p>
 
-<p>J28) Catherine Tony, Nicolas Diaz Ferreyra, Markus Mutas, Salem Dhif, Riccardo Scandariato, <strong>Prompting Techniques for Secure Code Generation: A Systematic Investigation</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
+<p>J28) Catherine Tony, Nicolas Diaz Ferreyra, Markus Mutas, Salem Dhif, Riccardo Scandariato, <strong>Prompting Techniques for Secure Code Generation: A Systematic Investigation</strong>, ACM Transactions on Software Engineering and Methodology, 34(8), 2025</p>
 
 <p>J27) Evangelos Ntentos, Nicole Lueger, Georg Simhandl, Uwe Zdun, Simon Schneider, Riccardo Scandariato, Nicolas Diaz-Ferreyra, <strong>On the Understandability of Design-Level Security Practices in Infrastructure-as-Code Scripts and Deployment Architectures</strong>, ACM Transactions on Software Engineering and Methodology, 34(1), 2024</p>
 
