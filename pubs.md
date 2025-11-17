@@ -6,7 +6,7 @@ title: Publications
 
 <h2>Journal papers</h2>
 
-<p>J34) Catherine Tonya, Maura Pintor, Max Kretschmann, Riccardo Scandariato, <strong>Discrete Prompt Optimization Using Genetic Algorithm for Secure Python Code Generation</strong>, Journal of Systems and Software, Elsevier, to appear
+<p>J34) Catherine Tonya, Maura Pintor, Max Kretschmann, Riccardo Scandariato, <strong>Discrete Prompt Optimization Using Genetic Algorithm for Secure Python Code Generation</strong>, Journal of Systems and Software, Elsevier, Volume 232, 2026
 
 <p>J33) Simon Schneider, Pierre-Jean Queval, Akos Milankovich, Nicolas Diaz Ferreyra, Uwe Zdun, Riccardo Scandariato <strong>Automatic Rule Checking for Microservices: Supporting Security Analysis with Explainability</strong>, ACM Transactions on Software Engineering and Methodology, To appear
 
