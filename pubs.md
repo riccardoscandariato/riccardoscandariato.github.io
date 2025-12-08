@@ -12,7 +12,7 @@ title: Publications
 
 <p>J32) Torge Hinrichs, Emanuele Iannone, Tamas Aladics, Peter Hegedus, Andrea De Lucia, Fabio Palomba, Riccardo Scandariato, <strong>Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits</strong>, ACM Transactions on Software Engineering and Methodology, To appear
 
-<p>J31) Torge Hinrichs, Emanuele Iannone, Riccardo Scandariato, <strong>Beyond Prompting: The Role of Phrasing Tasks in Vulnerability Prediction for Java</strong>, Cybersecurity, To appear
+<p>J31) Torge Hinrichs, Emanuele Iannone, Riccardo Scandariato, <strong>Beyond Prompting: The Role of Phrasing Tasks in Vulnerability Prediction for Java</strong>, Cybersecurity, 8(111), 2025
 
 <p>J30) Kevin Hermann, Simon Schneider, Catherine Tony, Asli Yardim, Sven Peldszus, Thorsten Berger, Riccardo Scandariato, M. Angela Sasse, Alena Naiakshina, <strong>A Taxonomy of Functional Security Features and How They Can Be Located</strong>, Empirical Software Engineering, 30(117), 2025</p>
 
