@@ -75,14 +75,9 @@ title: Publications
 <p>J1) Bart De Win, Riccardo Scandariato, Koen Buyens, Johan Gregoire, Wouter Joosen, <strong>On the secure software development process: CLASP, SDL and Touchpoints compared</strong>, Information and Software Technology, Elsevier, Volume 51, Issue 7, Pages 1152-1171, Special Issue on Software Engineering for Secure Systems, July 2009</p>
 
 
-<h2>Book chapters</h2>
-
-<p>B2) Koen Yskout, Kim Wuyts, Dimitri Van Landuyt, Riccardo Scandariato, Wouter Joosen, <strong>Empirical research on security and privacy by design: What (not) to expect as a researcher or a reviewer</strong>, in <em>Empirical Research for Software Security: Foundations and Experience, Lotfi ben Othmane, Martin Gilje Jaatun, Edgar Weippl (Eds.)</em>, CRC Press, ISBN 9781498776417, 2017</p>
-
-<p>B1) Riccardo Scandariato, Federica Paci, Le Minh Sang Tran, Katsiaryna Labunets, Koen Yskout, Fabio Massacci, Wouter Joosen, <strong>Empirical Assessment of Security Requirements and Architecture: Lessons Learned</strong>, in <em>Engineering Secure Future Internet Services and Systems, Maritta Heisel, Wouter Joosen, Javier Lopez, Fabio Martinelli (Eds.)</em>, Springer, ISBN 9783319074528, 2014</p>
-
-
 <h2>Conference and workshop papers</h2>
+
+<p>C98) Quang-Cuong Bui, Emanuele Iannone, Riccardo Scandariato, <strong>VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities</strong>, International Conference on Software Analysis, Evolution and Reengineering (SANER), 2026</p>
 
 <p>C97) Catherine Tony, Emanuele Iannone, Riccardo Scandariato, <strong>Retrieve, Refine, or Both? Using Task-Specific Guidelines for Secure Python Code Generation</strong>, International Conference on Software Maintenance and Evolution (ICSME), 2025</p>
 
@@ -281,6 +276,12 @@ Crete, Greece, October 2010 (invited)</p>
 
 <p>C1) Patricia Lago, Riccardo Scandariato, <strong>A TINA-based solution for dynamic VPN provisioning on heterogeneous networks</strong>, IEEE Telecommunications Information Networking Architecture Conference (TINA), Paris, France, September 2000</p>
 
+
+<h2>Book chapters</h2>
+
+<p>B2) Koen Yskout, Kim Wuyts, Dimitri Van Landuyt, Riccardo Scandariato, Wouter Joosen, <strong>Empirical research on security and privacy by design: What (not) to expect as a researcher or a reviewer</strong>, in <em>Empirical Research for Software Security: Foundations and Experience, Lotfi ben Othmane, Martin Gilje Jaatun, Edgar Weippl (Eds.)</em>, CRC Press, ISBN 9781498776417, 2017</p>
+
+<p>B1) Riccardo Scandariato, Federica Paci, Le Minh Sang Tran, Katsiaryna Labunets, Koen Yskout, Fabio Massacci, Wouter Joosen, <strong>Empirical Assessment of Security Requirements and Architecture: Lessons Learned</strong>, in <em>Engineering Secure Future Internet Services and Systems, Maritta Heisel, Wouter Joosen, Javier Lopez, Fabio Martinelli (Eds.)</em>, Springer, ISBN 9783319074528, 2014</p>
 
 
 <h2>As editor</h2>
