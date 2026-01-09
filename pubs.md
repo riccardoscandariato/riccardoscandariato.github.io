@@ -6,7 +6,7 @@ title: Publications
 
 <h2>Journal papers</h2>
 
-<p>J34) Catherine Tonya, Maura Pintor, Max Kretschmann, Riccardo Scandariato, <strong>Discrete Prompt Optimization Using Genetic Algorithm for Secure Python Code Generation</strong>, Journal of Systems and Software, Elsevier, Volume 232, 2026
+<p>J34) Catherine Tony, Maura Pintor, Max Kretschmann, Riccardo Scandariato, <strong>Discrete Prompt Optimization Using Genetic Algorithm for Secure Python Code Generation</strong>, Journal of Systems and Software, Elsevier, Volume 232, 2026
 
 <p>J33) Simon Schneider, Pierre-Jean Queval, Akos Milankovich, Nicolas Diaz Ferreyra, Uwe Zdun, Riccardo Scandariato <strong>Automatic Rule Checking for Microservices: Supporting Security Analysis with Explainability</strong>, ACM Transactions on Software Engineering and Methodology, To appear
 
@@ -76,6 +76,8 @@ title: Publications
 
 
 <h2>Conference and workshop papers</h2>
+
+<p>C99) Emanuele Iannone, Quang-Cuong Bui, Riccardo Scandariato, <strong>A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests</strong>, International Conference on Mining Software Repositories (MSR), 2026</p>
 
 <p>C98) Quang-Cuong Bui, Emanuele Iannone, Riccardo Scandariato, <strong>VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities</strong>, International Conference on Software Analysis, Evolution and Reengineering (SANER), 2026</p>
 
