@@ -10,10 +10,22 @@ title: Active projects
 Research and Innovation Action funded by the EU under the Horizon Europe framework.
 </blockquote>
 
-<h3><a href="https://www.tuhh.de/idac/research/digital-immunization" target="_blank">Digital immunization of civil infrastructure</a></h3>
+<h3>DeVulnIX: Design-Level Vulnerabilities Identification and Fixing (as PI)</h3>
+<h4 class="subtitle">2026</h4>
+<blockquote>
+German Research Foundation (DFG): WEAVE project in collaboration with FWF (Austria). More info to come soon.
+</blockquote>
+
+<h3><a href="https://www.tuhh.de/idac/research/digital-immunization" target="_blank">Digital immunization of civil infrastructure</a> (as partner, PI: Prof. Kay Smarsly)</h3>
 <h4 class="subtitle">2026</h4>
 <blockquote>
 German Research Foundation (DFG): Initiation of international collaboration.
+</blockquote>
+
+<h3>DevSSATD: Developer-Centred Management of Self-Admitted Technical Debt for Security (as partner, PI: Dr. Nicolas Diaz Ferreyra)</h3>
+<h4 class="subtitle">2026</h4>
+<blockquote>
+German Research Foundation (DFG): Individual Research Grant. More info to come soon.
 </blockquote>
 
 <h3>KiThreat: Threat and Risk Assessment Methods for GenAI-Based Software</h3>
