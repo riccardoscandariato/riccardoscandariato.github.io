@@ -77,6 +77,8 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
+<p>C100) Nicolas Diaz Ferreyra, Monika Swetha Gurupathi, Zadia Codabux, Nalin Arachchilage, Riccardo Scandariato, <strong>Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot</strong>, International Workshop on Evaluation of Qualitative Aspects of Intelligent Software Assistants (EQUISA), 2026</p>
+
 <p>C99) Emanuele Iannone, Quang-Cuong Bui, Riccardo Scandariato, <strong>A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests</strong>, International Conference on Mining Software Repositories (MSR), 2026</p>
 
 <p>C98) Quang-Cuong Bui, Emanuele Iannone, Riccardo Scandariato, <strong>VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities</strong>, International Conference on Software Analysis, Evolution and Reengineering (SANER), 2026</p>
