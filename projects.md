@@ -28,15 +28,15 @@ German Research Foundation (DFG): Initiation of international collaboration.
 German Research Foundation (DFG): Individual Research Grant. More info to come soon.
 </blockquote>
 
+<br/>
+
+<h1>Recently archived projects</h1>
+
 <h3>KiThreat: Threat and Risk Assessment Methods for GenAI-Based Software</h3>
 <h4 class="subtitle">2025</h4>
 <blockquote>
 Research project with CREATUM GmbH.
 </blockquote>
-
-<br/>
-
-<h1>Recently archived projects</h1>
 
 <h3><a href="https://assuremoss.org/en/" target="_blank">AssureMOSS: Assurance and certification in secure Multi-party Open Software and Services</a></h3>
 <h4 class="subtitle">Oct 2020 &ndash; Sept 2023</h4>
