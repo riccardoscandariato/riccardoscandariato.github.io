@@ -7,13 +7,13 @@ title: Active projects
 <h3><a href="https://sec4ai4sec.eu" target="_blank">Sec4AI4Sec: Cybersecurity for AI-Augmented Systems</a></h3>
 <h4 class="subtitle">Oct 2023 &ndash; Sept 2026</h4>
 <blockquote>
-Research and Innovation Action funded by the EU under the Horizon Europe framework.
+Research and Innovation Action (EU) under the Horizon Europe framework.
 </blockquote>
 
 <h3>DeVulnIX: Design-Level Vulnerabilities Identification and Fixing (as PI)</h3>
 <h4 class="subtitle">2026-2028</h4>
 <blockquote>
-German Research Foundation (DFG): WEAVE project in collaboration with FWF (Austria). More info to come soon.
+German Research Foundation (DFG): WEAVE project in collaboration with FWF (Austria).
 </blockquote>
 
 <h3><a href="https://www.tuhh.de/idac/research/digital-immunization" target="_blank">Digital immunization of civil infrastructure</a> (as partner, PI: Prof. Kay Smarsly)</h3>
@@ -25,7 +25,7 @@ German Research Foundation (DFG): Initiation of international collaboration.
 <h3>DevSSATD: Developer-Centred Management of Self-Admitted Technical Debt for Security (as partner, PI: Dr. Nicolas Diaz Ferreyra)</h3>
 <h4 class="subtitle">2026-2028</h4>
 <blockquote>
-German Research Foundation (DFG): Individual Research Grant. More info to come soon.
+German Research Foundation (DFG): Individual Research Grant.
 </blockquote>
 
 <br/>
