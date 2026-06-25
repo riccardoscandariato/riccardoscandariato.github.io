@@ -12,6 +12,7 @@ title: Committees
 <li>PC Member of the International Conference on Availability, Reliability and Security (ARES 2026)</li>
 <li>PC Member of the European Conference on Software Architecture (ECSA 2026)</li>
 <li>PC Member of the International Workshop on Designing and Measuring Security in Systems with AI (DeMeSSAI 2026)</li>
+<li>PC Chair of the International Workshop on Security Testing for Complex Software Systems (SECUTE 2026)</li>
 </ul>
 
  <h3>2025</h3>
