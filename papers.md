@@ -14,7 +14,7 @@ title: Publications
 
 <p>J31) Torge Hinrichs, Emanuele Iannone, Riccardo Scandariato, <strong>Beyond Prompting: The Role of Phrasing Tasks in Vulnerability Prediction for Java</strong>, Cybersecurity, 8(111), 2025</p>
 
-<p>J30) Kevin Hermann, Simon Schneider, Catherine Tony, Asli Yardim, Sven Peldszus, Thorsten Berger, Riccardo Scandariato, M. Angela Sasse, Alena Naiakshina, <strong>A Taxonomy of Functional Security Features and How They Can Be Located</strong>, Empirical Software Engineering, 30(117), 2025<small>[also presented as Journal First at the International Conference on Software Engineering, ICSE 2026]</small></p>
+<p>J30) Kevin Hermann, Simon Schneider, Catherine Tony, Asli Yardim, Sven Peldszus, Thorsten Berger, Riccardo Scandariato, M. Angela Sasse, Alena Naiakshina, <strong>A Taxonomy of Functional Security Features and How They Can Be Located</strong>, Empirical Software Engineering, 30(117), 2025 <small>[also presented as Journal First at the International Conference on Software Engineering, ICSE 2026]</small></p>
 
 <p>J29) Simon Schneider, Alexander Bakhtin, Xiaozhou Li, Jacopo Soldani, Antonio Brogi, Tomas Cerny, Riccardo Scandariato, Davide Taibi, <strong>Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications</strong>, Empirical Software Engineering, 30(128), 2025</p>
 
