@@ -8,13 +8,13 @@ title: Welcome!
 
 <p>I'm also the coordinator of the <a href="https://www.tuhh.de/tuhh/en/studying/before-studying/degree-courses/international-study-programs/information-and-communication-systems.html"  target="_blank">International Master in Information and Communication Systems</a>.</p>
 
-<p>I'm a father to two boys, a husband, and an amateur photographer.</p> 
+<p>I'm a father to two boys, a husband, and an amateur photographer. I don't have LinkedIn, X, Bluesky, you name it...</p> 
 
+<!-- 
 <p>My favorite saying is <em>"done is better than perfect"</em>.</p>
 
 <p>My favorite citation is <em>"Wer eine Vision hat, der soll zum Arzt gehen"</em> (anyone who has a vision should go to the doctor) from <a href="https://en.wikipedia.org/wiki/Helmut_Schmidt" target="_blank">Helmut Schmidt</a> (allegedly).</p>
-
-<p>I don't have LinkedIn, X, Instagram, TikTok, you name it...</p>
+-->
 
 
 <h2>Contact info</h2>
