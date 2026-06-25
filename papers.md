@@ -129,7 +129,7 @@ title: Publications
 
 <p>C76) Catherine Tony, Mohana Balasubramanian, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>Conversational DevBots for Secure Programming: An Empirical Study on SKF Chatbot</strong>, International Conference on Evaluation and Assessment in Software Engineering (EASE), 2022</p>
 
-<p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022<br/><strong style="background-color:powderblue;">[Best Data and Tool Showcase Paper Award]</strong></p>
+<p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022<strong style="background-color:powderblue;">[Best Data and Tool Showcase Paper Award]</strong></p>
 
 <p>C74) Mazen Mohamad, &Ouml;rjan Askerdal, Rodi Jolak, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Asset-driven Security Assurance Cases with Built-in Quality Assurance</strong>, International Workshop on Engineering and Cybersecurity of Critical Systems (ENCYCRIS), 2021</p>
 
@@ -165,7 +165,7 @@ title: Publications
 
 <p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <strong>Generative Secure Design, Defined</strong>, International Conference on Software Engineering - New Ideas and Emerging Results Track (ICSE NIER), 2018</p>
 
-<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <strong>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</strong>, International Conference on Information Systems Security and Privacy (ICISSP), 2018<br/><strong style="background-color:powderblue;">[also presented as poster, which received the Best Poster Award]</strong></p>
+<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <strong>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</strong>, International Conference on Information Systems Security and Privacy (ICISSP), 2018<strong style="background-color:powderblue;">[also presented as poster, which received the Best Poster Award]</strong></p>
 
 <p>C56) Katja Tuma, Riccardo Scandariato, Mathias Widman, Christian Sandberg, <strong>Towards security threats that matter</strong>, Workshop On The Security Of Industrial Control Systems &amp; Of Cyber-Physical Systems (CyberICPS), 2017</p>
 
@@ -191,11 +191,11 @@ title: Publications
 
 <p>C45) Phu Nguyen, Koen Yskout, Thomas Heyman, Jacques Klein, Riccardo Scandariato, Yves Le Traon, <strong>SoSPa: A system of Security design Patterns for systematically engineering secure systems</strong>, International Conference on Model Driven Engineering Languages and Systems (MODELS), Ottawa, Canada, September 2015</p>
 
-<p>C44) Laurens Sion, Koen Yskout, Alexander van den Berghe, Riccardo Scandariato, Wouter Joosen, <strong>MASC: Modelling Architectural Security Concerns</strong>, International Workshop on Modeling in Software Engineering (MiSE), Florence, Italy, May 2015</p>
+<p>C44) Laurens Sion, Koen Yskout, Alexander van den Berghe, Riccardo Scandariato, Wouter Joosen, <strong>ASC: Modelling Architectural Security Concerns</strong>, International Workshop on Modeling in Software Engineering (MiSE), Florence, Italy, May 2015</p>
 
 <p>C43) Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>Do Security Patterns Really Help Designers?</strong> International Conference on Software Engineering (ICSE), Florence, Italy, May 2015</p>
 
-<p>C42) James Walden, Jeffrey Stuckman, Riccardo Scandariato, <strong>Predicting Vulnerable Components: Software Metrics vs Text Mining</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Naples, Italy, November 2014<br/><strong style="background-color:powderblue;">[Best Paper Award ISSRE 2014]</strong> and <strong style="background-color:powderblue;">[<a href="https://issre.github.io/2024/test_of_time.html" target="_blank">Test-of-Time Award</a> at ISSRE 2024]</strong></p>
+<p>C42) James Walden, Jeffrey Stuckman, Riccardo Scandariato, <strong>Predicting Vulnerable Components: Software Metrics vs Text Mining</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Naples, Italy, November 2014<strong style="background-color:powderblue;">[Best Paper Award ISSRE 2014]</strong> and <strong style="background-color:powderblue;">[<a href="https://issre.github.io/2024/test_of_time.html" target="_blank">Test-of-Time Award</a> at ISSRE 2024]</strong></p>
 
 <p>C41) Riccardo Scandariato, James Walden, Wouter Joosen, <strong>Static Analysis Versus Penetration Testing: a Controlled Experiment</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Pasadena, CA, USA, November 2013</p>
 
