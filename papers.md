@@ -10,7 +10,7 @@ title: Publications
 
 <p>J33) Simon Schneider, Pierre-Jean Queval, Akos Milankovich, Nicolas Diaz Ferreyra, Uwe Zdun, Riccardo Scandariato <strong>Automatic Rule Checking for Microservices: Supporting Security Analysis with Explainability</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
 
-<p>J32) Torge Hinrichs, Emanuele Iannone, Tamas Aladics, Peter Hegedus, Andrea De Lucia, Fabio Palomba, Riccardo Scandariato, <strong>Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits</strong>, ACM Transactions on Software Engineering and Methodology, To appear <small>[also presented as Journal First at the International Conference on Software and Systems Reuse, Product Lines, and Configuration, VARIABILITY 2026]</small></p>
+<p>J32) Torge Hinrichs, Emanuele Iannone, Tamas Aladics, Peter Hegedus, Andrea De Lucia, Fabio Palomba, Riccardo Scandariato, <strong>Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits</strong>, ACM Transactions on Software Engineering and Methodology, To appear <small style="color:gray; background-color:powderblue;">[also presented as Journal First at the International Conference on Software and Systems Reuse, Product Lines, and Configuration, VARIABILITY 2026]</small></p>
 
 <p>J31) Torge Hinrichs, Emanuele Iannone, Riccardo Scandariato, <strong>Beyond Prompting: The Role of Phrasing Tasks in Vulnerability Prediction for Java</strong>, Cybersecurity, 8(111), 2025</p>
 
