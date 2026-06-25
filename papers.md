@@ -10,11 +10,11 @@ title: Publications
 
 <p>J33) Simon Schneider, Pierre-Jean Queval, Akos Milankovich, Nicolas Diaz Ferreyra, Uwe Zdun, Riccardo Scandariato <strong>Automatic Rule Checking for Microservices: Supporting Security Analysis with Explainability</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
 
-<p>J32) Torge Hinrichs, Emanuele Iannone, Tamas Aladics, Peter Hegedus, Andrea De Lucia, Fabio Palomba, Riccardo Scandariato, <strong>Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits</strong>, ACM Transactions on Software Engineering and Methodology, To appear <small style="color:gray; background-color:powderblue;">[also presented as Journal First at the International Conference on Software and Systems Reuse, Product Lines, and Configuration, VARIABILITY 2026]</small></p>
+<p>J32) Torge Hinrichs, Emanuele Iannone, Tamas Aladics, Peter Hegedus, Andrea De Lucia, Fabio Palomba, Riccardo Scandariato, <strong>Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits</strong>, ACM Transactions on Software Engineering and Methodology, To appear <small style="color:gray;">[also presented as Journal First at the International Conference on Software and Systems Reuse, Product Lines, and Configuration, VARIABILITY 2026]</small></p>
 
 <p>J31) Torge Hinrichs, Emanuele Iannone, Riccardo Scandariato, <strong>Beyond Prompting: The Role of Phrasing Tasks in Vulnerability Prediction for Java</strong>, Cybersecurity, 8(111), 2025</p>
 
-<p>J30) Kevin Hermann, Simon Schneider, Catherine Tony, Asli Yardim, Sven Peldszus, Thorsten Berger, Riccardo Scandariato, M. Angela Sasse, Alena Naiakshina, <strong>A Taxonomy of Functional Security Features and How They Can Be Located</strong>, Empirical Software Engineering, 30(117), 2025 <small>[also presented as Journal First at the International Conference on Software Engineering, ICSE 2026]</small></p>
+<p>J30) Kevin Hermann, Simon Schneider, Catherine Tony, Asli Yardim, Sven Peldszus, Thorsten Berger, Riccardo Scandariato, M. Angela Sasse, Alena Naiakshina, <strong>A Taxonomy of Functional Security Features and How They Can Be Located</strong>, Empirical Software Engineering, 30(117), 2025 <small style="color:gray;">[also presented as Journal First at the International Conference on Software Engineering, ICSE 2026]</small></p>
 
 <p>J29) Simon Schneider, Alexander Bakhtin, Xiaozhou Li, Jacopo Soldani, Antonio Brogi, Tomas Cerny, Riccardo Scandariato, Davide Taibi, <strong>Comparison of Static Analysis Architecture Recovery Tools for Microservice Applications</strong>, Empirical Software Engineering, 30(128), 2025</p>
 
@@ -26,11 +26,11 @@ title: Publications
 
 <p>J25) Nicolas E. Diaz Ferreyra, Melina Vidoni, Maritta Heisel, Riccardo Scandariato, <strong>Cybersecurity Discussions in Stack Overflow: A Developer-Centred Analysis of Engagement and Self-Disclosure Behaviour</strong>, Social Network Analysis and Mining, 14(16), 2024</p>
 
-<p>J24) Quang-Cuong Bui, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato, <strong>APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities</strong>, Empirical Software Engineering, 29(18), 2024 <small>[also presented as Journal First at the International Conference on Software Engineering, ICSE 2024]</small></p>
+<p>J24) Quang-Cuong Bui, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato, <strong>APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities</strong>, Empirical Software Engineering, 29(18), 2024 <small style="color:gray;">[also presented as Journal First at the International Conference on Software Engineering, ICSE 2024]</small></p>
 
 <p>J23) Uwe Zdun, Pierre-Jean Queval, Georg Simhandl, Riccardo Scandariato, Somik Chakravarty, Marjan Jelic, Aleksandar Jovanovic, <strong>Detection Strategies for Microservice Security Tactics</strong>, IEEE Transactions on Dependable and Secure Computing, 21(3), 2024</p>
 
-<p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, Volume 202, 2023 <small>[also presented as Journal First at the International Conference on Automated Software Engineering, ASE 2023]</small></p>
+<p>J22) Simon Schneider, Riccardo Scandariato, <strong>Automatic Extraction of Security-Rich Dataflow Diagrams for Microservice Applications written in Java</strong>, Journal of Systems and Software, Volume 202, 2023 <small style="color:gray;">[also presented as Journal First at the International Conference on Automated Software Engineering, ASE 2023]</small></p>
 
 <p>J21) Mazen Mohamad, Rodi Jolak, Örjan Askerdal, Jan-Philipp Steghöfer, Riccardo Scandariato, <strong>CASCADE: An Asset-driven Approach to Build Security Assurance Cases for Automotive Systems</strong>, ACM Transactions on Cyber-Physical Systems, 7(1), 2023</p>
 
@@ -38,7 +38,7 @@ title: Publications
 
 <p>J19) Katja Tuma, Sven Peldszus, Daniel Strüber, Riccardo Scandariato, Jan Jürjens, <strong>Checking Security Compliance between Models and Code</strong>, Software and Systems Modeling, Volume 22, Springer, 2022</p>
 
-<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022 <small>[also presented as Journal First at the International Conference on Software Architecture, ICSA 2023]</small></p>
+<p>J18) Rodi Jolak, Thomas Rosenstatter, Mazen Mohamad, Kim Strandberg, Behrooz Sangchoolie, Nasser Nowdehi, Riccardo Scandariato, <strong>CONSERVE: A Framework for the Selection of Techniques for Monitoring Containers Security</strong>, Journal of Systems and Software, Elsevier, Volume 186, April 2022 <small style="color:gray;">[also presented as Journal First at the International Conference on Software Architecture, ICSA 2023]</small></p>
 
 <p>J17) Katja Tuma, Christian Sandberg, Urban Thorsson, Mathias Widman, Thomas Herpel, Riccardo Scandariato, <strong>Finding Security Threats That Matter: Two Industrial Case Studies</strong>, Journal of Systems and Software, Elsevier, Volume 179, September 2021</p>
 
@@ -129,7 +129,7 @@ title: Publications
 
 <p>C76) Catherine Tony, Mohana Balasubramanian, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>Conversational DevBots for Secure Programming: An Empirical Study on SKF Chatbot</strong>, International Conference on Evaluation and Assessment in Software Engineering (EASE), 2022</p>
 
-<p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022<br/>[<strong>Best Data and Tool Showcase Paper Award</strong>]</p>
+<p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022<br/><strong style="background-color:powderblue;">[Best Data and Tool Showcase Paper Award]</strong></p>
 
 <p>C74) Mazen Mohamad, &Ouml;rjan Askerdal, Rodi Jolak, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Asset-driven Security Assurance Cases with Built-in Quality Assurance</strong>, International Workshop on Engineering and Cybersecurity of Critical Systems (ENCYCRIS), 2021</p>
 
@@ -165,7 +165,7 @@ title: Publications
 
 <p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <strong>Generative Secure Design, Defined</strong>, International Conference on Software Engineering - New Ideas and Emerging Results Track (ICSE NIER), 2018</p>
 
-<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <strong>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</strong>, International Conference on Information Systems Security and Privacy (ICISSP), 2018<br/>[also presented as poster, which received the <strong>Best Poster Award</strong>]</p>
+<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <strong>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</strong>, International Conference on Information Systems Security and Privacy (ICISSP), 2018<br/><strong style="background-color:powderblue;">[also presented as poster, which received the Best Poster Award]</strong></p>
 
 <p>C56) Katja Tuma, Riccardo Scandariato, Mathias Widman, Christian Sandberg, <strong>Towards security threats that matter</strong>, Workshop On The Security Of Industrial Control Systems &amp; Of Cyber-Physical Systems (CyberICPS), 2017</p>
 
@@ -195,7 +195,7 @@ title: Publications
 
 <p>C43) Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>Do Security Patterns Really Help Designers?</strong> International Conference on Software Engineering (ICSE), Florence, Italy, May 2015</p>
 
-<p>C42) James Walden, Jeffrey Stuckman, Riccardo Scandariato, <strong>Predicting Vulnerable Components: Software Metrics vs Text Mining</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Naples, Italy, November 2014<br/>[<strong>Best Paper Award ISSRE 2014</strong>] and [<strong><a href="https://issre.github.io/2024/test_of_time.html" target="_blank">Test-of-Time Award</a> at ISSRE 2024</strong>]</p>
+<p>C42) James Walden, Jeffrey Stuckman, Riccardo Scandariato, <strong>Predicting Vulnerable Components: Software Metrics vs Text Mining</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Naples, Italy, November 2014<br/><strong style="background-color:powderblue;">[Best Paper Award ISSRE 2014]</strong> and <strong style="background-color:powderblue;">[<a href="https://issre.github.io/2024/test_of_time.html" target="_blank">Test-of-Time Award</a> at ISSRE 2024]</strong></p>
 
 <p>C41) Riccardo Scandariato, James Walden, Wouter Joosen, <strong>Static Analysis Versus Penetration Testing: a Controlled Experiment</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Pasadena, CA, USA, November 2013</p>
 
