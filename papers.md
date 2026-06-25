@@ -129,7 +129,7 @@ title: Publications
 
 <p>C76) Catherine Tony, Mohana Balasubramanian, Nicolas E. Diaz Ferreyra, Riccardo Scandariato, <strong>Conversational DevBots for Secure Programming: An Empirical Study on SKF Chatbot</strong>, International Conference on Evaluation and Assessment in Software Engineering (EASE), 2022</p>
 
-<p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022 <strong style="background-color:powderblue;">[Best Data and Tool Showcase Paper Award]</strong></p>
+<p>C75) Quang-Cuong Bui, Riccardo Scandariato, Nicolas Diaz Ferreyra, <strong>Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques</strong>, International Conference on Mining Software Repositories (MSR), 2022 <small style="background-color:powderblue;">[Best Data and Tool Showcase Paper Award]</small></p>
 
 <p>C74) Mazen Mohamad, &Ouml;rjan Askerdal, Rodi Jolak, Jan-Philipp Stegh&ouml;fer, Riccardo Scandariato, <strong>Asset-driven Security Assurance Cases with Built-in Quality Assurance</strong>, International Workshop on Engineering and Cybersecurity of Critical Systems (ENCYCRIS), 2021</p>
 
@@ -165,122 +165,119 @@ title: Publications
 
 <p>C58) Riccardo Scandariato, Jennifer Horkhoff, Robert Feldt, <strong>Generative Secure Design, Defined</strong>, International Conference on Software Engineering - New Ideas and Emerging Results Track (ICSE NIER), 2018</p>
 
-<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <strong>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</strong>, International Conference on Information Systems Security and Privacy (ICISSP), 2018 <strong style="background-color:powderblue;">[also presented as poster, which received the Best Poster Award]</strong></p>
+<p>C57) Stefanie Jasser, Katja Tuma, Riccardo Scandariato, Matthias Riebisch, <strong>Back to the Drawing Board: Bringing Security Constraints in an Architecture-centric Software Development Process</strong>, International Conference on Information Systems Security and Privacy (ICISSP), 2018 <small style="background-color:powderblue;">[also presented as poster, which received the Best Poster Award]</small></p>
 
 <p>C56) Katja Tuma, Riccardo Scandariato, Mathias Widman, Christian Sandberg, <strong>Towards security threats that matter</strong>, Workshop On The Security Of Industrial Control Systems &amp; Of Cyber-Physical Systems (CyberICPS), 2017</p>
 
 <p>C55) Vasileios Theodorou, Ilias Gerostathopoulos, Sasan Amini, Riccardo Scandariato, Christian Prehofer, Miroslaw Staron, <strong>Theta Architecture: Preserving the Quality of Analytics in Data-Driven Systems</strong>, Workshop on Novel Techniques for Integrating Big Data (BigNovelTI), 2017</p>
 
-<p>C54) Laurens Sion, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>A modular meta-model for security solutions</strong>, Modularity in Modelling Workshop (MOMO), Brussels, Belgium, April 2017</p>
+<p>C54) Laurens Sion, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>A modular meta-model for security solutions</strong>, Modularity in Modelling Workshop (MOMO), April 2017</p>
 
-<p>C53) Alexander van den Berghe, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>A Model for Provably Secure Software Design, </strong>Workshop on Formal Models in Software Engineering (FormaliSE), Buenos Aires, Argentina, May 2017</p>
+<p>C53) Alexander van den Berghe, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>A Model for Provably Secure Software Design, </strong>Workshop on Formal Models in Software Engineering (FormaliSE), May 2017</p>
 
-<p>C52) Bashar Nassar, Riccardo Scandariato, <strong>Traceability Metrics as Early Predictors of Software Defects?</strong>, IEEE International Conference on Software Architecture (ICSA), Gothenburg, Sweden, April 2017</p>
+<p>C52) Bashar Nassar, Riccardo Scandariato, <strong>Traceability Metrics as Early Predictors of Software Defects?</strong>, IEEE International Conference on Software Architecture (ICSA), 2017</p>
 
-<p>C51) Thibaud Antignac, Riccardo Scandariato, Gerardo Schneider, <strong>A Privacy-Aware Conceptual Model for Handling Personal Data</strong>, International Symposium on Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), Corfu, Greece, October 2016</p>
+<p>C51) Thibaud Antignac, Riccardo Scandariato, Gerardo Schneider, <strong>A Privacy-Aware Conceptual Model for Handling Personal Data</strong>, International Symposium on Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), 2016</p>
 
-<p>C50) Mariano Ceccato, Riccardo Scandariato, <strong>Static Analysis and Penetration Testing from the Perspective of Maintenance Teams</strong>, International Symposium on Empirical Software Engineering and Measurement (ESEM), Ciudad Real, Spain, September 2016</p>
+<p>C50) Mariano Ceccato, Riccardo Scandariato, <strong>Static Analysis and Penetration Testing from the Perspective of Maintenance Teams</strong>, International Symposium on Empirical Software Engineering and Measurement (ESEM), 2016</p>
 
-<p>C49) Aram Hovsepyan, Riccardo Scandariato, Wouter Joosen, <strong>Is Newer Always Better? The Case of Vulnerability Prediction Models</strong>, International Symposium on Empirical Software Engineering and Measurement (ESEM), Ciudad Real, Spain, September 2016</p>
+<p>C49) Aram Hovsepyan, Riccardo Scandariato, Wouter Joosen, <strong>Is Newer Always Better? The Case of Vulnerability Prediction Models</strong>, International Symposium on Empirical Software Engineering and Measurement (ESEM), 2016</p>
 
-<p>C48) Miroslaw Staron, Riccardo Scandariato, <strong>Data veracity in intelligent transportation systems: the slippery road warning scenario</strong>, IEEE Intelligent Vehicles Symposium, Gothenburg, Sweden, June 2016</p>
+<p>C48) Miroslaw Staron, Riccardo Scandariato, <strong>Data veracity in intelligent transportation systems: the slippery road warning scenario</strong>, IEEE Intelligent Vehicles Symposium, 2016</p>
 
-<p>C47) Bashar Nassar, Ali Shahrokni, Riccardo Scandariato, <strong>Traceability Data in Early Development Phases as an Enabler for Decision Support</strong>, International Workshop on Emerging Trends in DevOps and Infrastructure, Edinburgh, UK, May 2016</p>
+<p>C47) Bashar Nassar, Ali Shahrokni, Riccardo Scandariato, <strong>Traceability Data in Early Development Phases as an Enabler for Decision Support</strong>, International Workshop on Emerging Trends in DevOps and Infrastructure, 2016</p>
 
-<p>C46) Rakesh Rana, Miroslaw Staron, Christian Berger, Agneta Nilsson, Riccardo Scandariato, Alexandra Weilenmann, Martin Rydmark, <strong>On the role of cross-disciplinary research and SSE in addressing the challenges of the digitalization of society</strong>, IEEE International Conference on Software Engineering and Service Science (ICSESS), Beijing, China, September 2015</p>
+<p>C46) Rakesh Rana, Miroslaw Staron, Christian Berger, Agneta Nilsson, Riccardo Scandariato, Alexandra Weilenmann, Martin Rydmark, <strong>On the role of cross-disciplinary research and SSE in addressing the challenges of the digitalization of society</strong>, IEEE International Conference on Software Engineering and Service Science (ICSESS), 2015</p>
 
-<p>C45) Phu Nguyen, Koen Yskout, Thomas Heyman, Jacques Klein, Riccardo Scandariato, Yves Le Traon, <strong>SoSPa: A system of Security design Patterns for systematically engineering secure systems</strong>, International Conference on Model Driven Engineering Languages and Systems (MODELS), Ottawa, Canada, September 2015</p>
+<p>C45) Phu Nguyen, Koen Yskout, Thomas Heyman, Jacques Klein, Riccardo Scandariato, Yves Le Traon, <strong>SoSPa: A system of Security design Patterns for systematically engineering secure systems</strong>, International Conference on Model Driven Engineering Languages and Systems (MODELS), 2015</p>
 
-<p>C44) Laurens Sion, Koen Yskout, Alexander van den Berghe, Riccardo Scandariato, Wouter Joosen, <strong>ASC: Modelling Architectural Security Concerns</strong>, International Workshop on Modeling in Software Engineering (MiSE), Florence, Italy, May 2015</p>
+<p>C44) Laurens Sion, Koen Yskout, Alexander van den Berghe, Riccardo Scandariato, Wouter Joosen, <strong>ASC: Modelling Architectural Security Concerns</strong>, International Workshop on Modeling in Software Engineering (MiSE), 2015</p>
 
-<p>C43) Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>Do Security Patterns Really Help Designers?</strong> International Conference on Software Engineering (ICSE), Florence, Italy, May 2015</p>
+<p>C43) Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>Do Security Patterns Really Help Designers?</strong> International Conference on Software Engineering (ICSE), 2015</p>
 
-<p>C42) James Walden, Jeffrey Stuckman, Riccardo Scandariato, <strong>Predicting Vulnerable Components: Software Metrics vs Text Mining</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Naples, Italy, November 2014 <strong style="background-color:powderblue;">[Best Paper Award ISSRE 2014]</strong> and <strong style="background-color:powderblue;">[<a href="https://issre.github.io/2024/test_of_time.html" target="_blank">Test-of-Time Award</a> at ISSRE 2024]</strong></p>
+<p>C42) James Walden, Jeffrey Stuckman, Riccardo Scandariato, <strong>Predicting Vulnerable Components: Software Metrics vs Text Mining</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), 2014 <small style="background-color:powderblue;">[Best Paper Award ISSRE 2014]</small> and <small style="background-color:powderblue;">[<a href="https://issre.github.io/2024/test_of_time.html" target="_blank">Test-of-Time Award</a> at ISSRE 2024]</small></p>
 
-<p>C41) Riccardo Scandariato, James Walden, Wouter Joosen, <strong>Static Analysis Versus Penetration Testing: a Controlled Experiment</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), Pasadena, CA, USA, November 2013</p>
+<p>C41) Riccardo Scandariato, James Walden, Wouter Joosen, <strong>Static Analysis Versus Penetration Testing: a Controlled Experiment</strong>, IEEE International Symposium on Software Reliability Engineering (ISSRE), 2013</p>
 
-<p>C40) Alexander van den Berghe, Riccardo Scandariato, Wouter Joosen, <strong>Towards a Systematic Literature Review on Secure Software Design</strong>, Doctoral Symposium of the International Symposium on Engineering Secure Software and Systems (ESSoS-DS), Paris, France, February 2013</p>
+<p>C40) Alexander van den Berghe, Riccardo Scandariato, Wouter Joosen, <strong>Towards a Systematic Literature Review on Secure Software Design</strong>, Doctoral Symposium of the International Symposium on Engineering Secure Software and Systems (ESSoS-DS), 2013</p>
 
-<p>C39) Riccardo Scandariato, James Walden, <strong>Predicting vulnerable classes in an Android application</strong>, International Workshop on Security Measurements and Metrics (MetriSec), Lund, Sweden, September 2012</p>
+<p>C39) Riccardo Scandariato, James Walden, <strong>Predicting vulnerable classes in an Android application</strong>, International Workshop on Security Measurements and Metrics (MetriSec), 2012</p>
 
-<p>C38) Aram Hovsepyan, Riccardo Scandariato, Wouter Joosen, James Walden, <strong>Software Vulnerability Prediction using Text Analysis Techniques</strong>, International Workshop on Security Measurements and Metrics (MetriSec), Lund, Sweden, September 2012</p>
+<p>C38) Aram Hovsepyan, Riccardo Scandariato, Wouter Joosen, James Walden, <strong>Software Vulnerability Prediction using Text Analysis Techniques</strong>, International Workshop on Security Measurements and Metrics (MetriSec), 2012</p>
 
-<p>C37) Thomas Heyman, Riccardo Scandariato, Wouter Joosen, <strong> Reusable formal models for secure software architectures</strong>, Working IEEE/IFIP Conference on Software Architecture (WICSA), Helsinki, Finland, August 2012</p>
+<p>C37) Thomas Heyman, Riccardo Scandariato, Wouter Joosen, <strong> Reusable formal models for secure software architectures</strong>, Working IEEE/IFIP Conference on Software Architecture (WICSA), 2012</p>
 
-<p>C36) Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>Does Organizing Security Patterns Focus Architectural Choices?</strong>, International Conference on Software Engineering (ICSE), Zurich, Switzerland, June 2012</p>
+<p>C36) Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>Does Organizing Security Patterns Focus Architectural Choices?</strong>, International Conference on Software Engineering (ICSE), 2012</p>
 
-<p>C35) Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Wouter Joosen, Serge Demeyer, <strong>Preserving aspects via automation: a maintainability study</strong>, International Symposium on Empirical Software Engineering and Measurement (ESEM), Banff, Alberta, Canada, September 2011</p>
+<p>C35) Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Wouter Joosen, Serge Demeyer, <strong>Preserving aspects via automation: a maintainability study</strong>, International Symposium on Empirical Software Engineering and Measurement (ESEM), September 2011</p>
 
-<p>C34) Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Yolande Berbers, Serge Demeyer, Wouter Joosen, <strong>Maintainability Studies Investigating Aspect Preservation via Automation: Lessons Learned</strong>, International Workshop onEmpirical Evaluation of Software Composition Techniques (ESCOT), Lancaster, UK, July 2011</p>
+<p>C34) Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Yolande Berbers, Serge Demeyer, Wouter Joosen, <strong>Maintainability Studies Investigating Aspect Preservation via Automation: Lessons Learned</strong>, International Workshop onEmpirical Evaluation of Software Composition Techniques (ESCOT), 2011</p>
 
-<p>C33) Koen Buyens Riccardo Scandariato, Wouter Joosen, <strong>Composition of least privilege analysis results in software architectures</strong>, International Workshop on Software Engineering for Secure Systems (SESS), Honolulu, Hawaii, USA, May 2011</p>
+<p>C33) Koen Buyens Riccardo Scandariato, Wouter Joosen, <strong>Composition of least privilege analysis results in software architectures</strong>, International Workshop on Software Engineering for Secure Systems (SESS), 2011</p>
 
-<p>C32) Koen Yskout, Olivier-Nathanael Ben David, Riccardo Scandariato, Benoit Baudry, <strong>Requirements-driven runtime reconfiguration for security</strong>, International Workshop on Eternal Systems (EternalS), Budapest, Hungary, May 2011</p>
+<p>C32) Koen Yskout, Olivier-Nathanael Ben David, Riccardo Scandariato, Benoit Baudry, <strong>Requirements-driven runtime reconfiguration for security</strong>, International Workshop on Eternal Systems (EternalS), 2011</p>
 
-<p>C31) Thomas Heyman, Koen Yskout, Riccardo Scandariato, Holger Schmidt, Yijun Yu, <strong>The security twin peaks</strong>, International Symposium on Engineering Secure Software and Systems (ESSoS), Madrid, Spain, February 2011</p>
+<p>C31) Thomas Heyman, Koen Yskout, Riccardo Scandariato, Holger Schmidt, Yijun Yu, <strong>The security twin peaks</strong>, International Symposium on Engineering Secure Software and Systems (ESSoS), 2011</p>
 
-<p>C30) Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Yolande Berbers, Serge Demeyer, Wouter Joosen, <strong>An Experimental Design for Evaluating the Maintainability of Aspect-Oriented Models Enhanced with Domain-Specific Constructs</strong>, International Workshop on Aspect-Oriented Modeling (AOM), Oslo, Norway, October 2010</p>
+<p>C30) Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Yolande Berbers, Serge Demeyer, Wouter Joosen, <strong>An Experimental Design for Evaluating the Maintainability of Aspect-Oriented Models Enhanced with Domain-Specific Constructs</strong>, International Workshop on Aspect-Oriented Modeling (AOM), 2010</p>
 
-<p>C29) Riccardo Scandariato, Fabio Massacci, <strong>SecureChange: Security engineering
- for lifelong evolvable systems</strong>, International Symposium On Leveraging 
-Applications of Formal Methods, Verification and Validation (ISOLA), 
-Crete, Greece, October 2010 (invited)</p>
+<p>C29) Riccardo Scandariato, Fabio Massacci, <strong>SecureChange: Security engineering for lifelong evolvable systems (invited)</strong>, International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISOLA), 2010</p>
 
-<p>C28) Riccardo Scandariato, Koen Buyens, Wouter Joosen, <strong>Automated detection of least privilege violations in software architectures</strong>, European Conference on Software Architecture (ECSA), Copenhagen, Denmark, August 2010</p>
+<p>C28) Riccardo Scandariato, Koen Buyens, Wouter Joosen, <strong>Automated detection of least privilege violations in software architectures</strong>, European Conference on Software Architecture (ECSA), 2010</p>
 
-<p>C27) Thomas Heyman, Riccardo Scandariato, Wouter Joosen, <strong>Security in context: Analysis and refinement of software architectures</strong>, Annual IEEE Computer Software and Applications Conference (COMPSAC), Seoul, Republic of Korea, July 2010</p>
+<p>C27) Thomas Heyman, Riccardo Scandariato, Wouter Joosen, <strong>Security in context: Analysis and refinement of software architectures</strong>, Annual IEEE Computer Software and Applications Conference (COMPSAC), 2010</p>
 
-<p>C26) Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Yolande Berbers, Wouter Joosen, <strong>From Aspect-Oriented Models to Aspect-Oriented Code? The Maintenance Perspective</strong>, International Conference on Aspect-Oriented Software Development (AOSD), Rennes, France, March 2010</p>
+<p>C26) Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Yolande Berbers, Wouter Joosen, <strong>From Aspect-Oriented Models to Aspect-Oriented Code? The Maintenance Perspective</strong>, International Conference on Aspect-Oriented Software Development (AOSD), 2010</p>
 
-<p>C25) Koen Buyens, Riccardo Scandariato, Wouter Joosen, <strong>Measuring the interplay of security principles in software architectures</strong>, International Workshop on Security Measurements and Metrics (MetriSec), Lake Buena Vista, Florida, USA, October 2009</p>
+<p>C25) Koen Buyens, Riccardo Scandariato, Wouter Joosen, <strong>Measuring the interplay of security principles in software architectures</strong>, International Workshop on Security Measurements and Metrics (MetriSec), 2009</p>
 
-<p>C24) Kim Wuyts, Riccardo Scandariato, Bart De Decker, Wouter Joosen, <strong> Linking privacy solutions to developer goals</strong>, International Workshop on Secure Software Engineering (SecSE), Fukuoka, Japan, March 2009</p>
+<p>C24) Kim Wuyts, Riccardo Scandariato, Bart De Decker, Wouter Joosen, <strong> Linking privacy solutions to developer goals</strong>, International Workshop on Secure Software Engineering (SecSE), 2009</p>
 
-<p>C23) Thomas Heyman, Riccardo Scandariato, Wouter Joosen, <strong>Risk-driven architectural decomposition</strong>, International Conference on Availability, Reliability and Security (ARES), Fukuoka, Japan, March 2009</p>
+<p>C23) Thomas Heyman, Riccardo Scandariato, Wouter Joosen, <strong>Risk-driven architectural decomposition</strong>, International Conference on Availability, Reliability and Security (ARES), 2009</p>
 
-<p>C22) Mina Deng, Riccardo Scandariato, Danny De Cock, Bart Preneel, Wouter Joosen, <strong>Identity in federated electronic healthcare</strong>, IFIP Wireless Days Conference, Dubai, United Arab Emirates, November 2008</p>
+<p>C22) Mina Deng, Riccardo Scandariato, Danny De Cock, Bart Preneel, Wouter Joosen, <strong>Identity in federated electronic healthcare</strong>, IFIP Wireless Days Conference, 2008</p>
 
-<p>C21) Koen Yskout, Riccardo Scandariato, Bart De Win, Wouter Joosen, <strong>Transforming security requirements into architecture</strong>, Symposium on Requirements Engineering for Information Security (SREIS), Barcelona, Spain, March 2008</p>
+<p>C21) Koen Yskout, Riccardo Scandariato, Bart De Win, Wouter Joosen, <strong>Transforming security requirements into architecture</strong>, Symposium on Requirements Engineering for Information Security (SREIS), 2008</p>
 
-<p>C20) Eryk Kulikowski, Riccardo Scandariato, Wouter Joosen, <strong>Using multi-level security annotations to improve software assurance</strong>, IEEE High Assurance Systems Engineering Symposium (HASE), Nanjing, China, December 2008</p>
+<p>C20) Eryk Kulikowski, Riccardo Scandariato, Wouter Joosen, <strong>Using multi-level security annotations to improve software assurance</strong>, IEEE High Assurance Systems Engineering Symposium (HASE), 2008</p>
 
-<p>C19) Riccardo Scandariato, Yoram Ofek, Paolo Falcarin, Mario Baldi, <strong>Application-oriented trust in distributed computing</strong>, International Conference on Availability, Reliability and Security (ARES), Barcelona, Spain, March 2008</p>
+<p>C19) Riccardo Scandariato, Yoram Ofek, Paolo Falcarin, Mario Baldi, <strong>Application-oriented trust in distributed computing</strong>, International Conference on Availability, Reliability and Security (ARES), 2008</p>
 
-<p>C18) Thomas Heyman, Riccardo Scandariato, Christophe Huygens, Wouter Joosen, <strong>Using security patterns to combine security metrics</strong>, International Workshop on Secure Software Engineering (SecSE), Barcelona, Spain, March 2008</p>
+<p>C18) Thomas Heyman, Riccardo Scandariato, Christophe Huygens, Wouter Joosen, <strong>Using security patterns to combine security metrics</strong>, International Workshop on Secure Software Engineering (SecSE), 2008</p>
 
-<p>C17) Kim Wuyts, Riccardo Scandariato, Geert Claeys, Wouter Joosen, <strong>Hardening XDS-based architectures</strong>, International Conference on Availability, Reliability and Security (ARES), Barcelona, Spain, March 2008</p>
+<p>C17) Kim Wuyts, Riccardo Scandariato, Geert Claeys, Wouter Joosen, <strong>Hardening XDS-based architectures</strong>, International Conference on Availability, Reliability and Security (ARES), 2008</p>
 
-<p>C16) Artsiom Yautsiukhin, Riccardo Scandariato, Thomas Heyman, Fabio Massacci, Wouter Joosen, <strong>Towards a quantitative assessment of security in software architectures</strong>, Nordic Workshop on Secure IT Systems (NordSec), Copenhagen, Denmark, October 2008</p>
+<p>C16) Artsiom Yautsiukhin, Riccardo Scandariato, Thomas Heyman, Fabio Massacci, Wouter Joosen, <strong>Towards a quantitative assessment of security in software architectures</strong>, Nordic Workshop on Secure IT Systems (NordSec), 2008</p>
 
-<p>C15) Koen Buyens, Riccardo Scandariato, Wouter Joosen, <strong>Process activities supporting security principles</strong>, IEEE International Workshop on Security in Software Engineering (IWSSE), Beijing, China, July 2007</p>
+<p>C15) Koen Buyens, Riccardo Scandariato, Wouter Joosen, <strong>Process activities supporting security principles</strong>, IEEE International Workshop on Security in Software Engineering (IWSSE), 2007</p>
 
-<p>C14) Thomas Heyman, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>An analysis of the security patterns landscape</strong>, IEEE Workshop on Software Engineering for Secure Systems (SESS), Minneapolis, MN, USA, May 2007</p>
+<p>C14) Thomas Heyman, Koen Yskout, Riccardo Scandariato, Wouter Joosen, <strong>An analysis of the security patterns landscape</strong>, IEEE Workshop on Software Engineering for Secure Systems (SESS), 2007</p>
 
-<p>C13) Johan Gregoire, Koen Buyens, Bart De Win, Riccardo Scandariato, Wouter Joosen, <strong>On the secure software development process: CLASP and SDL compared</strong>, IEEE Workshop on Software Engineering for Secure Systems (SESS), Minneapolis, MN, USA, May 2007</p>
+<p>C13) Johan Gregoire, Koen Buyens, Bart De Win, Riccardo Scandariato, Wouter Joosen, <strong>On the secure software development process: CLASP and SDL compared</strong>, IEEE Workshop on Software Engineering for Secure Systems (SESS), 2007</p>
 
-<p>C12) Steven Op de beeck, Dimitri Van Landuyt, Johan Gregoire, Riccardo Scandariato, Wouter Joosen, Andrew Jackson, Siobhan Clarke, <strong>Aspectual vs. component-based decomposition: A quantitative study</strong>, First Workshop on Aspects in Architectural Description (AARCH), Vancouver, British Columbia, Canada, March 2007</p>
+<p>C12) Steven Op de beeck, Dimitri Van Landuyt, Johan Gregoire, Riccardo Scandariato, Wouter Joosen, Andrew Jackson, Siobhan Clarke, <strong>Aspectual vs. component-based decomposition: A quantitative study</strong>, First Workshop on Aspects in Architectural Description (AARCH), 2007</p>
 
-<p>C11) Dimitri Van Landuyt, Steven Op de beeck, Johan Gregoire, Riccardo Scandariato, Wouter Joosen, Andrew Jackson, Siobhan Clarke, <strong>Comparing aspect-oriented and component based design: a quantitative study</strong>, First Workshop on Assessment of Aspect-Oriented Technologies (ASAT), Vancouver, British Columbia, Canada, March 2007</p>
+<p>C11) Dimitri Van Landuyt, Steven Op de beeck, Johan Gregoire, Riccardo Scandariato, Wouter Joosen, Andrew Jackson, Siobhan Clarke, <strong>Comparing aspect-oriented and component based design: a quantitative study</strong>, First Workshop on Assessment of Aspect-Oriented Technologies (ASAT), 2007</p>
 
-<p>C10) Riccardo Scandariato, Bart De Win, Wouter Joosen, <strong>Towards a measuring framework for security properties of software</strong>, ACM Workshop on Quality of Protection (QoP), Alexandria, VA, USA, October 2006</p>
+<p>C10) Riccardo Scandariato, Bart De Win, Wouter Joosen, <strong>Towards a measuring framework for security properties of software</strong>, ACM Workshop on Quality of Protection (QoP), 2006</p>
 
-<p>C9) Paolo Falcarin, Riccardo Scandariato, Mario Baldi, <strong>Remote trust with aspect-oriented programming</strong>, IEEE International Conference on Advanced Information Networking and Applications (AINA), Vienna, Austria, April 2006</p>
+<p>C9) Paolo Falcarin, Riccardo Scandariato, Mario Baldi, <strong>Remote trust with aspect-oriented programming</strong>, IEEE International Conference on Advanced Information Networking and Applications (AINA), 2006</p>
 
-<p>C8) Riccardo Scandariato, John C. Knight, <strong>The design and evaluation of a defense system for Internet worms</strong>, IEEE Symposium on Reliable Distributed Systems (SRDS), Florianopolis, Brazil, October 2004</p>
+<p>C8) Riccardo Scandariato, John C. Knight, <strong>The design and evaluation of a defense system for Internet worms</strong>, IEEE Symposium on Reliable Distributed Systems (SRDS), 2004</p>
 
-<p>C7) Riccardo Scandariato, Fulvio Risso, <strong>Advanced VPN support on FreeBSD systems</strong>, European BSD Conference (EuroBSD), Amsterdam, Netherlands, November 2002</p>
+<p>C7) Riccardo Scandariato, Fulvio Risso, <strong>Advanced VPN support on FreeBSD systems</strong>, European BSD Conference (EuroBSD), 2002</p>
 
-<p>C6) Riccardo Scandariato, Patricia Lago, Luigi Ciminiera, <strong>Policy-based control of VPNs</strong>, TINA Workshop, Petaling Jaya, Malaysia, October 2002</p>
+<p>C6) Riccardo Scandariato, Patricia Lago, Luigi Ciminiera, <strong>Policy-based control of VPNs</strong>, TINA Workshop, 2002</p>
 
-<p>C5) Patricia Lago, Riccardo Scandariato, <strong>The gate to virtual communities</strong>, TINA Workshop, Petaling Jaya, Malaysia, October 2002</p>
+<p>C5) Patricia Lago, Riccardo Scandariato, <strong>The gate to virtual communities</strong>, TINA Workshop, 2002</p>
 
-<p>C4) Riccardo Scandariato, Fulvio Risso, Patricia Lago, <strong>LMAP: a protocol to automate the setup of logical networks</strong>, IEEE International Conference on Networks (ICON), Singapore, August 2002</p>
+<p>C4) Riccardo Scandariato, Fulvio Risso, Patricia Lago, <strong>LMAP: a protocol to automate the setup of logical networks</strong>, IEEE International Conference on Networks (ICON), 2002</p>
 
-<p>C3) Riccardo Scandariato, Patricia Lago, <strong>An architecture for dynamic provisioning of virtual networks</strong>, ACIS International Conference on Software Engineering, Artificial Intelligence, Networking, and Parallel/Distributed Computing (SNPD), Madrid, Spain, June 2002</p>
+<p>C3) Riccardo Scandariato, Patricia Lago, <strong>An architecture for dynamic provisioning of virtual networks</strong>, ACIS International Conference on Software Engineering, Artificial Intelligence, Networking, and Parallel/Distributed Computing (SNPD), 2002</p>
 
-<p>C2) Patricia Lago, Riccardo Scandariato, Maurizio Morisio, <strong>An approach to evolution control in component-based software product lines</strong>, ACM Workshop on Software Product Line, Orlando, FL, May 2002</p>
+<p>C2) Patricia Lago, Riccardo Scandariato, Maurizio Morisio, <strong>An approach to evolution control in component-based software product lines</strong>, ACM Workshop on Software Product Line, 2002</p>
 
-<p>C1) Patricia Lago, Riccardo Scandariato, <strong>A TINA-based solution for dynamic VPN provisioning on heterogeneous networks</strong>, IEEE Telecommunications Information Networking Architecture Conference (TINA), Paris, France, September 2000</p>
+<p>C1) Patricia Lago, Riccardo Scandariato, <strong>A TINA-based solution for dynamic VPN provisioning on heterogeneous networks</strong>, IEEE Telecommunications Information Networking Architecture Conference (TINA), 2000</p>
 
 
 <h2>Book chapters</h2>
