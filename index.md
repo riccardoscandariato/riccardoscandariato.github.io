@@ -73,7 +73,6 @@ My core research topics are:</p>
 <li><strong>Cuong Bui Quang</strong>, PhD student working on automated vulnerability repair techniques for Java</li>
 <li><strong>Luca Morelli</strong>, PhD student working on GenAI for secure software</li>
 <li><strong>Noah Frontzkowski</strong>, PhD student working on data-driven vulnerability repair</li>
-<li><strong>Simon Schneider</strong>, PhD student working on lightweight techniques to localize and analyze security features in microservice applications</li>
 <li><strong>Torge Hinrichs</strong>, PhD student working on predicting and localizing software vulnerabilities via machine learning</li>
 </ul>
 
@@ -91,7 +90,8 @@ My core research topics are:</p>
 <p>In the past, I worked with these very bright individuals:</p>
 
 <ul>
-<li><a href="https://orcid.org/0000-0002-3446-1265" target="_blank">Dr. Mazen Mohamad</a>, graduated in June 2023 (University of Gothenburg, co-supervisor) with a PhD thesis titled <strong>Understanding, Implementing, and Supporting Security Assurance Cases in Safety-Critical Domains</strong></li>
+<li><a href="https://scholar.google.com/citations?user=5kAe62IAAAAJ" target="_blank">Dr. Simon Schneider</a>, graduated in July 2026 (Hamburg University of Technology) with a PhD thesis titled <strong>Automated security analysis and architecture reconstruction of microservice applications</strong></li>
+<li><a href="https://scholar.google.com/citations?user=UsHTVwkAAAAJ" target="_blank">Dr. Mazen Mohamad</a>, graduated in June 2023 (University of Gothenburg, co-supervisor) with a PhD thesis titled <strong>Understanding, Implementing, and Supporting Security Assurance Cases in Safety-Critical Domains</strong></li>
 <li>Mrs. Komal Kashish, collaboration on <strong>security of IoT edge frameworks</strong> in 2021-2022</li>
 <li>Mrs. Anusha Bambhore Tukaram, collaboration on <strong>security of microservice applications</strong> in 2021-2022</li>
 <li><a href="https://katjatuma.github.io" target="_blank">Prof. Dr. Katja Tuma</a>, graduated in January 2021 (University of Gothenburg) with a PhD thesis titled <strong>Efficiency and Automation in Threat Analysis of Software Systems</strong></li>
