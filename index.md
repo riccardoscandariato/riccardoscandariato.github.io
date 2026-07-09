@@ -76,15 +76,6 @@ My core research topics are:</p>
 <li><strong>Torge Hinrichs</strong>, PhD student working on predicting and localizing software vulnerabilities via machine learning</li>
 </ul>
 
-<!--
-<p>I also co-advise the following students:</p>
-
-<ul>
-<li><strong>Pierre-Jean Quéval</strong>, PhD student at the University of Vienna, under the supervision of <a href="https://swa.cs.univie.ac.at/team/person/38685/" target="_blank">Prof. Uwe Zdun</a></li>
-<li><strong>Max Neuendorf</strong>, PhD fast-track student at the University of Hamburg, under the supervision of <a href="https://www.inf.uni-hamburg.de/en/inst/ab/net/team/fischer.html" target="_blank">Prof. Mathias Fisher</a></li>
-</ul>
--->
-
 <h2>Alumni</h2>
 
 <p>In the past, I worked with these very bright individuals:</p>
@@ -92,8 +83,8 @@ My core research topics are:</p>
 <ul>
 <li><a href="https://scholar.google.com/citations?user=5kAe62IAAAAJ" target="_blank">Dr. Simon Schneider</a>, graduated in July 2026 (Hamburg University of Technology) with a PhD thesis titled <strong>Automated security analysis and architecture reconstruction of microservice applications</strong></li>
 <li><a href="https://scholar.google.com/citations?user=UsHTVwkAAAAJ" target="_blank">Dr. Mazen Mohamad</a>, graduated in June 2023 (University of Gothenburg, co-supervisor) with a PhD thesis titled <strong>Understanding, Implementing, and Supporting Security Assurance Cases in Safety-Critical Domains</strong></li>
-<li>Mrs. Komal Kashish, collaboration on <strong>security of IoT edge frameworks</strong> in 2021-2022</li>
-<li>Mrs. Anusha Bambhore Tukaram, collaboration on <strong>security of microservice applications</strong> in 2021-2022</li>
+<!-- li>Mrs. Komal Kashish, collaboration on <strong>security of IoT edge frameworks</strong> in 2021-2022</li -->
+<!-- li>Mrs. Anusha Bambhore Tukaram, collaboration on <strong>security of microservice applications</strong> in 2021-2022</li -->
 <li><a href="https://katjatuma.github.io" target="_blank">Prof. Dr. Katja Tuma</a>, graduated in January 2021 (University of Gothenburg) with a PhD thesis titled <strong>Efficiency and Automation in Threat Analysis of Software Systems</strong></li>
 <li><a href="http://www.rodijolak.com" target="_blank">Dr. Rodi Jolak</a>, PostDoc (University of Gothenburg) working on resilience of automotive systems in 2020-2021</li>
 <li><a href="https://research.chalmers.se/publication/525467" target="_blank">Dr. Tomasz Kosinski</a>, graduated in September 2021 (University of Gothenburg, co-supervisor) with a PhD thesis titled <strong>Privacy expectations and challenges of smart home ecosystems</strong></li>
@@ -103,8 +94,3 @@ My core research topics are:</p>
 <li><a href="https://scholar.google.com/citations?user=xxSyH2UAAAAJ&hl=en" target="_blank">Prof. Dr. Koen Yskout</a>, graduated in April 2013 (KU Leuven) with a PhD thesis titled <strong>Connecting security requirements and software architecture with patterns</strong></li>
 <li><a href="https://scholar.google.com/citations?user=QhaG3XEAAAAJ&hl=en" target="_blank">Dr. Koen Buyens</a>, graduated in January 2012 (KU Leuven, co-supervisor) with a PhD thesis titled <strong>Analyzing software architectures for least privilege violations</strong></li>
 </ul>
-
-<!--
-<hr>
-<p id="section1" class="footnote"><sup>1</sup> W3 position, if you are familiar with the German academic system.</p>
--->
