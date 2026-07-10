@@ -77,6 +77,8 @@ title: Publications
 
 <h2>Conference and workshop papers</h2>
 
+<p>C103) Nicolas Diaz Ferreyra, Manish Mahesh Kumar, Nohemi Villarreal, Pankaj Pantel, Immo Brueggemann, Riccardo Scandariato, <strong>Emerging Challenges in Threat Modeling for GenAI-Augmented Systems: A View from the Trenches</strong>, International Symposium on Empirical Software Engineering and Measurement - Emerging Results, Vision, and Reflection Papers Track (ESEM), 2026</p>
+
 <p>C102) Torge Hinrichs, Emanuele Iannone, Riccardo Scandariato, <strong>VULTRITION: Nutrition Labels for Vulnerability Datasets</strong>, International Conference on Software Maintenance and Evolution (ICSME), 2026</p>
 
 <p>C101) Matteo Cicalese, Antonio Della Porta, Stefano Lambiase, Emanuele Iannone, Torge Hinrichs, Riccardo Scandariato, Fabio Palomba, <strong>The Language of Security: How Prompt Syntax Shapes Secure Code Generation in Open LLMs</strong>, International Conference on Software Maintenance and Evolution (ICSME), 2026</p>
