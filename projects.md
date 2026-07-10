@@ -28,6 +28,12 @@ German Research Foundation (DFG): Initiation of international collaboration.
 German Research Foundation (DFG): Individual Research Grant.
 </blockquote>
 
+<h3>SToCC: Security Testing of Code Components (as partner, PI: Dr. Emanuele Iannone)</h3>
+<h4 class="subtitle">2026-2028</h4>
+<blockquote>
+German Research Foundation (DFG): Individual Research Grant.
+</blockquote>
+
 <br/>
 
 <h1>Recently archived projects</h1>
