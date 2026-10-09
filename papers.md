@@ -8,9 +8,9 @@ title: Publications
 
 <p>J34) Catherine Tony, Maura Pintor, Max Kretschmann, Riccardo Scandariato, <strong>Discrete Prompt Optimization Using Genetic Algorithm for Secure Python Code Generation</strong>, Journal of Systems and Software, Elsevier, Volume 232, 2026</p>
 
-<p>J33) Simon Schneider, Pierre-Jean Queval, Akos Milankovich, Nicolas Diaz Ferreyra, Uwe Zdun, Riccardo Scandariato <strong>Automatic Rule Checking for Microservices: Supporting Security Analysis with Explainability</strong>, ACM Transactions on Software Engineering and Methodology, To appear</p>
+<p>J33) Simon Schneider, Pierre-Jean Queval, Akos Milankovich, Nicolas Diaz Ferreyra, Uwe Zdun, Riccardo Scandariato <strong>Automatic Rule Checking for Microservices: Supporting Security Analysis with Explainability</strong>, ACM Transactions on Software Engineering and Methodology, 35(8), 2026</p>
 
-<p>J32) Torge Hinrichs, Emanuele Iannone, Tamas Aladics, Peter Hegedus, Andrea De Lucia, Fabio Palomba, Riccardo Scandariato, <strong>Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits</strong>, ACM Transactions on Software Engineering and Methodology, To appear <small style="color:gray;">[also presented as Journal First at the International Conference on Software and Systems Reuse, Product Lines, and Configuration, VARIABILITY 2026]</small></p>
+<p>J32) Torge Hinrichs, Emanuele Iannone, Tamas Aladics, Peter Hegedus, Andrea De Lucia, Fabio Palomba, Riccardo Scandariato, <strong>Back to the Roots: Assessing Mining Techniques for Java Vulnerability-Contributing Commits</strong>, ACM Transactions on Software Engineering and Methodology, 35(8), 2026 <small style="color:gray;">[also presented as Journal First at the International Conference on Software and Systems Reuse, Product Lines, and Configuration, VARIABILITY 2026]</small></p>
 
 <p>J31) Torge Hinrichs, Emanuele Iannone, Riccardo Scandariato, <strong>Beyond Prompting: The Role of Phrasing Tasks in Vulnerability Prediction for Java</strong>, Cybersecurity, 8(111), 2025</p>
 
