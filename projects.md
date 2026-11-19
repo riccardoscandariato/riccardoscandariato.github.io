@@ -4,12 +4,6 @@ layout: default
 title: Active projects
 ---
 
-<h3><a href="https://sec4ai4sec.eu" target="_blank">Sec4AI4Sec: Cybersecurity for AI-Augmented Systems</a></h3>
-<h4 class="subtitle">Oct 2023 &ndash; Sept 2026</h4>
-<blockquote>
-Research and Innovation Action (EU) under the Horizon Europe framework.
-</blockquote>
-
 <h3>DeVulnIX: Design-Level Vulnerabilities Identification and Fixing (as PI)</h3>
 <h4 class="subtitle">2026-2028</h4>
 <blockquote>
@@ -36,7 +30,13 @@ German Research Foundation (DFG): Individual Research Grant.
 
 <br/>
 
-<h1>Recently archived projects</h1>
+<h1>Archived projects</h1>
+
+<h3><a href="https://sec4ai4sec.eu" target="_blank">Sec4AI4Sec: Cybersecurity for AI-Augmented Systems</a></h3>
+<h4 class="subtitle">Oct 2023 &ndash; Sept 2026</h4>
+<blockquote>
+Research and Innovation Action (EU) under the Horizon Europe framework.
+</blockquote>
 
 <h3>KiThreat: Threat and Risk Assessment Methods for GenAI-Based Software</h3>
 <h4 class="subtitle">2025</h4>
